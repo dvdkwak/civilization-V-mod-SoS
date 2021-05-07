@@ -78,7 +78,7 @@
 		</Row>
 	</UnitGameplay2DScripts>
 
-	<!-- <UnitPromotions_UnitCombats>
+	<UnitPromotions_UnitCombats>
 		<Row>
 			<PromotionType>PROMOTION_FURY_I</PromotionType>
 			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
@@ -139,8 +139,8 @@
 			<IconAtlas>ABILITY_ATLAS</IconAtlas>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>Unit gains +10% [ICON_STRENGTH] Combat Strength.</PediaEntry>
-			<Defense>10</Defense>
-			<Attack>10</Attack>
+			<!--<Defense>10</Defense>
+			<Attack>10</Attack>-->
 		</Row>
 		<Row>
 			<Type>PROMOTION_FURY_II</Type>
@@ -152,10 +152,10 @@
 			<IconAtlas>ABILITY_ATLAS</IconAtlas>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>Unit gains +20% [ICON_STRENGTH] Combat Strength.</PediaEntry>
-			<Defense>20</Defense>
-			<Attack>20</Attack>
+			<!--<Defense>20</Defense>
+			<Attack>20</Attack>-->
 		</Row>
-	</UnitPromotions> -->
+	</UnitPromotions>
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_UNIT_STORMLANDSPLACEHOLDER1">
