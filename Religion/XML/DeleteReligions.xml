@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by King Augurk B.V. on 10/15/2012 7:45:17 PM -->
+<GameData>
+	<Religions>
+		<Delete type="RELIGION_BUDDHISM"/>
+		<Delete type="RELIGION_CHRISTIANITY"/>
+		<Delete type="RELIGION_CONFUCIANISM"/>
+		<Delete type="RELIGION_HINDUISM"/>
+		<Delete type="RELIGION_ISLAM"/>
+		<Delete type="RELIGION_JUDAISM"/>
+		<Delete type="RELIGION_SHINTO"/>
+		<Delete type="RELIGION_SIKHISM"/>
+		<Delete type="RELIGION_TAOISM"/>
+		<Delete type="RELIGION_TENGRIISM"/>
+		<Delete type="RELIGION_ZOROASTRIANISM"/>
+		<Delete type="RELIGION_ORTHODOXY"/>
+		<Delete type="RELIGION_PROTESTANTISM"/>
+	</Religions>
+</GameData>

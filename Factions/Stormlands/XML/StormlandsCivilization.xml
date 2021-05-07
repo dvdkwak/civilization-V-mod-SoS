@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_STORMLANDS</Type>
+			<Description>TXT_KEY_CIV_STORMLANDS_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_STORMLANDS</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_STORMLANDS_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_STORMLANDS_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_STORMLANDS</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_STORMLANDS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>STORMLANDS_ATLAS</IconAtlas>
+			<AlphaIconAtlas>STORMLANDS_ALPHA</AlphaIconAtlas>
+			<MapImage>StormlandsMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_STORMLANDS_TEXT</DawnOfManQuote>
+			<DawnOfManImage>StormlandsDom.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_RENLY_BARATHEON</DawnOfManAudio>
+			<SoundtrackTag>GERMANY</SoundtrackTag>
+		</Row>
+	</Civilizations>
+
+	<!-- Civilization_BuildingClassOverrides -->
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_32</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_33</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_34</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMLANDS_35</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<LeaderheadType>LEADER_RENLY_BARATHEON</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<ReligionType>RELIGION_SEVEN</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_9</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_STORMLANDS_10</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
+			<UnitType>UNIT_STORMLANDSPLACEHOLDER1</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<StartAlongOcean>1</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+	<!-- Civilization_Start_Along_River -->
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+			<RegionType>REGION_FOREST</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<!-- Civilization_Start_Region_Avoid -->
+	<!-- Civilization_Start_Place_First_Along_Ocean -->
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_STORMLANDS</Type>
+			<PrimaryColor>COLOR_PLAYER_STORMLANDS_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_STORMLANDS_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_STORMLANDS_ICON</Type>
+			<Red>0.073</Red>
+			<Green>0.073</Green>
+			<Blue>0.073</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_STORMLANDS_BACKGROUND</Type>
+			<Red>0.999</Red>
+			<Green>0.737</Green>
+			<Blue>0.001</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_STORMLANDS_DESC">
+			<Text>House Baratheon of Storm's End</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_FACTOID_TEXT">
+			<Text>
+				The Stormlands has been an island for hundreds of years, until the Dutch government decided to reclaim lands around it, now called the North-East Polder.[NEWLINE][NEWLINE]The The Stormlandser dialect is still very much alive and develops seperately from the Dutch language.[NEWLINE][NEWLINE]The Stormlands as a municipality yearly has the highest donations for charity in The Netherlands.[NEWLINE][NEWLINE]Due to isolation for hundreds of years and inbreeding, there is an inheritable illness called the Ziekte van Van Buchem. There are 35 people who are known to carry the disease.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_HEADING_3">
+			<Text>The The Stormlandser Language</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_HEADING_4">
+			<Text>Folklore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_HEADING_5">
+			<Text>Religion and Politics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_HEADING_6">
+			<Text>Conquest of the North-East Polder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_TEXT_1">
+			<Text>
+				The Stormlands is first mentioned in historical records dating to the 10th century, when it was still an island in Lake IJssel, a lake that would become part of the Zuiderzee in the 13th century after a series of incursions by the North Sea. In 1939, a dike from the mainland to The Stormlands ended the town's island status, just as the Afsluitdijk project was changing the salt water Zuiderzee surrounding The Stormlands to the less saline Lake IJssel. Later in the 20th century, seabed areas surrounding The Stormlands were reclaimed from the sea and became the North-East Polder.[NEWLINE][NEWLINE]The mainstay of the town's economy has always been fishing, and the products of the sea coming in through The Stormlands's harbour continue to be exported widely, although today The Stormlands's fishing boats must travel greater distances to gather them than was required in most historical periods. Religious life has also traditionally been very important to The Stormlands's inhabitants, with active, conservative congregations of the Dutch Reformed denominations playing key roles in the life of the community.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_TEXT_2">
+			<Text>
+				Around Lake IJssel is an arc of boulder clay high areas of land, which formed during the Ice Age glaciations of the Pleistocene epoch: Texel, Wieringen, The Stormlands, de Voorst, and Gaasterland. To south of that arc, as a result of meltwater, a lake formed, which became known as Almere. North of the boulder clay highland of The Stormlands, the Vecht river flowed into the Almere, while the river IJssel with tributaries flowed into the south of The Stormlands. As the climate became warmer during the Middle Ages, the sea level rose; and since the Ice Age ended the Netherlands and around have been slowly steadily sinking because of forebulge effect. During the 13th century (and especially after a large storm in 1282) the Zuiderzee formed, and the water round The Stormlands suddenly became tidal sea. Because there was no sea defence, in the course of time large pieces of the island were eroded away. The southwest side of The Stormlands, which rose perpendicularly out of the sea, was called de Bult (the Hump). Around 1700 the municipality of Amsterdam gave sea defences to The Stormlands. The town contains the highest point in the province of Flevoland.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_TEXT_3">
+			<Text>
+				One of the oldest and most distinctive dialects of Dutch is the language spoken in The Stormlands. Nearly everyone in the village speaks this dialect and uses it in daily life. The dialect deviates considerably from contemporary standard Dutch and has preserved many old characteristics that disappeared from standard Dutch a long time ago. The The Stormlandser dialect also includes elements that are older than standard Dutch and were never part of the standard language. For example, the old word for "father" in the The Stormlandser dialect is taote. The dialect developed this way because until World War II, The Stormlands was an island and could only be reached by boat. Radio was unknown, and the poor population didn't have much money for newspapers and books. Until the modern era, primary education for the children typically lasted only two years; afterwards, children had to help maintain the family and formal schooling ended.[NEWLINE][NEWLINE]Recent linguistic classifications have assigned the The Stormlands dialect to the "The Stormlandsers dialect family", of which it is the only member.[NEWLINE][NEWLINE]The The Stormlandser dialect has more vowel sounds than standard Dutch and each vowel has short and long forms. The pronunciation of vowels deviates from standard Dutch and is closer to English.[NEWLINE][NEWLINE]Because living conditions in The Stormlands in historical times were very poor, young girls (typically about age 11 or 12) would frequently leave the island to become domestic servants, mostly in or around Amsterdam. They often served with Jewish families. After a few years, they would return to The Stormlands to form families of their own. As a result of this practice, the The Stormlandser dialect absorbed some loanwords from the Amsterdam dialect and also from Yiddish. For instance, the Yiddish "Shnur" for "sister-in-law" became the The Stormlandser "Snaor" (identical meaning); the Hebrew "Kallah" (כלה) for "bride" became the The Stormlandser "Kalletjen", meaning "girlfriend" (literally "little bride").[NEWLINE][NEWLINE]When Napoleon occupied the Netherlands, many French words were incorporated into both standard Dutch and The Stormlandser. Just as for standard Dutch, French words often changed form when incorporated into The Stormlandser. The The Stormlandser dialect has always been primarily a spoken language, and there are not many old texts written in the dialect. Only in recent years have people begun to write prose and poetry in the The Stormlandser dialect. There are The Stormlandsers who have translated Bible books into The Stormlandsers, such as the book of Psalms.[NEWLINE][NEWLINE]Currently, The Stormlands is no longer an island, and exposure to the standard Dutch through the media is widespread. However, the distinctive The Stormlandser dialect is still alive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_TEXT_4">
+			<Text>
+				A famous The Stormlandser folktale is the story parents tell their children when they want to know where the babies come from. The tale involves a large exposed rock which can be seen in the IJsselmeer about 30 metres (98 feet) from the shore. This stone is known as the "Ommelebommelestien".[NEWLINE][NEWLINE]The Stormlandsers often tell their children that there are two kinds of people: vreemden (strangers) and The Stormlandsers (people from The Stormlands). Strangers are usually born from a cabbage, or a stork brings them to their new parents, but The Stormlandsers come from a large stone which lies about 30 metres (98 feet) from the shores of their former island. Nowadays, the stone is usually called "Ommelebommelestien" (Ommel-Bommel Stone), but in former times it was called "Ommelmoerstien": moers means "mother's" in the The Stormlandser dialect.[NEWLINE][NEWLINE]In the tale, a stork comes all the way from Egypt to put babies in the stone. When the baby is about to be born, the baby's father is said to have to go to Schokland to pick up the key that gives access to the stone. So when an The Stormlandser man is asked if he has been to Schokland, he is actually being asked if he has children.[NEWLINE][NEWLINE]In the older days, when both The Stormlands and Schokland were still islands in the Zuiderzee, the father had to take the obstetrician in his boat and row from The Stormlands to Schokland to get the key, and then from Schokland to the Ommelebommelestien to get the baby. Nowadays he would be able to go to Schokland by car, but according to the legend he still has to row. The door to the stone is somewhere below sea level, so it is difficult to find.[NEWLINE][NEWLINE]Once the door was found, a small price had to be paid for the baby: traditionally one Dutch guilder for a girl but two for a boy.[NEWLINE][NEWLINE]The mother was said to be kept in bed with a nail through her right foot. There she would celebrate that she had just become a mother.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_TEXT_5">
+			<Text>
+				The Stormlands is one of the most politically conservative areas in the Netherlands. As part of the so-called Dutch "Bible belt", a vast majority of election votes go to the three Christian parties in the Netherlands, SGP, ChristenUnie and CDA. The Stormlands is also known for its high turnout at each election, which is usually considerably higher than the national average (although general turnout percentages have dropped approx. 10% since 2002).[NEWLINE][NEWLINE]Voting patterns used to be relatively stable, with approximately 85-90% of the votes spread out evenly over SGP, ChristenUnie and CDA (each between 25-35%). CDA in The Stormlands usually got more votes in national elections than in local elections, while ChristenUnie's support is sometimes twice locally compared to what it receives from The Stormlands voters in national elections (this is sometimes attributed to the apparent left-wing leanings of the ChristenUnie nationally, while ChristenUnie in The Stormlands tends to be more conservative). SGP's support locally is not much different from its support in national elections.[NEWLINE][NEWLINE]However, in recent years a few changes in voting patterns occurred, such as a growing support for national protest parties such as the LPF or Geert Wilders' PVV Freedom Party. Also, voting patterns these days tend to show bigger swings, as shown in 2010's and 2012's national elections in which CDA lost 11% and 13% respectively, and in 2011's regional elections, in which ChristenUnie lost 18%. In 2012, orthodox-Christian SGP even registered an absolute majority with 51.2% of the vote. (In the European Elections of 2014, the combined ChristenUnie/SGP list even registered 78% of the vote).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_TEXT_6">
+			<Text>
+				Yet to happen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_STORMLANDS_TITLE">
+			<Text>Kingdom of The Stormlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_STORMLANDS_SHORT_DESC">
+			<Text>The Stormlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_STORMLANDS_ADJECTIVE">
+			<Text>Stormlander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_STORMLANDS_TEXT">
+			<Text>May the Lord's Blessing be upon you, oh noble leader Renly Baratheon. You rule the former isle of The Stormlands, ground to a long history. In contrast to the new neighbouring lands raised from the sea, your home has been fighting the storms for at least a thousand years. The The Stormlandsers are a hard-working and hospitable people, proud and pious with a distinctive culture and a strong fishing economy. Their language is unique and despite all expectations, it continues to grow and develop separately from its surroundings as we speak. You take your inspiration from Winston Churchill, whose legendary words are "Let's go!",  a saying that labels the endless efforts you made to bring your people prosperity and hope for the future.[NEWLINE][NEWLINE]Oh, legendary hero, the people of The Stormlands seek your wisdom once more. Will you preserve their honour and dignity? Will you guide the The Stormlandsers in their journey to everlasting glory? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_STORMLANDS_POLICY_FAITH">
+			<Text>Adopting a Social Policy has granted you [COLOR_CYAN]{1_iFaith} [ICON_PEACE] Faith[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_0">
+			<Text>Storm's End</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_1">
+			<Text>The Weeping Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_2">
+			<Text>Evenfall Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_3">
+			<Text>Griffin's Roost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_4">
+			<Text>Stonehelm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_5">
+			<Text>Blackhaven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_6">
+			<Text>Harvest Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_7">
+			<Text>Bronzegate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_8">
+			<Text>Nightsong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_9">
+			<Text>Crow's Nest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_10">
+			<Text>Mistwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_11">
+			<Text>Greenstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_12">
+			<Text>Haystack Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_13">
+			<Text>Amberly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_14">
+			<Text>Gallowsgrey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_15">
+			<Text>Fawnton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_16">
+			<Text>Rain House</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_17">
+			<Text>Broad Arch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_18">
+			<Text>Felwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_19">
+			<Text>Grandview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_20">
+			<Text>Morne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_21">
+			<Text>Parchments</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_22">
+			<Text>Poddingfield</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_23">
+			<Text>Durran's Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_24">
+			<Text>Hadlow Keep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_25">
+			<Text>Howling Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_26">
+			<Text>Red Watch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_27">
+			<Text>Wrathrock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_28">
+			<Text>Galemont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_29">
+			<Text>Blue Grove</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_30">
+			<Text>Lockport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_31">
+			<Text>Lonmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_32">
+			<Text>Sapphire Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_33">
+			<Text>Adderdell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_34">
+			<Text>Drakesgrave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMLANDS_35">
+			<Text>Hamming Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_0">
+			<Text>Jon Connington</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_1">
+			<Text>Brienne of Tarth</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_2">
+			<Text>Ser Robar Royce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_3">
+			<Text>Lord Bryce Caron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_4">
+			<Text>Ser Emmon Cuy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_5">
+			<Text>Ser Guyard Morrigen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_6">
+			<Text>Ser Parmen Crane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_7">
+			<Text>Ser Loras Tyrell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_8">
+			<Text>Rolland Storm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_9">
+			<Text>Ser Goodwin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_STORMLANDS_10">
+			<Text>Roelle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

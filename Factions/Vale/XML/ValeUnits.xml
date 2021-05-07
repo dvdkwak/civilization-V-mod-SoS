@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Units>
+		<Row>
+			<Type>UNIT_VALEPLACEHOLDER1</Type>
+			<Description>TXT_KEY_UNIT_VALEPLACEHOLDER1</Description>
+			<Civilopedia>TXT_KEY_CIV5_VALEPLACEHOLDER1_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_VALEPLACEHOLDER1_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_VALEPLACEHOLDER1</Help>
+			<Cost>80</Cost>
+			<Moves>4</Moves>
+			<Class>UNITCLASS_WORKBOAT</Class>
+			<Domain>DOMAIN_SEA</Domain>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
+			<DefaultUnitAI>UNITAI_WORKER_SEA</DefaultUnitAI>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<PrereqResources>true</PrereqResources>
+			<Mechanized>true</Mechanized>
+			<PrereqTech>TECH_SAILING</PrereqTech>
+			<AdvancedStartCost>10</AdvancedStartCost>
+			<WorkRate>100</WorkRate>
+			<UnitArtInfo>ART_DEF_UNIT_WORKBOAT</UnitArtInfo>
+			<UnitArtInfoEraVariation>1</UnitArtInfoEraVariation>
+			<MoveRate>WOODEN_BOAT</MoveRate>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>VALE_ATLAS</IconAtlas>
+			<UnitFlagAtlas>VALE_VALEPLACEHOLDER1_FLAG</UnitFlagAtlas>
+		</Row>
+	</Units>
+	<!-- Unit_AITypes -->
+	<!-- Unit_Buildings -->
+	<!-- Unit_BuildingClassRequireds -->
+	<!-- Unit_ProductionModifierBuildings -->
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_VALEPLACEHOLDER1</UnitType>
+			<BuildType>BUILD_FISHING_BOATS</BuildType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_VALEPLACEHOLDER1</UnitType>
+			<BuildType>BUILD_OFFSHORE_PLATFORM</BuildType>
+		</Row>
+	</Unit_Builds>
+	<!-- Unit_ClassUpgrades -->
+	<!-- Unit_FreePromotions -->
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_VALEPLACEHOLDER1</UnitType>
+			<FlavorType>FLAVOR_FOOD</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_VALEPLACEHOLDER1</UnitType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_VALEPLACEHOLDER1</UnitType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<!-- Unit_GreatPersons -->
+	<!-- Unit_ResourceQuantityRequirements -->
+	<!-- Unit_UniqueNames -->
+	<!-- Unit_YieldFromKills -->
+	<!-- Unit_NotAITypes -->
+	<!-- Unit_ProductionTraits -->
+	<!-- Unit_TechTypes -->
+	<!-- UnitPromotions_CivilianUnitType -->
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_VALEPLACEHOLDER1</UnitType>
+			<SelectionSound>AS2D_SELECT_TRIREME</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_TRIREME</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_VALEPLACEHOLDER1">
+			<Text>ValePlaceholder1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALEPLACEHOLDER1_TEXT">
+			<Text>
+				The botter is an old Vale type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]ValePlaceholder1s mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the Sky Cell was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Vale fish is the country of Italy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_VALEPLACEHOLDER1_STRATEGY">
+			<Text>The ValePlaceholder1 is the Vale unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game Sky Cell, providing additional [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_VALEPLACEHOLDER1">
+			<Text>Replaces the Work Boat. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the Vales may build this unit.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

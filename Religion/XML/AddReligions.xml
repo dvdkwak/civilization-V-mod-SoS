@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by King Augurk B.V. on 4/30/2021 12:13:43 AM -->
+<GameData>
+	<Religions>
+		<Row>
+			<Type>RELIGION_OLD_GODS</Type>
+			<Description>TXT_KEY_RELIGION_OLD_GODS</Description>
+			<Civilopedia>TXT_KEY_RELIGION_OLD_GODS_PEDIA</Civilopedia>
+			<IconAtlas>RELIGION_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<IconString>[ICON_RELIGION_OLD_GODS]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_SEVEN</Type>
+			<Description>TXT_KEY_RELIGION_SEVEN</Description>
+			<Civilopedia>TXT_KEY_RELIGION_SEVEN_PEDIA</Civilopedia>
+			<IconAtlas>RELIGION_ATLAS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<IconString>[ICON_RELIGION_SEVEN]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_RHLLOR</Type>
+			<Description>TXT_KEY_RELIGION_RHLLOR</Description>
+			<Civilopedia>TXT_KEY_RELIGION_RHLLOR_PEDIA</Civilopedia>
+			<IconAtlas>RELIGION_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<IconString>[ICON_RELIGION_RHLLOR]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_GREAT_STALLION</Type>
+			<Description>TXT_KEY_RELIGION_GREAT_STALLION</Description>
+			<Civilopedia>TXT_KEY_RELIGION_GREAT_STALLION_PEDIA</Civilopedia>
+			<IconAtlas>RELIGION_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<IconString>[ICON_RELIGION_GREAT_STALLION]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_DROWNED_GOD</Type>
+			<Description>TXT_KEY_RELIGION_DROWNED_GOD</Description>
+			<Civilopedia>TXT_KEY_RELIGION_DROWNED_GOD_PEDIA</Civilopedia>
+			<IconAtlas>RELIGION_ATLAS</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
+			<IconString>[ICON_RELIGION_DROWNED_GOD]</IconString>
+		</Row>
+		<Row>
+			<Type>RELIGION_MANY_FACED</Type>
+			<Description>TXT_KEY_RELIGION_MANY_FACED</Description>
+			<Civilopedia>TXT_KEY_RELIGION_MANY_FACED_PEDIA</Civilopedia>
+			<IconAtlas>RELIGION_ATLAS</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+			<IconString>[ICON_RELIGION_MANY_FACED]</IconString>
+		</Row>
+	</Religions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RELIGION_OLD_GODS">
+			<Text>The Old Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_OLD_GODS_PEDIA">
+			<Text>The Old Gods of the children of the forest, are nameless deities of stone and earth and tree, which were named so by the followers of the Seven ("New Gods") that replaced them in all but North of Westeros, where it's still practiced strongly by Northmen, Crannogmen and Free Folk from Beyond the wall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SEVEN">
+			<Text>Faith of the Seven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_SEVEN_PEDIA">
+			<Text>The Faith of the Seven is the dominant religion of the Seven Kingdoms, and is often simply referred to as "the Faith". The only parts of Westeros where the Faith is not widespread are the North and the Iron Islands, where the practice of the Old Gods and of the Drowned God respectively are still strong.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_RHLLOR">
+			<Text>R'hllor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_RHLLOR_PEDIA">
+			<Text>R'hllor, also known as the Lord of Light, the Heart of Fire, the God of Flame and Shadow, is a prominent god on Essos, but has only a few followers in Westeros, where he is more commonly known as the Red God. His symbol is a fiery heart.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_GREAT_STALLION">
+			<Text>The Great Stallion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_GREAT_STALLION_PEDIA">
+			<Text>The Great Stallion is a deity revered by the Dothraki.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DROWNED_GOD">
+			<Text>The Drowned God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_DROWNED_GOD_PEDIA">
+			<Text>The Drowned God, also known as He Who Dwells Beneath the Waves, is a sea deity worshiped solely by the Ironborn in Westeros. The religion of the Drowned God is old, dating back to before the Andal Invasion. The Andal invaders of the Iron Islands converted to the local religion rather than supplant it with the Seven as they did in the south of Westeros. The Drowned God religion supports the ironmen's naval, pirate culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MANY_FACED">
+			<Text>The Many-Faced God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RELIGION_MANY_FACED_PEDIA">
+			<Text>The Many-Faced God, also known as Him of Many Faces, is a deity worshipped by the Faceless Men, a guild of assassins established in the Free City of Braavos.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

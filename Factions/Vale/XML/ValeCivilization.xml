@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_VALE</Type>
+			<Description>TXT_KEY_CIV_VALE_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_VALE</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_VALE_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_VALE_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_VALE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_VALE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>VALE_ATLAS</IconAtlas>
+			<AlphaIconAtlas>VALE_ALPHA</AlphaIconAtlas>
+			<MapImage>ValeMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_VALE_TEXT</DawnOfManQuote>
+			<DawnOfManImage>ValeDom.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_LYSA_ARRYN</DawnOfManAudio>
+			<SoundtrackTag>GERMANY</SoundtrackTag>
+		</Row>
+	</Civilizations>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+			<BuildingType>BUILDING_SKYCELL</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_32</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_33</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_34</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_VALE_35</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<LeaderheadType>LEADER_LYSA_ARRYN</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_9</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VALE_10</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
+			<UnitType>UNIT_VALEPLACEHOLDER1</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<StartAlongOcean>1</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+	<!-- Civilization_Start_Along_River -->
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<RegionType>REGION_GRASS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<!-- Civilization_Start_Region_Avoid -->
+	<!-- Civilization_Start_Place_First_Along_Ocean -->
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_VALE</Type>
+			<PrimaryColor>COLOR_PLAYER_VALE_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_VALE_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_VALE_ICON</Type>
+			<Red>0.999</Red>
+			<Green>0.999</Green>
+			<Blue>0.999</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_VALE_BACKGROUND</Type>
+			<Red>0.001</Red>
+			<Green>0.294</Green>
+			<Blue>0.796</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_VALE_DESC">
+			<Text>House Arryn of The Eyrie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_FACTOID_TEXT">
+			<Text>
+				The Vale has been an island for hundreds of years, until the Dutch government decided to reclaim lands around it, now called the North-East Polder.[NEWLINE][NEWLINE]The Vale dialect is still very much alive and develops seperately from the Dutch language.[NEWLINE][NEWLINE]The Vale as a municipality yearly has the highest donations for charity in The Netherlands.[NEWLINE][NEWLINE]Due to isolation for hundreds of years and inbreeding, there is an inheritable illness called the Ziekte van Van Buchem. There are 35 people who are known to carry the disease.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_HEADING_3">
+			<Text>The Vale Language</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_HEADING_4">
+			<Text>Folklore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_HEADING_5">
+			<Text>Religion and Politics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_HEADING_6">
+			<Text>Conquest of the North-East Polder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_TEXT_1">
+			<Text>
+				The Vale is first mentioned in historical records dating to the 10th century, when it was still an island in Lake IJssel, a lake that would become part of the Zuiderzee in the 13th century after a series of incursions by the North Sea. In 1939, a dike from the mainland to The Vale ended the town's island status, just as the Afsluitdijk project was changing the salt water Zuiderzee surrounding The Vale to the less saline Lake IJssel. Later in the 20th century, seabed areas surrounding The Vale were reclaimed from the sea and became the North-East Polder.[NEWLINE][NEWLINE]The mainstay of the town's economy has always been fishing, and the products of the sea coming in through The Vale's harbour continue to be exported widely, although today The Vale's fishing boats must travel greater distances to gather them than was required in most historical periods. Religious life has also traditionally been very important to The Vale's inhabitants, with active, conservative congregations of the Dutch Reformed denominations playing key roles in the life of the community.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_TEXT_2">
+			<Text>
+				Around Lake IJssel is an arc of boulder clay high areas of land, which formed during the Ice Age glaciations of the Pleistocene epoch: Texel, Wieringen, The Vale, de Voorst, and Gaasterland. To south of that arc, as a result of meltwater, a lake formed, which became known as Almere. North of the boulder clay highland of The Vale, the Vecht river flowed into the Almere, while the river IJssel with tributaries flowed into the south of The Vale. As the climate became warmer during the Middle Ages, the sea level rose; and since the Ice Age ended the Netherlands and around have been slowly steadily sinking because of forebulge effect. During the 13th century (and especially after a large storm in 1282) the Zuiderzee formed, and the water round The Vale suddenly became tidal sea. Because there was no sea defence, in the course of time large pieces of the island were eroded away. The southwest side of The Vale, which rose perpendicularly out of the sea, was called de Bult (the Hump). Around 1700 the municipality of Amsterdam gave sea defences to The Vale. The town contains the highest point in the province of Flevoland.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_TEXT_3">
+			<Text>
+				One of the oldest and most distinctive dialects of Dutch is the language spoken in The Vale. Nearly everyone in the village speaks this dialect and uses it in daily life. The dialect deviates considerably from contemporary standard Dutch and has preserved many old characteristics that disappeared from standard Dutch a long time ago. The Vale dialect also includes elements that are older than standard Dutch and were never part of the standard language. For example, the old word for "father" in the Vale dialect is taote. The dialect developed this way because until World War II, The Vale was an island and could only be reached by boat. Radio was unknown, and the poor population didn't have much money for newspapers and books. Until the modern era, primary education for the children typically lasted only two years; afterwards, children had to help maintain the family and formal schooling ended.[NEWLINE][NEWLINE]Recent linguistic classifications have assigned the The Vale dialect to the "Vales dialect family", of which it is the only member.[NEWLINE][NEWLINE]The Vale dialect has more vowel sounds than standard Dutch and each vowel has short and long forms. The pronunciation of vowels deviates from standard Dutch and is closer to English.[NEWLINE][NEWLINE]Because living conditions in The Vale in historical times were very poor, young girls (typically about age 11 or 12) would frequently leave the island to become domestic servants, mostly in or around Amsterdam. They often served with Jewish families. After a few years, they would return to The Vale to form families of their own. As a result of this practice, the Vale dialect absorbed some loanwords from the Amsterdam dialect and also from Yiddish. For instance, the Yiddish "Shnur" for "sister-in-law" became the Vale "Snaor" (identical meaning); the Hebrew "Kallah" (כלה) for "bride" became the Vale "Kalletjen", meaning "girlfriend" (literally "little bride").[NEWLINE][NEWLINE]When Napoleon occupied the Netherlands, many French words were incorporated into both standard Dutch and Vale. Just as for standard Dutch, French words often changed form when incorporated into Vale. The Vale dialect has always been primarily a spoken language, and there are not many old texts written in the dialect. Only in recent years have people begun to write prose and poetry in the Vale dialect. There are Vales who have translated Bible books into Vales, such as the book of Psalms.[NEWLINE][NEWLINE]Currently, The Vale is no longer an island, and exposure to the standard Dutch through the media is widespread. However, the distinctive Vale dialect is still alive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_TEXT_4">
+			<Text>
+				A famous Vale folktale is the story parents tell their children when they want to know where the babies come from. The tale involves a large exposed rock which can be seen in the IJsselmeer about 30 metres (98 feet) from the shore. This stone is known as the "Ommelebommelestien".[NEWLINE][NEWLINE]Vales often tell their children that there are two kinds of people: vreemden (strangers) and Vales (people from The Vale). Strangers are usually born from a cabbage, or a stork brings them to their new parents, but Vales come from a large stone which lies about 30 metres (98 feet) from the shores of their former island. Nowadays, the stone is usually called "Ommelebommelestien" (Ommel-Bommel Stone), but in former times it was called "Ommelmoerstien": moers means "mother's" in the Vale dialect.[NEWLINE][NEWLINE]In the tale, a stork comes all the way from Egypt to put babies in the stone. When the baby is about to be born, the baby's father is said to have to go to Schokland to pick up the key that gives access to the stone. So when an Vale man is asked if he has been to Schokland, he is actually being asked if he has children.[NEWLINE][NEWLINE]In the older days, when both The Vale and Schokland were still islands in the Zuiderzee, the father had to take the obstetrician in his boat and row from The Vale to Schokland to get the key, and then from Schokland to the Ommelebommelestien to get the baby. Nowadays he would be able to go to Schokland by car, but according to the legend he still has to row. The door to the stone is somewhere below sea level, so it is difficult to find.[NEWLINE][NEWLINE]Once the door was found, a small price had to be paid for the baby: traditionally one Dutch guilder for a girl but two for a boy.[NEWLINE][NEWLINE]The mother was said to be kept in bed with a nail through her right foot. There she would celebrate that she had just become a mother.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_TEXT_5">
+			<Text>
+				The Vale is one of the most politically conservative areas in the Netherlands. As part of the so-called Dutch "Bible belt", a vast majority of election votes go to the three Christian parties in the Netherlands, SGP, ChristenUnie and CDA. The Vale is also known for its high turnout at each election, which is usually considerably higher than the national average (although general turnout percentages have dropped approx. 10% since 2002).[NEWLINE][NEWLINE]Voting patterns used to be relatively stable, with approximately 85-90% of the votes spread out evenly over SGP, ChristenUnie and CDA (each between 25-35%). CDA in The Vale usually got more votes in national elections than in local elections, while ChristenUnie's support is sometimes twice locally compared to what it receives from The Vale voters in national elections (this is sometimes attributed to the apparent left-wing leanings of the ChristenUnie nationally, while ChristenUnie in The Vale tends to be more conservative). SGP's support locally is not much different from its support in national elections.[NEWLINE][NEWLINE]However, in recent years a few changes in voting patterns occurred, such as a growing support for national protest parties such as the LPF or Geert Wilders' PVV Freedom Party. Also, voting patterns these days tend to show bigger swings, as shown in 2010's and 2012's national elections in which CDA lost 11% and 13% respectively, and in 2011's regional elections, in which ChristenUnie lost 18%. In 2012, orthodox-Christian SGP even registered an absolute majority with 51.2% of the vote. (In the European Elections of 2014, the combined ChristenUnie/SGP list even registered 78% of the vote).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_TEXT_6">
+			<Text>
+				Yet to happen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VALE_TITLE">
+			<Text>Kingdom of Mountain and Vale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALE_SHORT_DESC">
+			<Text>The Vale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VALE_ADJECTIVE">
+			<Text>Vale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_VALE_TEXT">
+			<Text>May the Lord's Blessing be upon you, oh noble leader Lysa Arryn. You rule the former isle of The Vale, ground to a long history. In contrast to the new neighbouring lands raised from the sea, your home has been fighting the storms for at least a thousand years. The Vales are a hard-working and hospitable people, proud and pious with a distinctive culture and a strong fishing economy. Their language is unique and despite all expectations, it continues to grow and develop separately from its surroundings as we speak. You take your inspiration from Winston Churchill, whose legendary words are "Let's go!",  a saying that labels the endless efforts you made to bring your people prosperity and hope for the future.[NEWLINE][NEWLINE]Oh, legendary hero, the people of The Vale seek your wisdom once more. Will you preserve their honour and dignity? Will you guide the Vales in their journey to everlasting glory? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_VALE_POLICY_FAITH">
+			<Text>Adopting a Social Policy has granted you [COLOR_CYAN]{1_iFaith} [ICON_PEACE] Faith[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_0">
+			<Text>The Eyrie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_1">
+			<Text>Gulltown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_2">
+			<Text>Runestone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_3">
+			<Text>Ironoaks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_4">
+			<Text>Longbow Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_5">
+			<Text>Heart's Home</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_6">
+			<Text>Redfort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_7">
+			<Text>Old Anchor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_8">
+			<Text>Sisterton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_9">
+			<Text>Midlor Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_10">
+			<Text>Snakewood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_11">
+			<Text>Strongsong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_12">
+			<Text>Wickenden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_13">
+			<Text>Pebble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_14">
+			<Text>Longsister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_15">
+			<Text>Littlesister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_16">
+			<Text>Gates Of The Moon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_17">
+			<Text>Ninestars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_18">
+			<Text>Breakwater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_19">
+			<Text>Grey Glen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_20">
+			<Text>Gull Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_21">
+			<Text>The Bite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_22">
+			<Text>Witch Isle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_23">
+			<Text>Crow's Barrens</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_24">
+			<Text>Wycliffe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_25">
+			<Text>Scorched Vale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_26">
+			<Text>Sunrise Keep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_27">
+			<Text>Moonsgrey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_28">
+			<Text>Ruthermont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_29">
+			<Text>Narrowshade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_30">
+			<Text>Crown Crag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_31">
+			<Text>Crab's Shore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_32">
+			<Text>Hardvale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_33">
+			<Text>Breakstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_34">
+			<Text>Egenford</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_VALE_35">
+			<Text>Shagga's Hideout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_0">
+			<Text>Ser Vardis Egen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_1">
+			<Text>Mya Stone</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_2">
+			<Text>Shagga son of Dolf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_3">
+			<Text>Myranda Royce</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_4">
+			<Text>Torrek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_5">
+			<Text>Dirk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_6">
+			<Text>Timett son of Timett</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_7">
+			<Text>Ulf son of Umar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_8">
+			<Text>Harrold Hardyng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_9">
+			<Text>Mord</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VALE_10">
+			<Text>Chella daughter of Cheyk</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

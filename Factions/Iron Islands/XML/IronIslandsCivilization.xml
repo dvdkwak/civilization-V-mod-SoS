@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_IRON_ISLANDS</Type>
+			<Description>TXT_KEY_CIV_IRON_ISLANDS_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_IRON_ISLANDS</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_IRON_ISLANDS_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_IRON_ISLANDS_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_IRON_ISLANDS</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_IRON_ISLANDS</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>IRON_ISLANDS_ATLAS</IconAtlas>
+			<AlphaIconAtlas>IRON_ISLANDS_ALPHA</AlphaIconAtlas>
+			<MapImage>IronIslandsMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_IRON_ISLANDS_TEXT</DawnOfManQuote>
+			<DawnOfManImage>IronIslandsDom.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_BALON_GREYJOY</DawnOfManAudio>
+			<SoundtrackTag>GERMANY</SoundtrackTag>
+		</Row>
+	</Civilizations>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+			<BuildingType>BUILDING_IRONISLANDSPLACEHOLDER2</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_32</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_33</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_34</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_IRON_ISLANDS_35</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<LeaderheadType>LEADER_BALON_GREYJOY</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_9</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_IRON_ISLANDS_10</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
+			<UnitType>UNIT_IRONISLANDSPLACEHOLDER1</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<StartAlongOcean>1</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+	<!-- Civilization_Start_Along_River -->
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_IRON_ISLANDS</CivilizationType>
+			<RegionType>REGION_GRASS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<!-- Civilization_Start_Region_Avoid -->
+	<!-- Civilization_Start_Place_First_Along_Ocean -->
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_IRON_ISLANDS</Type>
+			<PrimaryColor>COLOR_PLAYER_IRON_ISLANDS_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_IRON_ISLANDS_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_IRON_ISLANDS_ICON</Type>
+			<Red>0.965</Red>
+			<Green>0.741</Green>
+			<Blue>0.012</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_IRON_ISLANDS_BACKGROUND</Type>
+			<Red>0.110</Red>
+			<Green>0.110</Green>
+			<Blue>0.110</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_IRON_ISLANDS_DESC">
+			<Text>House Greyjoy of Pyke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_FACTOID_TEXT">
+			<Text>
+				The Iron Islands has been an island for hundreds of years, until the Dutch government decided to reclaim lands around it, now called the North-East Polder.[NEWLINE][NEWLINE]The Ironborn dialect is still very much alive and develops seperately from the Dutch language.[NEWLINE][NEWLINE]Iron Islands as a municipality yearly has the highest donations for charity in The Netherlands.[NEWLINE][NEWLINE]Due to isolation for hundreds of years and inbreeding, there is an inheritable illness called the Ziekte van Van Buchem. There are 35 people who are known to carry the disease.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_HEADING_3">
+			<Text>The Ironborn Language</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_HEADING_4">
+			<Text>Folklore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_HEADING_5">
+			<Text>Religion and Politics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_HEADING_6">
+			<Text>Conquest of the North-East Polder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_TEXT_1">
+			<Text>
+				Iron Islands is first mentioned in historical records dating to the 10th century, when it was still an island in Lake IJssel, a lake that would become part of the Zuiderzee in the 13th century after a series of incursions by the North Sea. In 1939, a dike from the mainland to Iron Islands ended the town's island status, just as the Afsluitdijk project was changing the salt water Zuiderzee surrounding Iron Islands to the less saline Lake IJssel. Later in the 20th century, seabed areas surrounding Iron Islands were reclaimed from the sea and became the North-East Polder.[NEWLINE][NEWLINE]The mainstay of the town's economy has always been fishing, and the products of the sea coming in through Iron Islands's harbour continue to be exported widely, although today Iron Islands's fishing boats must travel greater distances to gather them than was required in most historical periods. Religious life has also traditionally been very important to Iron Islands's inhabitants, with active, conservative congregations of the Dutch Reformed denominations playing key roles in the life of the community.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_TEXT_2">
+			<Text>
+				Around Lake IJssel is an arc of boulder clay high areas of land, which formed during the Ice Age glaciations of the Pleistocene epoch: Texel, Wieringen, Iron Islands, de Voorst, and Gaasterland. To south of that arc, as a result of meltwater, a lake formed, which became known as Almere. North of the boulder clay highland of Iron Islands, the Vecht river flowed into the Almere, while the river IJssel with tributaries flowed into the south of Iron Islands. As the climate became warmer during the Middle Ages, the sea level rose; and since the Ice Age ended the Netherlands and around have been slowly steadily sinking because of forebulge effect. During the 13th century (and especially after a large storm in 1282) the Zuiderzee formed, and the water round Iron Islands suddenly became tidal sea. Because there was no sea defence, in the course of time large pieces of the island were eroded away. The southwest side of Iron Islands, which rose perpendicularly out of the sea, was called de Bult (the Hump). Around 1700 the municipality of Amsterdam gave sea defences to Iron Islands. The town contains the highest point in the province of Flevoland.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_TEXT_3">
+			<Text>
+				One of the oldest and most distinctive dialects of Dutch is the language spoken in Iron Islands. Nearly everyone in the village speaks this dialect and uses it in daily life. The dialect deviates considerably from contemporary standard Dutch and has preserved many old characteristics that disappeared from standard Dutch a long time ago. The Ironborn dialect also includes elements that are older than standard Dutch and were never part of the standard language. For example, the old word for "father" in the Ironborn dialect is taote. The dialect developed this way because until World War II, Iron Islands was an island and could only be reached by boat. Radio was unknown, and the poor population didn't have much money for newspapers and books. Until the modern era, primary education for the children typically lasted only two years; afterwards, children had to help maintain the family and formal schooling ended.[NEWLINE][NEWLINE]Recent linguistic classifications have assigned the Iron Islands dialect to the "Ironborns dialect family", of which it is the only member.[NEWLINE][NEWLINE]The Ironborn dialect has more vowel sounds than standard Dutch and each vowel has short and long forms. The pronunciation of vowels deviates from standard Dutch and is closer to English.[NEWLINE][NEWLINE]Because living conditions in Iron Islands in historical times were very poor, young girls (typically about age 11 or 12) would frequently leave the island to become domestic servants, mostly in or around Amsterdam. They often served with Jewish families. After a few years, they would return to Iron Islands to form families of their own. As a result of this practice, the Ironborn dialect absorbed some loanwords from the Amsterdam dialect and also from Yiddish. For instance, the Yiddish "Shnur" for "sister-in-law" became the Ironborn "Snaor" (identical meaning); the Hebrew "Kallah" (כלה) for "bride" became the Ironborn "Kalletjen", meaning "girlfriend" (literally "little bride").[NEWLINE][NEWLINE]When Napoleon occupied the Netherlands, many French words were incorporated into both standard Dutch and Ironborn. Just as for standard Dutch, French words often changed form when incorporated into Ironborn. The Ironborn dialect has always been primarily a spoken language, and there are not many old texts written in the dialect. Only in recent years have people begun to write prose and poetry in the Ironborn dialect. There are Ironborns who have translated Bible books into Ironborns, such as the book of Psalms.[NEWLINE][NEWLINE]Currently, Iron Islands is no longer an island, and exposure to the standard Dutch through the media is widespread. However, the distinctive Ironborn dialect is still alive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_TEXT_4">
+			<Text>
+				A famous Ironborn folktale is the story parents tell their children when they want to know where the babies come from. The tale involves a large exposed rock which can be seen in the IJsselmeer about 30 metres (98 feet) from the shore. This stone is known as the "Ommelebommelestien".[NEWLINE][NEWLINE]Ironborns often tell their children that there are two kinds of people: vreemden (strangers) and Ironborns (people from Iron Islands). Strangers are usually born from a cabbage, or a stork brings them to their new parents, but Ironborns come from a large stone which lies about 30 metres (98 feet) from the shores of their former island. Nowadays, the stone is usually called "Ommelebommelestien" (Ommel-Bommel Stone), but in former times it was called "Ommelmoerstien": moers means "mother's" in the Ironborn dialect.[NEWLINE][NEWLINE]In the tale, a stork comes all the way from Egypt to put babies in the stone. When the baby is about to be born, the baby's father is said to have to go to Schokland to pick up the key that gives access to the stone. So when an Ironborn man is asked if he has been to Schokland, he is actually being asked if he has children.[NEWLINE][NEWLINE]In the older days, when both Iron Islands and Schokland were still islands in the Zuiderzee, the father had to take the obstetrician in his boat and row from Iron Islands to Schokland to get the key, and then from Schokland to the Ommelebommelestien to get the baby. Nowadays he would be able to go to Schokland by car, but according to the legend he still has to row. The door to the stone is somewhere below sea level, so it is difficult to find.[NEWLINE][NEWLINE]Once the door was found, a small price had to be paid for the baby: traditionally one Dutch guilder for a girl but two for a boy.[NEWLINE][NEWLINE]The mother was said to be kept in bed with a nail through her right foot. There she would celebrate that she had just become a mother.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_TEXT_5">
+			<Text>
+				Iron Islands is one of the most politically conservative areas in the Netherlands. As part of the so-called Dutch "Bible belt", a vast majority of election votes go to the three Christian parties in the Netherlands, SGP, ChristenUnie and CDA. Iron Islands is also known for its high turnout at each election, which is usually considerably higher than the national average (although general turnout percentages have dropped approx. 10% since 2002).[NEWLINE][NEWLINE]Voting patterns used to be relatively stable, with approximately 85-90% of the votes spread out evenly over SGP, ChristenUnie and CDA (each between 25-35%). CDA in Iron Islands usually got more votes in national elections than in local elections, while ChristenUnie's support is sometimes twice locally compared to what it receives from Iron Islands voters in national elections (this is sometimes attributed to the apparent left-wing leanings of the ChristenUnie nationally, while ChristenUnie in Iron Islands tends to be more conservative). SGP's support locally is not much different from its support in national elections.[NEWLINE][NEWLINE]However, in recent years a few changes in voting patterns occurred, such as a growing support for national protest parties such as the LPF or Geert Wilders' PVV Freedom Party. Also, voting patterns these days tend to show bigger swings, as shown in 2010's and 2012's national elections in which CDA lost 11% and 13% respectively, and in 2011's regional elections, in which ChristenUnie lost 18%. In 2012, orthodox-Christian SGP even registered an absolute majority with 51.2% of the vote. (In the European Elections of 2014, the combined ChristenUnie/SGP list even registered 78% of the vote).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_TEXT_6">
+			<Text>
+				Yet to happen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IRON_ISLANDS_TITLE">
+			<Text>Kingdom of the Iron Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IRON_ISLANDS_SHORT_DESC">
+			<Text>The Iron Islands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IRON_ISLANDS_ADJECTIVE">
+			<Text>Ironborn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_IRON_ISLANDS_TEXT">
+			<Text>May the Lord's Blessing be upon you, oh noble leader Balon Greyjoy. You rule the former isle of the Iron Islands, ground to a long history. In contrast to the new neighbouring lands raised from the sea, your home has been fighting the storms for at least a thousand years. The Ironborns are a hard-working and hospitable people, proud and pious with a distinctive culture and a strong fishing economy. Their language is unique and despite all expectations, it continues to grow and develop separately from its surroundings as we speak. You take your inspiration from Winston Churchill, whose legendary words are "Let's go!",  a saying that labels the endless efforts you made to bring your people prosperity and hope for the future.[NEWLINE][NEWLINE]Oh, legendary hero, the people of Iron Islands seek your wisdom once more. Will you preserve their honour and dignity? Will you guide the Ironborns in their journey to everlasting glory? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IRON_ISLANDS_POLICY_FAITH">
+			<Text>Adopting a Social Policy has granted you [COLOR_CYAN]{1_iFaith} [ICON_PEACE] Faith[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_0">
+			<Text>Pyke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_1">
+			<Text>Lordsport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_2">
+			<Text>Harlaw Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_3">
+			<Text>Old Wyk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_4">
+			<Text>Great Wyk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_5">
+			<Text>Orkmont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_6">
+			<Text>Blacktyde Castle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_7">
+			<Text>Hammerhorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_8">
+			<Text>Saltcliffe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_9">
+			<Text>Grey Garden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_10">
+			<Text>Volmark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_11">
+			<Text>Ten Towers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_12">
+			<Text>Pebbleton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_13">
+			<Text>Lonely Light</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_14">
+			<Text>Sealskin Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_15">
+			<Text>Ironholt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_16">
+			<Text>Crow Spike Keep</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_17">
+			<Text>Nettlebank</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_18">
+			<Text>Shatterstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_19">
+			<Text>Harridan Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_20">
+			<Text>Downdelving</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_21">
+			<Text>Hoare Castle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_22">
+			<Text>Drumm Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_23">
+			<Text>Nagga's Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_24">
+			<Text>Grey King's Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_25">
+			<Text>Tower of Glimmering</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_26">
+			<Text>Corpse Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_27">
+			<Text>Seastone Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_28">
+			<Text>Codd Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_29">
+			<Text>Stonetree</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_30">
+			<Text>Hangmyre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_31">
+			<Text>Shield Row</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_32">
+			<Text>Hardstone Hills</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_33">
+			<Text>Seastone Hall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_34">
+			<Text>Reek's Rest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_IRON_ISLANDS_35">
+			<Text>Kraken's Grave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_0">
+			<Text>Gyrnir Pyke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_1">
+			<Text>Hylda Volmark</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_2">
+			<Text>Theon Greyjoy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_3">
+			<Text>Black Lorren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_4">
+			<Text>Dagmer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_5">
+			<Text>Kyra</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_6">
+			<Text>Rodrik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_7">
+			<Text>Gelmar The Grimm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_8">
+			<Text>Lenwood the Little</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_9">
+			<Text>Aggar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_IRON_ISLANDS_10">
+			<Text>Myrna Farwynd</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

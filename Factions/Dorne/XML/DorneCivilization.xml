@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_DORNE</Type>
+			<Description>TXT_KEY_CIV_DORNE_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_DORNE</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_DORNE_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_DORNE_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_DORNE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_DORNE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+			<ArtStylePrefix>AFRICAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>DORNE_ATLAS</IconAtlas>
+			<AlphaIconAtlas>DORNE_ALPHA</AlphaIconAtlas>
+			<MapImage>DorneMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_DORNE_TEXT</DawnOfManQuote>
+			<DawnOfManImage>DorneDom.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_DORAN_MARTELL</DawnOfManAudio>
+			<SoundtrackTag>GERMANY</SoundtrackTag>
+		</Row>
+	</Civilizations>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
+			<BuildingType>BUILDING_DORNEPLACEHOLDER2</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_32</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_33</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_34</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DORNE_35</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<LeaderheadType>LEADER_DORAN_MARTELL</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_9</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DORNE_10</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
+			<UnitType>UNIT_SAND_STEED</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<StartAlongOcean>1</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+	<!-- Civilization_Start_Along_River -->
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
+			<RegionType>REGION_GRASS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<!-- Civilization_Start_Region_Avoid -->
+	<!-- Civilization_Start_Place_First_Along_Ocean -->
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_DORNE</Type>
+			<PrimaryColor>COLOR_PLAYER_DORNE_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_DORNE_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_DORNE_ICON</Type>
+			<Red>0.660</Red>
+			<Green>0.001</Green>
+			<Blue>0.001</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_DORNE_BACKGROUND</Type>
+			<Red>0.999</Red>
+			<Green>0.537</Green>
+			<Blue>0.001</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_DORNE_DESC">
+			<Text>Principality of Dorne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_FACTOID_TEXT">
+			<Text>
+				Dorne has been an island for hundreds of years, until the Dutch government decided to reclaim lands around it, now called the North-East Polder.[NEWLINE][NEWLINE]The Dornish dialect is still very much alive and develops seperately from the Dutch language.[NEWLINE][NEWLINE]Dorne as a municipality yearly has the highest donations for charity in The Netherlands.[NEWLINE][NEWLINE]Due to isolation for hundreds of years and inbreeding, there is an inheritable illness called the Ziekte van Van Buchem. There are 35 people who are known to carry the disease.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_HEADING_3">
+			<Text>The Dornish Language</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_HEADING_4">
+			<Text>Folklore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_HEADING_5">
+			<Text>Religion and Politics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_HEADING_6">
+			<Text>Conquest of the North-East Polder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_TEXT_1">
+			<Text>
+				Dorne is first mentioned in historical records dating to the 10th century, when it was still an island in Lake IJssel, a lake that would become part of the Zuiderzee in the 13th century after a series of incursions by the North Sea. In 1939, a dike from the mainland to Dorne ended the town's island status, just as the Afsluitdijk project was changing the salt water Zuiderzee surrounding Dorne to the less saline Lake IJssel. Later in the 20th century, seabed areas surrounding Dorne were reclaimed from the sea and became the North-East Polder.[NEWLINE][NEWLINE]The mainstay of the town's economy has always been fishing, and the products of the sea coming in through Dorne's harbour continue to be exported widely, although today Dorne's fishing boats must travel greater distances to gather them than was required in most historical periods. Religious life has also traditionally been very important to Dorne's inhabitants, with active, conservative congregations of the Dutch Reformed denominations playing key roles in the life of the community.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_TEXT_2">
+			<Text>
+				Around Lake IJssel is an arc of boulder clay high areas of land, which formed during the Ice Age glaciations of the Pleistocene epoch: Texel, Wieringen, Dorne, de Voorst, and Gaasterland. To south of that arc, as a result of meltwater, a lake formed, which became known as Almere. North of the boulder clay highland of Dorne, the Vecht river flowed into the Almere, while the river IJssel with tributaries flowed into the south of Dorne. As the climate became warmer during the Middle Ages, the sea level rose; and since the Ice Age ended the Netherlands and around have been slowly steadily sinking because of forebulge effect. During the 13th century (and especially after a large storm in 1282) the Zuiderzee formed, and the water round Dorne suddenly became tidal sea. Because there was no sea defence, in the course of time large pieces of the island were eroded away. The southwest side of Dorne, which rose perpendicularly out of the sea, was called de Bult (the Hump). Around 1700 the municipality of Amsterdam gave sea defences to Dorne. The town contains the highest point in the province of Flevoland.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_TEXT_3">
+			<Text>
+				One of the oldest and most distinctive dialects of Dutch is the language spoken in Dorne. Nearly everyone in the village speaks this dialect and uses it in daily life. The dialect deviates considerably from contemporary standard Dutch and has preserved many old characteristics that disappeared from standard Dutch a long time ago. The Dornish dialect also includes elements that are older than standard Dutch and were never part of the standard language. For example, the old word for "father" in the Dornish dialect is taote. The dialect developed this way because until World War II, Dorne was an island and could only be reached by boat. Radio was unknown, and the poor population didn't have much money for newspapers and books. Until the modern era, primary education for the children typically lasted only two years; afterwards, children had to help maintain the family and formal schooling ended.[NEWLINE][NEWLINE]Recent linguistic classifications have assigned the Dorne dialect to the "Dornishs dialect family", of which it is the only member.[NEWLINE][NEWLINE]The Dornish dialect has more vowel sounds than standard Dutch and each vowel has short and long forms. The pronunciation of vowels deviates from standard Dutch and is closer to English.[NEWLINE][NEWLINE]Because living conditions in Dorne in historical times were very poor, young girls (typically about age 11 or 12) would frequently leave the island to become domestic servants, mostly in or around Amsterdam. They often served with Jewish families. After a few years, they would return to Dorne to form families of their own. As a result of this practice, the Dornish dialect absorbed some loanwords from the Amsterdam dialect and also from Yiddish. For instance, the Yiddish "Shnur" for "sister-in-law" became the Dornish "Snaor" (identical meaning); the Hebrew "Kallah" (כלה) for "bride" became the Dornish "Kalletjen", meaning "girlfriend" (literally "little bride").[NEWLINE][NEWLINE]When Napoleon occupied the Netherlands, many French words were incorporated into both standard Dutch and Dornish. Just as for standard Dutch, French words often changed form when incorporated into Dornish. The Dornish dialect has always been primarily a spoken language, and there are not many old texts written in the dialect. Only in recent years have people begun to write prose and poetry in the Dornish dialect. There are Dornishs who have translated Bible books into Dornishs, such as the book of Psalms.[NEWLINE][NEWLINE]Currently, Dorne is no longer an island, and exposure to the standard Dutch through the media is widespread. However, the distinctive Dornish dialect is still alive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_TEXT_4">
+			<Text>
+				A famous Dornish folktale is the story parents tell their children when they want to know where the babies come from. The tale involves a large exposed rock which can be seen in the IJsselmeer about 30 metres (98 feet) from the shore. This stone is known as the "Ommelebommelestien".[NEWLINE][NEWLINE]Dornishs often tell their children that there are two kinds of people: vreemden (strangers) and Dornishs (people from Dorne). Strangers are usually born from a cabbage, or a stork brings them to their new parents, but Dornishs come from a large stone which lies about 30 metres (98 feet) from the shores of their former island. Nowadays, the stone is usually called "Ommelebommelestien" (Ommel-Bommel Stone), but in former times it was called "Ommelmoerstien": moers means "mother's" in the Dornish dialect.[NEWLINE][NEWLINE]In the tale, a stork comes all the way from Egypt to put babies in the stone. When the baby is about to be born, the baby's father is said to have to go to Schokland to pick up the key that gives access to the stone. So when an Dornish man is asked if he has been to Schokland, he is actually being asked if he has children.[NEWLINE][NEWLINE]In the older days, when both Dorne and Schokland were still islands in the Zuiderzee, the father had to take the obstetrician in his boat and row from Dorne to Schokland to get the key, and then from Schokland to the Ommelebommelestien to get the baby. Nowadays he would be able to go to Schokland by car, but according to the legend he still has to row. The door to the stone is somewhere below sea level, so it is difficult to find.[NEWLINE][NEWLINE]Once the door was found, a small price had to be paid for the baby: traditionally one Dutch guilder for a girl but two for a boy.[NEWLINE][NEWLINE]The mother was said to be kept in bed with a nail through her right foot. There she would celebrate that she had just become a mother.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_TEXT_5">
+			<Text>
+				Dorne is one of the most politically conservative areas in the Netherlands. As part of the so-called Dutch "Bible belt", a vast majority of election votes go to the three Christian parties in the Netherlands, SGP, ChristenUnie and CDA. Dorne is also known for its high turnout at each election, which is usually considerably higher than the national average (although general turnout percentages have dropped approx. 10% since 2002).[NEWLINE][NEWLINE]Voting patterns used to be relatively stable, with approximately 85-90% of the votes spread out evenly over SGP, ChristenUnie and CDA (each between 25-35%). CDA in Dorne usually got more votes in national elections than in local elections, while ChristenUnie's support is sometimes twice locally compared to what it receives from Dorne voters in national elections (this is sometimes attributed to the apparent left-wing leanings of the ChristenUnie nationally, while ChristenUnie in Dorne tends to be more conservative). SGP's support locally is not much different from its support in national elections.[NEWLINE][NEWLINE]However, in recent years a few changes in voting patterns occurred, such as a growing support for national protest parties such as the LPF or Geert Wilders' PVV Freedom Party. Also, voting patterns these days tend to show bigger swings, as shown in 2010's and 2012's national elections in which CDA lost 11% and 13% respectively, and in 2011's regional elections, in which ChristenUnie lost 18%. In 2012, orthodox-Christian SGP even registered an absolute majority with 51.2% of the vote. (In the European Elections of 2014, the combined ChristenUnie/SGP list even registered 78% of the vote).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_TEXT_6">
+			<Text>
+				Yet to happen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DORNE_TITLE">
+			<Text>House Nymeros Martell of Sunspear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DORNE_SHORT_DESC">
+			<Text>Dorne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DORNE_ADJECTIVE">
+			<Text>Dornish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DORNE_TEXT">
+			<Text>May the Lord's Blessing be upon you, oh noble leader Doran Martell. You rule the former isle of Dorne, ground to a long history. In contrast to the new neighbouring lands raised from the sea, your home has been fighting the storms for at least a thousand years. The Dornishs are a hard-working and hospitable people, proud and pious with a distinctive culture and a strong fishing economy. Their language is unique and despite all expectations, it continues to grow and develop separately from its surroundings as we speak. You take your inspiration from Winston Churchill, whose legendary words are "Let's go!",  a saying that labels the endless efforts you made to bring your people prosperity and hope for the future.[NEWLINE][NEWLINE]Oh, legendary hero, the people of Dorne seek your wisdom once more. Will you preserve their honour and dignity? Will you guide the Dornishs in their journey to everlasting glory? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DORNE_POLICY_FAITH">
+			<Text>Adopting a Social Policy has granted you [COLOR_CYAN]{1_iFaith} [ICON_PEACE] Faith[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_0">
+			<Text>Sunspear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_1">
+			<Text>Yronwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_2">
+			<Text>Starfall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_3">
+			<Text>Planky Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_4">
+			<Text>Kingsgrave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_5">
+			<Text>Wyl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_6">
+			<Text>Vulture's Roost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_7">
+			<Text>Godsgrace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_8">
+			<Text>Hellholt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_9">
+			<Text>The Tor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_10">
+			<Text>Blackmont</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_11">
+			<Text>Vaith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_12">
+			<Text>Salt Shore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_13">
+			<Text>Sandstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_14">
+			<Text>Ghaston Grey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_15">
+			<Text>Lemonwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_16">
+			<Text>Spottswood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_17">
+			<Text>Skyreach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_18">
+			<Text>High Hermitage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_19">
+			<Text>Shadow Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_20">
+			<Text>Ghost Hill</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_21">
+			<Text>De Bult</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_22">
+			<Text>Dornishland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_23">
+			<Text>Nagele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_24">
+			<Text>Rijswerker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_25">
+			<Text>Wijk 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_26">
+			<Text>Wijk 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_27">
+			<Text>Wijk 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_28">
+			<Text>Wijk 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_29">
+			<Text>Wijk 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_30">
+			<Text>Wijk 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_31">
+			<Text>Wijk 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_32">
+			<Text>Wijk 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_33">
+			<Text>Marknesse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_34">
+			<Text>Creil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DORNE_35">
+			<Text>Espel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_0">
+			<Text>Areo Hotah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_1">
+			<Text>Ellaria Sand</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_2">
+			<Text>Obara Sand</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_3">
+			<Text>Nymeria Sand</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_4">
+			<Text>Tyene Sand</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_5">
+			<Text>Daemon Sand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_6">
+			<Text>Garret Jeruzalem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_7">
+			<Text>Koert van de Vuurtoren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_8">
+			<Text>Henk Polinder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_9">
+			<Text>Starreke Auke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DORNE_10">
+			<Text>Geke van der Sloot</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

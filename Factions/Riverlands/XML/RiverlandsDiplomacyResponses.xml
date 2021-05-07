@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_BRYNDEN_TULLY">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_BRYNDEN_TULLY_ATTACKED_HOSTILE</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_FIRSTGREETING_1">
+			<Text>Hello stranger. Welcome to the former island of The Stormlands. My name is Renly Baratheon, leader of the hospitable The Stormlandser citizens. Now, would you like to taste the finest fish of the world?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_FIRSTGREETING_2">
+			<Text>Do you like fish? Then look no further! Welcome to The Stormlands, capital of The Stormlands. Would you be interested in a flyer?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_DEFEATED_1">
+			<Text>You have no idea how to rule this place. You will find yourself swimming in the harbor soon. Personally, I love swimming.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_POLITE_HELLO_1">
+			<Text>Who are you again?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_POLITE_HELLO_2">
+			<Text>Welcome back. Come to see the harbor again?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_POLITE_HELLO_3">
+			<Text>We love children.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_NEUTRAL_HELLO_1">
+			<Text>You are in the presence of a moralist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_NEUTRAL_HELLO_2">
+			<Text>Hello.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_NEUTRAL_HELLO_3">
+			<Text>Hello. Did you come to trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_HOSTILE_HELLO_1">
+			<Text>Explain your presence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_HOSTILE_HELLO_2">
+			<Text>Some may call me the Christian Pim Fortuyn of The Stormlands. Just warning you...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_HOSTILE_HELLO_3">
+			<Text>Welcome to The Stormlands, have you seen our giant Witte Zandvlakte?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>Oh do continue what you're doing. You'll soon find out what The Stormlandsers are made of.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_EXPANSION_SERIOUS_WARNING">
+			<Text>Hey, go get your own polder!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_REQUEST">
+			<Text>We go for gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_LUXURY_TRADE">
+			<Text>As long as it is no crabs, it will do just fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_OPEN_BORDERS_EXCHANGE">
+			<Text>A real leader says: let's go.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_ATTACKED_BETRAYED">
+			<Text>I love chess. Time to test my abilities in true matters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_ATTACKED_EXCITED">
+			<Text>I have a good feeling about this. Let's go!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRYNDEN_TULLY_ATTACKED_HOSTILE">
+			<Text>This was no suprise. I will drink from your skull.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

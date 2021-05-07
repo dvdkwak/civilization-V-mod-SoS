@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/4/2021 12:32:15 AM -->
+<GameData>
+		<Improvements>
+			<Row>
+				<Type>IMPROVEMENT_MARCHER_STRONGHOLD</Type>
+				<Description>TXT_KEY_IMPROVEMENT_MARCHER_STRONGHOLD</Description>
+				<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_MARCHER_STRONGHOLD_PEDIA</Civilopedia>
+				<Help>TXT_KEY_CIV5_IMPROVEMENTS_MARCHER_STRONGHOLD_HELP</Help>
+				<ArtDefineTag>ART_DEF_IMPROVEMENT_FEITORIA</ArtDefineTag>
+				<WorldSoundscapeAudioScript></WorldSoundscapeAudioScript>
+				<ImprovementPillage></ImprovementPillage>
+				<ImprovementUpgrade></ImprovementUpgrade>
+				<SpecificCivRequired>1</SpecificCivRequired>
+				<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
+				<HillsMakesValid>0</HillsMakesValid>
+				<FreshWaterMakesValid>0</FreshWaterMakesValid>
+				<RiverSideMakesValid>0</RiverSideMakesValid>
+				<NoFreshWater>0</NoFreshWater>
+				<RequiresFlatlands>0</RequiresFlatlands>
+				<RequiresFlatlandsOrFreshWater>0</RequiresFlatlandsOrFreshWater>
+				<RequiresFeature>0</RequiresFeature>
+				<RequiresImprovement>0</RequiresImprovement>
+				<RemovesResource>0</RemovesResource>
+				<PromptWhenComplete>0</PromptWhenComplete>
+				<Coastal>0</Coastal>
+				<Water>0</Water>
+				<DestroyedWhenPillaged>0</DestroyedWhenPillaged>
+				<DisplacePillager>0</DisplacePillager>
+				<BuildableOnResources>0</BuildableOnResources>
+				<BarbarianCamp>0</BarbarianCamp>
+				<Goody>0</Goody>
+				<Permanent>0</Permanent>
+				<OutsideBorders>0</OutsideBorders>
+				<InAdjacentFriendly>0</InAdjacentFriendly>
+				<IgnoreOwnership>0</IgnoreOwnership>
+				<OnlyCityStateTerritory>0</OnlyCityStateTerritory>
+				<GraphicalOnly>0</GraphicalOnly>
+				<CreatedByGreatPerson>0</CreatedByGreatPerson>
+				<NoTwoAdjacent>1</NoTwoAdjacent>
+				<AdjacentLuxury>0</AdjacentLuxury>
+				<AllowsWalkWater>0</AllowsWalkWater>
+				<CultureAdjacentSameType>0</CultureAdjacentSameType>
+				<TilesPerGoody>0</TilesPerGoody>
+				<GoodyRange>0</GoodyRange>
+				<FeatureGrowth>0</FeatureGrowth>
+				<UpgradeTime>0</UpgradeTime>
+				<RiverSideUpgradeMod>0</RiverSideUpgradeMod>
+				<CoastalLandUpgradeMod>0</CoastalLandUpgradeMod>
+				<HillsUpgradeMod>0</HillsUpgradeMod>
+				<FreshWaterUpgradeMod>0</FreshWaterUpgradeMod>
+				<DefenseModifier>100</DefenseModifier>
+				<NearbyEnemyDamage>10</NearbyEnemyDamage>
+				<PillageGold>80</PillageGold>
+				<ResourceExtractionMod>0</ResourceExtractionMod>
+				<LuxuryCopiesSiphonedFromMinor>0</LuxuryCopiesSiphonedFromMinor>
+				<GoldMaintenance>0</GoldMaintenance>
+				<CultureBombRadius>0</CultureBombRadius>
+				<RequiresXAdjacentLand>-1</RequiresXAdjacentLand>
+				<PortraitIndex>4</PortraitIndex>
+				<IconAtlas>TERRAIN_IMPROVEMENT_ICON_ATLAS_EXP2</IconAtlas>
+			</Row>
+		</Improvements>
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MARCHER_STRONGHOLD</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_MARCHER_STRONGHOLD</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_MARCHER_STRONGHOLD</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Builds>
+		<Row>
+			<Type>BUILD_MARCHER_STRONGHOLD</Type>
+			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<Time>1000</Time>
+			<ImprovementType>IMPROVEMENT_MARCHER_STRONGHOLD</ImprovementType>
+			<Description>TXT_KEY_BUILD_MARCHER_STRONGHOLD</Description>
+			<Recommendation>TXT_KEY_BUILD_FOOD_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_E</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>56</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS_EXP2</IconAtlas>
+		</Row>
+	</Builds>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_MARCHER_STRONGHOLD</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>400</Time>
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_MARCHER_STRONGHOLD</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Time>700</Time>
+			<Remove>true</Remove>
+		</Row>
+	</BuildFeatures>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_MARCHER_STRONGHOLD">
+			<Text>Marcher Stronghold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MARCHER_STRONGHOLD_TEXT">
+			<Text>Marcher Strongholds are formidable castles located at the southern border of The Stormlands. They were build to keep Dornish invaders out. The ruling houses of these castles have a long lasting martial tradition and are famous for their excellent longbowmen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_MARCHER_STRONGHOLD_HELP">
+			<Text>A Marcher Stronghold is a stronger Fort and provides additional [ICON_FOOD] Food. Can only be build on Plains. Only the Stormlanders may build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MARCHER_STRONGHOLD">
+			<Text>Construct a [LINK=IMPROVEMENT_MARCHER_STRONGHOLD]Marcher Stronghold[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MARCHER_STRONGHOLD_HELP">
+			<Text>Only The Stormlands may build it. May only be built on farms and never adjacent to another Kibbutz. +2 [ICON_CULTURE] Culture after the discovery of Radio.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MARCHER_STRONGHOLD_REC">
+			<Text>It will increase the amount of [ICON_FOOD] Food and defensive opportunities in this tile.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

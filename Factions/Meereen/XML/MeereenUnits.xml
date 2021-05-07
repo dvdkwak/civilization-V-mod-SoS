@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/11/2021 11:46:55 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_PIKEMAN</Class>
+			<Type>UNIT_UNSULLIED</Type>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+			<Combat>10</Combat>
+			<Cost>90</Cost>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_UNSULLIED</Description>
+			<Civilopedia>TXT_KEY_CIV5_UNSULLIED_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_UNSULLIED_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_UNSULLIED</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>3</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_UNSULLIED</UnitArtInfo>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>MEEREEN_ATLAS</IconAtlas>
+			<UnitFlagAtlas>MEEREEN_UNSULLIED_FLAG</UnitFlagAtlas>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+	<Row>
+		<UnitType>UNIT_UNSULLIED</UnitType>
+		<UnitAIType>UNITAI_ATTACK</UnitAIType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_UNSULLIED</UnitType>
+		<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_UNSULLIED</UnitType>
+		<UnitAIType>UNITAI_COUNTER</UnitAIType>
+	</Row>
+	<Row>
+		<UnitType>UNIT_UNSULLIED</UnitType>
+		<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+	</Row>
+	</Unit_AITypes>
+	<!-- Unit_Buildings -->
+	<!-- Unit_BuildingClassRequireds -->
+	<!-- Unit_ProductionModifierBuildings -->
+	<!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_UNSULLIED</UnitType>
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<!-- Unit_FreePromotions -->
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_UNSULLIED</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_UNSULLIED</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<!-- Unit_GreatPersons -->
+	<!-- Unit_ResourceQuantityRequirements -->
+	<!-- Unit_UniqueNames -->
+	<!-- Unit_YieldFromKills -->
+	<!-- Unit_NotAITypes -->
+	<!-- Unit_ProductionTraits -->
+	<!-- Unit_TechTypes -->
+	<!-- UnitPromotions_CivilianUnitType -->
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_UNSULLIED</UnitType>
+			<SelectionSound>AS2D_SELECT_PIKEMAN</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_PIKEMAN</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<!-- UNSULLIED art_def_member AND NOT MEMBER ****************************************************** -->
+	
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_UNSULLIED</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>Phalanx</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_UNSULLIED</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_U_UNSULLIED</UnitMemberInfoType>
+			<NumMembers>12</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_U_UNSULLIED</Type>
+			<Scale>0.140000000596046</Scale>
+			<Model>Factions/Meereen/Art/Unsullied_Meereen.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_UNSULLIED</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
+			<ShortMoveRadius>12.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TargetHeight>8.0</TargetHeight>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>1</ReformBeforeCombat>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_UNSULLIED</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>METAL</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SPEAR</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_UNSULLIED</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_UNSULLIED</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Pikeman.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_UNSULLIED">
+			<Text>Unsullied</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNSULLIED_TEXT">
+			<Text>
+				The botter is an old Meereenese type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]Unsullieds mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the MeereenPlaceholder2 was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Meereenese fish is the country of Italy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_UNSULLIED_STRATEGY">
+			<Text>The Unsullied is the Meereenese unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game MeereenPlaceholder2, providing additional [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_UNSULLIED">
+			<Text>Replaces the Pikeman. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the Meereeneses may build this unit.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

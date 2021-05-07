@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 10/21/2012 1:03:37 PM -->
+<GameData>
+	<Civilizations>
+		<Delete type="CIVILIZATION_IROQUOIS"/>
+		<Delete type="CIVILIZATION_JAPAN"/>
+		<Delete type="CIVILIZATION_OTTOMAN"/>
+		<Delete type="CIVILIZATION_PERSIA"/>
+		<Delete type="CIVILIZATION_ROME"/>
+		<Delete type="CIVILIZATION_SIAM"/>
+		<Delete type="CIVILIZATION_SONGHAI"/>
+		<Delete type="CIVILIZATION_AUSTRIA"/>
+		<Delete type="CIVILIZATION_BYZANTIUM"/>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_CELTS"/>
+		</Update>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_ETHIOPIA"/>
+		</Update>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_HUNS"/>
+		</Update>
+		<Delete type="CIVILIZATION_MAYA"/>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_NETHERLANDS"/>
+		</Update>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_SWEDEN"/>
+		</Update>
+		<Delete type="CIVILIZATION_SPAIN"/>
+		<Delete type="CIVILIZATION_MONGOL"/>
+		<Delete type="CIVILIZATION_INCA"/>
+		<Delete type="CIVILIZATION_POLYNESIA"/>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_DENMARK"/>
+		</Update>
+		<Delete type="CIVILIZATION_KOREA"/>
+		<Delete type="CIVILIZATION_BABYLON"/>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_GERMANY"/>
+		</Update>
+		<Delete type="CIVILIZATION_CARTHAGE"/>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_AMERICA"/>
+		</Update>
+		<Delete type="CIVILIZATION_ARABIA"/>
+		<Delete type="CIVILIZATION_INDIA"/>
+		<Delete type="CIVILIZATION_AZTEC"/>
+		<Delete type="CIVILIZATION_CHINA"/>
+		<Delete type="CIVILIZATION_EGYPT"/>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_ENGLAND"/>
+		</Update>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_GREECE"/>
+		</Update>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_RUSSIA"/>
+		</Update>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_FRANCE"/>
+		</Update>
+		<!--BNW -->
+		<Delete type="CIVILIZATION_ASSYRIA"/>
+		<Delete type="CIVILIZATION_BRAZIL"/>
+		<Delete type="CIVILIZATION_INDONESIA"/>
+		<Delete type="CIVILIZATION_MOROCCO"/>
+		<Update>
+			<Set Playable="false" AIPlayable="false" />
+			<Where type="CIVILIZATION_POLAND"/>
+		</Update>
+		<Delete type="CIVILIZATION_PORTUGAL"/>
+		<Delete type="CIVILIZATION_SHOSHONE"/>
+		<Delete type="CIVILIZATION_VENICE"/>
+		<Delete type="CIVILIZATION_ZULU"/>
+	</Civilizations>
+	<MinorCivilizations>
+		<Delete type="MINOR_CIV_WARSAW"/>
+		<Delete type="MINOR_CIV_BUDAPEST"/>
+		<Delete type="MINOR_CIV_GENEVA"/>
+		<Delete type="MINOR_CIV_VENICE"/>
+		<Delete type="MINOR_CIV_GENOA"/>
+		<Delete type="MINOR_CIV_FLORENCE"/>
+		<Delete type="MINOR_CIV_RAGUSA"/>
+		<Delete type="MINOR_CIV_SYDNEY"/>
+		<Delete type="MINOR_CIV_QUEBEC_CITY"/>
+		<Delete type="MINOR_CIV_BUCHAREST"/>
+		<Delete type="MINOR_CIV_BELGRADE"/>
+		<Delete type="MINOR_CIV_BRUSSELS"/>
+		<Delete type="MINOR_CIV_MONACO"/>
+		<Delete type="MINOR_CIV_KATHMANDU"/>
+		<Delete type="MINOR_CIV_HANOI"/>
+		<Delete type="MINOR_CIV_LHASA"/>
+		<Delete type="MINOR_CIV_ALMATY"/>
+		<Delete type="MINOR_CIV_KUALA_LUMPUR"/>
+		<Delete type="MINOR_CIV_SINGAPORE"/>
+		<Delete type="MINOR_CIV_RIO_DE_JANEIRO"/>
+		<Delete type="MINOR_CAPE_TOWN"/>
+		<Delete type="MINOR_SIDON"/>
+		<Delete type="MINOR_TYRE"/>
+		<Delete type="MINOR_CIV_ANTWERP"/>
+		<Delete type="MINOR_CIV_CAHOKIA"/>
+		<Delete type="MINOR_CIV_COLOMBO"/>
+		<Delete type="MINOR_CIV_HONG_KONG"/>
+		<Delete type="MINOR_CIV_JAKARTA"/>
+		<Delete type="MINOR_CIV_JERUSALEM"/>
+		<Delete type="MINOR_CIV_LA_VENTA"/>
+		<Delete type="MINOR_CIV_LISBON"/>
+		<Delete type="MINOR_CIV_MANILA"/>
+		<Delete type="MINOR_CIV_MARRAKECH"/>
+		<Delete type="MINOR_CIV_MILAN"/>
+		<Delete type="MINOR_CIV_MOMBASA"/>
+		<Delete type="MINOR_CIV_PRAGUE"/>
+		<Delete type="MINOR_CIV_VALLETTA"/>
+		<Delete type="MINOR_CIV_VATICAN_CITY"/>
+		<Delete type="MINOR_CIV_WITTENBERG"/>
+		<Delete type="MINOR_CIV_YEREVAN"/>
+		<Delete type="MINOR_CIV_ZANZIBAR"/>
+		<Delete type="MINOR_CIV_ZURICH"/>
+		<!--BNW -->
+		<Delete type="MINOR_CIV_BRATISLAVA"/>
+		<Delete type="MINOR_CIV_RIGA"/>
+		<Delete type="MINOR_CIV_PANAMA_CITY"/>
+		<Delete type="MINOR_CIV_CAPE_TOWN"/>
+		<Delete type="MINOR_CIV_SIDON"/>
+		<Delete type="MINOR_CIV_TYRE"/>
+		<Delete type="MINOR_CIV_ORMUS"/>
+		<Delete type="MINOR_CIV_VANCOUVER"/>
+		<Delete type="MINOR_CIV_ANTANANARIVO"/>
+		<Delete type="MINOR_CIV_SAMARKAND"/>
+		<Delete type="MINOR_CIV_MALACCA"/>
+		<Delete type="MINOR_CIV_MOGADISHU"/>
+		<Delete type="MINOR_CIV_BYBLOS"/>
+		<Delete type="MINOR_CIV_KYZYL"/>
+		<Delete type="MINOR_CIV_IFE"/>
+		<Delete type="MINOR_CIV_KIEV"/>
+		<Delete type="MINOR_CIV_BUENOS_AIRES"/>
+		<Delete type="MINOR_CIV_MBANZA_KONGO"/>
+		<Delete type="MINOR_CIV_KABUL"/>
+		<Delete type="MINOR_CIV_SOFIA"/>
+		<Delete type="MINOR_CIV_UR"/>
+		<Delete type="MINOR_CIV_MELBOURNE"/>
+		<Delete type="MINOR_CIV_BOGOTA"/>
+		<Delete type="MINOR_CIV_WELLINGTON"/>
+		<Delete type="MINOR_CIV_VILNIUS"/>
+	</MinorCivilizations>
+</GameData>

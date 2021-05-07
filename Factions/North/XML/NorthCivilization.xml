@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/11/2021 11:47:09 PM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_NORTH</Type>
+			<Description>TXT_KEY_CIV_NORTH_DESC</Description>
+			<Civilopedia></Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_NORTH</CivilopediaTag>
+			<Strategy></Strategy>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+			<ShortDescription>TXT_KEY_CIV_NORTH_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_NORTH_ADJECTIVE</Adjective>
+			<DefaultPlayerColor>PLAYERCOLOR_NORTH</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_NORTH</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<DerivativeCiv></DerivativeCiv>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>NORTH_ATLAS</IconAtlas>
+			<AlphaIconAtlas>NORTH_ALPHA</AlphaIconAtlas>
+			<MapImage>NorthMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_NORTH_TEXT</DawnOfManQuote>
+			<DawnOfManImage>NorthDom.dds</DawnOfManImage>
+			<DawnOfManAudio>AS2D_DOM_SPEECH_ROBB_STARK</DawnOfManAudio>
+			<SoundtrackTag>GERMANY</SoundtrackTag>
+		</Row>
+	</Civilizations>
+	<!-- Civilization_BuildingClassOverrides -->
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_0</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_16</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_17</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_18</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_19</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_20</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_21</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_22</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_23</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_24</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_25</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_26</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_27</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_28</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_29</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_30</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_31</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_32</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_33</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_34</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_NORTH_35</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<!-- Civilization_DisableTechs -->
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<LeaderheadType>LEADER_ROBB_STARK</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<ReligionType>RELIGION_PROTESTANTISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_9</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NORTH_10</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<StartAlongOcean>0</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+	<!-- Civilization_Start_Along_River -->
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<RegionType>REGION_TUNDRA</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+	<Civilization_Start_Region_Avoid>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<RegionType>REGION_DESERT</RegionType>
+		</Row>>
+		<Row>
+			<CivilizationType>CIVILIZATION_NORTH</CivilizationType>
+			<RegionType>REGION_JUNGLE</RegionType>
+		</Row>>
+	</Civilization_Start_Region_Avoid>
+	<!-- Civilization_Start_Place_First_Along_Ocean -->
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_NORTH</Type>
+			<PrimaryColor>COLOR_PLAYER_NORTH_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_NORTH_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_NORTH_ICON</Type>
+			<Red>0.247</Red>
+			<Green>0.247</Green>
+			<Blue>0.247</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_NORTH_BACKGROUND</Type>
+			<Red>0.870</Red>
+			<Green>0.870</Green>
+			<Blue>0.870</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_NORTH_DESC">
+			<Text>Kingdom of the North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_FACTOID_TEXT">
+			<Text>
+				North has been an island for hundreds of years, until the Dutch government decided to reclaim lands around it, now called the North-East Polder.[NEWLINE][NEWLINE]The Norther dialect is still very much alive and develops seperately from the Dutch language.[NEWLINE][NEWLINE]North as a municipality yearly has the highest donations for charity in The Netherlands.[NEWLINE][NEWLINE]Due to isolation for hundreds of years and inbreeding, there is an inheritable illness called the Ziekte van Van Buchem. There are 35 people who are known to carry the disease.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_HEADING_3">
+			<Text>The Old Tongue</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_HEADING_4">
+			<Text>Folklore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_HEADING_5">
+			<Text>Religion and Politics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_HEADING_6">
+			<Text>Conquest of Bear Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_TEXT_1">
+			<Text>
+				North is first mentioned in historical records dating to the 10th century, when it was still an island in Lake IJssel, a lake that would become part of the Zuiderzee in the 13th century after a series of incursions by the North Sea. In 1939, a dike from the mainland to North ended the town's island status, just as the Afsluitdijk project was changing the salt water Zuiderzee surrounding North to the less saline Lake IJssel. Later in the 20th century, seabed areas surrounding North were reclaimed from the sea and became the North-East Polder.[NEWLINE][NEWLINE]The mainstay of the town's economy has always been fishing, and the products of the sea coming in through North's harbour continue to be exported widely, although today North's fishing boats must travel greater distances to gather them than was required in most historical periods. Religious life has also traditionally been very important to North's inhabitants, with active, conservative congregations of the Dutch Reformed denominations playing key roles in the life of the community.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_TEXT_2">
+			<Text>
+				Around Lake IJssel is an arc of boulder clay high areas of land, which formed during the Ice Age glaciations of the Pleistocene epoch: Texel, Wieringen, North, de Voorst, and Gaasterland. To south of that arc, as a result of meltwater, a lake formed, which became known as Almere. North of the boulder clay highland of North, the Vecht river flowed into the Almere, while the river IJssel with tributaries flowed into the south of North. As the climate became warmer during the Middle Ages, the sea level rose; and since the Ice Age ended the Netherlands and around have been slowly steadily sinking because of forebulge effect. During the 13th century (and especially after a large storm in 1282) the Zuiderzee formed, and the water round North suddenly became tidal sea. Because there was no sea defence, in the course of time large pieces of the island were eroded away. The southwest side of North, which rose perpendicularly out of the sea, was called de Bult (the Hump). Around 1700 the municipality of Amsterdam gave sea defences to North. The town contains the highest point in the province of Flevoland.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_TEXT_3">
+			<Text>
+				One of the oldest and most distinctive dialects of Dutch is the language spoken in North. Nearly everyone in the village speaks this dialect and uses it in daily life. The dialect deviates considerably from contemporary standard Dutch and has preserved many old characteristics that disappeared from standard Dutch a long time ago. The Norther dialect also includes elements that are older than standard Dutch and were never part of the standard language. For example, the old word for "father" in the Norther dialect is taote. The dialect developed this way because until World War II, North was an island and could only be reached by boat. Radio was unknown, and the poor population didn't have much money for newspapers and books. Until the modern era, primary education for the children typically lasted only two years; afterwards, children had to help maintain the family and formal schooling ended.[NEWLINE][NEWLINE]Recent linguistic classifications have assigned the North dialect to the "Northers dialect family", of which it is the only member.[NEWLINE][NEWLINE]The Norther dialect has more vowel sounds than standard Dutch and each vowel has short and long forms. The pronunciation of vowels deviates from standard Dutch and is closer to English.[NEWLINE][NEWLINE]Because living conditions in North in historical times were very poor, young girls (typically about age 11 or 12) would frequently leave the island to become domestic servants, mostly in or around Amsterdam. They often served with Jewish families. After a few years, they would return to North to form families of their own. As a result of this practice, the Norther dialect absorbed some loanwords from the Amsterdam dialect and also from Yiddish. For instance, the Yiddish "Shnur" for "sister-in-law" became the Norther "Snaor" (identical meaning); the Hebrew "Kallah" (כלה) for "bride" became the Norther "Kalletjen", meaning "girlfriend" (literally "little bride").[NEWLINE][NEWLINE]When Napoleon occupied the Netherlands, many French words were incorporated into both standard Dutch and Norther. Just as for standard Dutch, French words often changed form when incorporated into Norther. The Norther dialect has always been primarily a spoken language, and there are not many old texts written in the dialect. Only in recent years have people begun to write prose and poetry in the Norther dialect. There are Northers who have translated Bible books into Northers, such as the book of Psalms.[NEWLINE][NEWLINE]Currently, North is no longer an island, and exposure to the standard Dutch through the media is widespread. However, the distinctive Norther dialect is still alive.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_TEXT_4">
+			<Text>
+				A famous Norther folktale is the story parents tell their children when they want to know where the babies come from. The tale involves a large exposed rock which can be seen in the IJsselmeer about 30 metres (98 feet) from the shore. This stone is known as the "Ommelebommelestien".[NEWLINE][NEWLINE]Northers often tell their children that there are two kinds of people: vreemden (strangers) and Northers (people from North). Strangers are usually born from a cabbage, or a stork brings them to their new parents, but Northers come from a large stone which lies about 30 metres (98 feet) from the shores of their former island. Nowadays, the stone is usually called "Ommelebommelestien" (Ommel-Bommel Stone), but in former times it was called "Ommelmoerstien": moers means "mother's" in the Norther dialect.[NEWLINE][NEWLINE]In the tale, a stork comes all the way from Egypt to put babies in the stone. When the baby is about to be born, the baby's father is said to have to go to Schokland to pick up the key that gives access to the stone. So when an Norther man is asked if he has been to Schokland, he is actually being asked if he has children.[NEWLINE][NEWLINE]In the older days, when both North and Schokland were still islands in the Zuiderzee, the father had to take the obstetrician in his boat and row from North to Schokland to get the key, and then from Schokland to the Ommelebommelestien to get the baby. Nowadays he would be able to go to Schokland by car, but according to the legend he still has to row. The door to the stone is somewhere below sea level, so it is difficult to find.[NEWLINE][NEWLINE]Once the door was found, a small price had to be paid for the baby: traditionally one Dutch guilder for a girl but two for a boy.[NEWLINE][NEWLINE]The mother was said to be kept in bed with a nail through her right foot. There she would celebrate that she had just become a mother.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_TEXT_5">
+			<Text>
+				North is one of the most politically conservative areas in the Netherlands. As part of the so-called Dutch "Bible belt", a vast majority of election votes go to the three Christian parties in the Netherlands, SGP, ChristenUnie and CDA. North is also known for its high turnout at each election, which is usually considerably higher than the national average (although general turnout percentages have dropped approx. 10% since 2002).[NEWLINE][NEWLINE]Voting patterns used to be relatively stable, with approximately 85-90% of the votes spread out evenly over SGP, ChristenUnie and CDA (each between 25-35%). CDA in North usually got more votes in national elections than in local elections, while ChristenUnie's support is sometimes twice locally compared to what it receives from North voters in national elections (this is sometimes attributed to the apparent left-wing leanings of the ChristenUnie nationally, while ChristenUnie in North tends to be more conservative). SGP's support locally is not much different from its support in national elections.[NEWLINE][NEWLINE]However, in recent years a few changes in voting patterns occurred, such as a growing support for national protest parties such as the LPF or Geert Wilders' PVV Freedom Party. Also, voting patterns these days tend to show bigger swings, as shown in 2010's and 2012's national elections in which CDA lost 11% and 13% respectively, and in 2011's regional elections, in which ChristenUnie lost 18%. In 2012, orthodox-Christian SGP even registered an absolute majority with 51.2% of the vote. (In the European Elections of 2014, the combined ChristenUnie/SGP list even registered 78% of the vote).
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_TEXT_6">
+			<Text>
+				Yet to happen.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NORTH_TITLE">
+			<Text>Kingdom of the North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NORTH_SHORT_DESC">
+			<Text>The North</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NORTH_ADJECTIVE">
+			<Text>Northern</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_NORTH_TEXT">
+			<Text>May the Lord's Blessing be upon you, oh noble leader Robb Stark. You rule the former isle of North, ground to a long history. In contrast to the new neighbouring lands raised from the sea, your home has been fighting the storms for at least a thousand years. The Northers are a hard-working and hospitable people, proud and pious with a distinctive culture and a strong fishing economy. Their language is unique and despite all expectations, it continues to grow and develop separately from its surroundings as we speak. You take your inspiration from Winston Churchill, whose legendary words are "Let's go!",  a saying that labels the endless efforts you made to bring your people prosperity and hope for the future.[NEWLINE][NEWLINE]Oh, legendary hero, the people of North seek your wisdom once more. Will you preserve their honour and dignity? Will you guide the Northers in their journey to everlasting glory? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_NORTH_POLICY_FAITH">
+			<Text>Adopting a Social Policy has granted you [COLOR_CYAN]{1_iFaith} [ICON_PEACE] Faith[ENDCOLOR]!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_0">
+			<Text>Winterfell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_1">
+			<Text>White Harbor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_2">
+			<Text>Barrowton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_3">
+			<Text>The Dreadfort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_4">
+			<Text>Moat Cailin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_5">
+			<Text>Deepwood Motte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_6">
+			<Text>Karhold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_7">
+			<Text>Greywater Watch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_8">
+			<Text>Last Hearth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_9">
+			<Text>Flint's Finger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_10">
+			<Text>Castle Cerwyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_11">
+			<Text>Torrhen's Square</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_12">
+			<Text>Hornwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_13">
+			<Text>Bear Island</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_14">
+			<Text>Ironrath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_15">
+			<Text>Highpoint</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_16">
+			<Text>Widow's Watch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_17">
+			<Text>Oldcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_18">
+			<Text>White Knife</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_19">
+			<Text>Blackpool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_20">
+			<Text>King's Course</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_21">
+			<Text>Sea Dragon Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_22">
+			<Text>Ramsgate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_23">
+			<Text>Crow's Edge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_24">
+			<Text>Stoney Shore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_25">
+			<Text>Rillwater Crossing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_26">
+			<Text>Wolfswood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_27">
+			<Text>Cape Kraken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_28">
+			<Text>Flint's Cliff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_29">
+			<Text>Kingshouse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_30">
+			<Text>Highbrook Tower</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_31">
+			<Text>Deepdown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_32">
+			<Text>Seal Shore</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_33">
+			<Text>Wintertown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_34">
+			<Text>Withered Heath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NORTH_35">
+			<Text>Cold Cliff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_0">
+			<Text>Jory Cassel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_1">
+			<Text>Old Nan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_2">
+			<Text>Arya Stark</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_3">
+			<Text>Hodor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_4">
+			<Text>Rodrik Cassel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_5">
+			<Text>Three-Eyed Raven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_6">
+			<Text>Alyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_7">
+			<Text>Rollam Westerling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_8">
+			<Text>Mikken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_9">
+			<Text>Rickard Snow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NORTH_10">
+			<Text>Osha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

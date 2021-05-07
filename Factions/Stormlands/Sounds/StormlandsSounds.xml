@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by CrispyJuice on 4/1/2020 12:26:27 AM -->
+<GameData>
+	<Audio_Sounds>
+		<Row>
+			<SoundID>SND_DOM_SPEECH_LEADER_RENLY_BARATHEON</SoundID>
+			<Filename>RenlyBaratheonDomSpeech</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+	<Audio_2DSounds>
+		<Row>
+			<ScriptID>AS2D_AMBIENCE_LEADER_RENLY_BARATHEON_AMBIENCE</ScriptID>
+			<SoundID>SND_AMBIENCE_GANDHI_AMBIENCE</SoundID>
+			<SoundType>GAME_SFX</SoundType>
+			<Looping>true</Looping>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+		</Row>
+		<Row>
+			<ScriptID>AS2D_DOM_SPEECH_RENLY_BARATHEON</ScriptID>
+			<SoundID>SND_DOM_SPEECH_LEADER_RENLY_BARATHEON</SoundID>
+			<SoundType>GAME_SPEECH</SoundType>
+			<MinVolume>226</MinVolume>
+			<MaxVolume>226</MaxVolume>
+		</Row>
+	</Audio_2DSounds>
+</GameData>

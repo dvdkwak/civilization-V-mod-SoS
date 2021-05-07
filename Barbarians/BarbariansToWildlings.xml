@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by King Augurk B.V. on 10/13/2015 3:11:20 PM -->
+<GameData>
+	<Units>
+		<Update>
+			<Where Type="UNIT_BARBARIAN_WARRIOR"/>
+			<Set>
+				<Description>TXT_KEY_UNIT_RAIDER_BRUTE</Description>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="UNIT_BARBARIAN_SPEARMAN"/>
+			<Set>
+				<Description>TXT_KEY_UNIT_RAIDER_SPEARMAN</Description>
+			</Set>
+		</Update>
+		<Update>
+			<Where Type="UNIT_BARBARIAN_SWORDSMAN"/>
+			<Set>
+				<Description>TXT_KEY_UNIT_RAIDER_SWORDSMAN</Description>
+			</Set>
+		</Update>
+	</Units>
+	<!-- Color change of Wildlings -->
+	<Colors>
+		<Update>
+			<Where Type="COLOR_PLAYER_BARBARIAN_ICON"/>
+			<Set>
+				<Red>0.999</Red>
+				<Green>0.999</Green>
+				<Blue>0.999</Blue>
+			</Set>
+		</Update>
+	</Colors>
+	<Colors>
+		<Update>
+			<Where Type="COLOR_PLAYER_BARBARIAN_BACKGROUND"/>
+			<Set>
+				<Red>0.612</Red>
+				<Green>0.271</Green>
+				<Blue>0.039</Blue>
+			</Set>
+		</Update>
+	</Colors>
+	<!-- Wildlings text-->
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_CIV_BARBARIAN_DESC"/>
+			<Set>
+				<Text>Wildlings</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV_BARBARIAN_SHORT_DESC"/>
+			<Set>
+				<Text>Wildlings</Text>
+			</Set>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_CIV_BARBARIAN_ADJECTIVE"/>
+			<Set>
+				<Text>Wildling</Text>
+			</Set>
+		</Update>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_RAIDER_BRUTE">
+			<Text>Raider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RAIDER_SPEARMAN">
+			<Text>Skinchanger</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RAIDER_SWORDSMAN">
+			<Text>Hornfoot</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by King Augurk B.V. on 4/29/2021 7:10:44 PM -->
+<GameData>
+	<Era_NewEraVOs>
+		<!--Disable New Era Voice Overs -->
+		<Delete EraType="ERA_CLASSICAL"/>
+		<Delete EraType="ERA_MEDIEVAL"/>
+		<Delete EraType="ERA_RENAISSANCE"/>
+		<Delete EraType="ERA_INDUSTRIAL"/>
+		<Delete EraType="ERA_MODERN"/>
+		<Delete EraType="ERA_POSTMODERN"/>
+		<Delete EraType="ERA_FUTURE"/>
+	</Era_NewEraVOs>
+	<!-- Disable Eras -->
+	<Technologies>
+		<Update>
+			<Set Disable="1"/>
+			<Where Era="ERA_RENAISSANCE"/>
+		</Update>
+		<Update>
+			<Set Disable="1"/>
+			<Where Era="ERA_INDUSTRIAL"/>
+		</Update>
+		<Update>
+			<Set Disable="1"/>
+			<Where Era="ERA_MODERN"/>
+		</Update>
+		<Update>
+			<Set Disable="1"/>
+			<Where Era="ERA_POSTMODERN"/>
+		</Update>
+		<Update>
+			<Set Disable="1"/>
+			<Where Era="ERA_FUTURE"/>/
+		</Update>
+	</Technologies>
+	<Eras>
+	
+		<!-- EARLY SPIES -->
+		<Update>
+			<Where Type="ERA_CLASSICAL"/>
+			<Set SpiesGrantedForEveryone="1"/>
+		</Update>
+		<Update>
+			<Where Type="ERA_MEDIEVAL"/>
+			<Set SpiesGrantedForPlayer="1"/>
+		</Update>
+		<Update>
+			<Where Type="ERA_RENAISSANCE"/>
+			<Set SpiesGrantedForPlayer="1" SpiesGrantedForEveryone="0"/>
+		</Update>
+	</Eras>
+</GameData>

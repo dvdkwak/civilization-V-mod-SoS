@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/11/2021 11:47:28 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_KNIGHT</Class>
+			<Type>UNIT_WHITE_HARBOR_KNIGHT</Type>
+			<PrereqTech>TECH_CHIVALRY</PrereqTech>
+			<Combat>18</Combat>
+			<Cost>120</Cost>
+			<Moves>5</Moves>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_WHITE_HARBOR_KNIGHT</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_WHITE_HARBOR_KNIGHT_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_WHITE_HARBOR_KNIGHT_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_WHITE_HARBOR_KNIGHT</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_MILITARY_SCIENCE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_CAVALRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>25</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_WHITE_HARBOR_KNIGHT</UnitArtInfo>
+			<IconAtlas>NORTH_ATLAS</IconAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<MoveRate>QUADRUPED</MoveRate>
+			<UnitFlagAtlas>NORTH_WHITE_HARBOR_KNIGHT_FLAG</UnitFlagAtlas>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_PIKEMAN</Class>
+			<Type>UNIT_BOLTON_INFANTRY</Type>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
+			<Combat>10</Combat>
+			<Cost>90</Cost>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_BOLTON_INFANTRY</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_BOLTON_INFANTRY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_BOLTON_INFANTRY_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_BOLTON_INFANTRY</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>3</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_BOLTON_INFANTRY</UnitArtInfo>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>NORTH_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<UnitFlagAtlas>NORTH_BOLTON_INFANTRY_FLAG</UnitFlagAtlas>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<UnitAIType>UNITAI_COUNTER</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<!-- Unit_Buildings -->
+	<!-- Unit_BuildingClassRequireds -->
+	<!-- Unit_ProductionModifierBuildings -->
+	<!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>12</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>4</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<!-- Unit_GreatPersons -->
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<!-- Unit_UniqueNames -->
+	<Unit_YieldFromKills>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>150</Yield>
+		</Row>
+	</Unit_YieldFromKills>
+	<!-- Unit_NotAITypes -->
+	<!-- Unit_ProductionTraits -->
+	<!-- Unit_TechTypes -->
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>	
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_DEFENSIVE_EMBARKATION</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<PromotionType>PROMOTION_ADJACENT_BONUS</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<!-- UnitPromotions_CivilianUnitType -->
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_THICK_SKIN</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_THICK_SKIN</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_THICK_SKIN</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_THICK_SKIN</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_THICK_SKIN</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_THICK_SKIN</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_THICK_SKIN</Type>
+			<Description>Thick Skin</Description>
+			<Help>Unit gains +33% [ICON_STRENGTH] Combat Strength in Snow and Tundra.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +33% [ICON_STRENGTH] Combat Strength in Snow and Tundra.</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_Terrains>
+		<Row>
+			<PromotionType>PROMOTION_THICK_SKIN</PromotionType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+			<Defense>33</Defense>
+			<Attack>33</Attack>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_THICK_SKIN</PromotionType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+			<Defense>33</Defense>
+			<Attack>33</Attack>
+		</Row>
+	</UnitPromotions_Terrains>
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_WHITE_HARBOR_KNIGHT</UnitType>
+			<SelectionSound>AS2D_SELECT_KNIGHT</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_KNIGHT</FirstSelectionSound>
+		</Row>
+		<Row>
+			<UnitType>UNIT_BOLTON_INFANTRY</UnitType>
+			<SelectionSound>AS2D_SELECT_PIKEMAN</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_PIKEMAN</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+	<!-- Bolton Infantry art_def_member EN NIET MEMBER ****************************************************** -->
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_BOLTON_INFANTRY</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>Phalanx</Formation>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_WHITE_HARBOR_KNIGHT</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>DefaultCavalry</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_BOLTON_INFANTRY</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_U_BOLTON_INFANTRY</UnitMemberInfoType>
+			<NumMembers>12</NumMembers>
+		</Row>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_WHITE_HARBOR_KNIGHT</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_U_WHITE_HARBOR_KNIGHT</UnitMemberInfoType>
+			<NumMembers>8</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_U_BOLTON_INFANTRY</Type>
+			<Scale>0.140000000596046</Scale>
+			<Model>Factions/North/Art/BoltonInfantry_North.fxsxml</Model>
+			<MaterialTypeTag>ARMOR</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>ARMOR</MaterialTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_U_WHITE_HARBOR_KNIGHT</Type>
+			<Scale>0.119999997317791</Scale>
+			<Model>Factions/North/Art/WhiteHarborKnight_North.fxsxml</Model>
+			<MaterialTypeTag>ARMOR</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>ARMOR</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_BOLTON_INFANTRY</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
+			<ShortMoveRadius>12.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TargetHeight>8.0</TargetHeight>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>1</ReformBeforeCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_WHITE_HARBOR_KNIGHT</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk</EnableActions>
+			<ShortMoveRadius>24.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TurnRateMin>0.5</TurnRateMin>
+			<TurnRateMax>0.75</TurnRateMax>
+			<TurnFacingRateMin>15.0</TurnFacingRateMin>
+			<TurnFacingRateMax>20.0</TurnFacingRateMax>
+			<TargetHeight>12.0</TargetHeight>
+			<HasStationaryMelee>1</HasStationaryMelee>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>2</ReformBeforeCombat>
+			<OnlyTurnInMovementActions>1</OnlyTurnInMovementActions>
+			<RushAttackFormation>DefaultCavalry</RushAttackFormation>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_BOLTON_INFANTRY</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>METAL</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SPEAR</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_BOLTON_INFANTRY</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_WHITE_HARBOR_KNIGHT</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>METAL</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SWORD</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_WHITE_HARBOR_KNIGHT</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_BOLTON_INFANTRY</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Pikeman.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_WHITE_HARBOR_KNIGHT</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Knight.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_WHITE_HARBOR_KNIGHT">
+			<Text>White Harbor Knight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_WHITE_HARBOR_KNIGHT_TEXT">
+			<Text>
+				The White Harbor Knight is an old Northern type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]White Harbor Knights mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the Bolton Infantry was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Norther fish is the country of Italy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_WHITE_HARBOR_KNIGHT_STRATEGY">
+			<Text>The White Harbor Knight is a Northern unique unit, replacing the Knight. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game Bolton Infantry, providing additional [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_WHITE_HARBOR_KNIGHT">
+			<Text>Replaces the Knight. Excellent scout unit. The White Harbor Knight is also more resistant on water. Only the Northmen may build this unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOLTON_INFANTRY">
+			<Text>Bolton Infantry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BOLTON_INFANTRY_TEXT">
+			<Text>
+				The Bolton Infantry is an old Northern type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]White Harbor Knights mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the Bolton Infantry was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Norther fish is the country of Italy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_BOLTON_INFANTRY_STRATEGY">
+			<Text>The Bolton Infantry is the Norther unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game Bolton Infantry, providing additional [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_BOLTON_INFANTRY">
+			<Text>Replaces the Pikeman. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the Northers may build this unit.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

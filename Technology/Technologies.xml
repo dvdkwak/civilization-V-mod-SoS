@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/29/2021 7:58:23 PM -->
+<GameData>
+	<Processes>
+		<!--Move Research from Education to Mathematics -->
+		<Update>
+			<Where Type="PROCESS_RESEARCH"/>
+			<Set TechPrereq="TECH_MATHEMATICS"/>
+		</Update>
+	</Processes>
+	<Technologies>
+		<Update>
+			<Where Type="TECH_FUTURE_TECH"/>
+			<Set PortraitIndex="39" IconAtlas="TECH_ATLAS_1" GridX="17" GridY="0" Cost="5500" />
+		</Update>
+		<Update>
+			<Where Type="TECH_RADIO"/>
+			<Set PortraitIndex="0" IconAtlas="EXPANSION2_TECH_ATLAS" GridX="11" GridY="0" Cost="3000" Quote="TXT_KEY_TECH_STEALTH_QUOTE" AudioIntro="AS2D_TECH_STEALTH" />
+		</Update>
+		<Update>
+			<Where Type="TECH_GLOBALIZATION"/>
+			<Set GridX="16" GridY="0" Cost="5000" Quote="TXT_KEY_TECH_BIOLOGY_QUOTE" AudioIntro="AS2D_TECH_BIOLOGY"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_INTERNET"/>
+			<Set GridX="16" GridY="1" />
+		</Update>
+		<Update>
+			<Where Type="TECH_RADIO"/>
+			<Set MapVisible="true"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_BANKING"/>
+			<Set AllowsWorldCongress="true"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_PRINTING_PRESS"/>
+			<Set AllowsWorldCongress="false"/>
+		</Update>
+		<!-- Move All Water Embarkation -->
+		<Update>
+			<Where Type="TECH_COMPASS"/>
+			<Set EmbarkedAllWaterPassage="true"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ASTRONOMY"/>
+			<Set EmbarkedAllWaterPassage="false"/>
+		</Update>
+		<!-- Extend Techs -->
+		<Update>
+			<Where Type="TECH_POTTERY"/>
+			<Set Cost="50"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ANIMAL_HUSBANDRY"/>
+			<Set Cost="50"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ARCHERY"/>
+			<Set Cost="50"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_MINING"/>
+			<Set Cost="50"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_SAILING"/>
+			<Set Cost="80"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_CALENDAR"/>
+			<Set Cost="80"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_WRITING"/>
+			<Set Cost="80"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_TRAPPING"/>
+			<Set Cost="80"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_THE_WHEEL"/>
+			<Set Cost="80"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_MASONRY"/>
+			<Set Cost="80"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_BRONZE_WORKING"/>
+			<Set Cost="80"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_OPTICS"/>
+			<Set Cost="125"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_HORSEBACK_RIDING"/>
+			<Set Cost="155"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_MATHEMATICS"/>
+			<Set Cost="155"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_CONSTRUCTION"/>
+			<Set Cost="155"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_PHILOSOPHY"/>
+			<Set Cost="260"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_DRAMA"/>
+			<Set Cost="260"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_CURRENCY"/>
+			<Set Cost="260"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ENGINEERING"/>
+			<Set Cost="260"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_IRON_WORKING"/>
+			<Set Cost="290"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_THEOLOGY"/>
+			<Set Cost="410"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_CIVIL_SERVICE"/>
+			<Set Cost="410"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_GUILDS"/>
+			<Set Cost="410"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_METAL_CASTING"/>
+			<Set Cost="410"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_COMPASS"/>
+			<Set Cost="560"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_EDUCATION"/>
+			<Set Cost="725"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_CHIVALRY"/>
+			<Set Cost="725"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_MACHINERY"/>
+			<Set Cost="725"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_PHYSICS"/>
+			<Set Cost="725"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_STEEL"/>
+			<Set Cost="725"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ASTRONOMY"/>
+			<Set Cost="1150"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_ACOUSTICS"/>
+			<Set Cost="1150"/>
+		</Update>
+		<Update>
+			<Where Type="TECH_BANKING"/>
+			<Set Cost="1150"/>
+		</Update>
+		
+		<!-- REENABLE TECHS -->
+		
+		<Update>
+			<Set Disable="0"/>
+			<Where Type="TECH_FUTURE_TECH"/>
+		</Update>
+		<Update>
+			<Set Disable="0"/>
+			<Where Type="TECH_BANKING"/>
+		</Update>
+		<Update>
+			<Set Disable="0"/>
+			<Where Type="TECH_ASTRONOMY"/>
+		</Update>
+		<Update>
+			<Set Disable="0"/>
+			<Where Type="TECH_ACOUSTICS"/>
+		</Update>
+		<Update>
+			<Set Disable="0"/>
+			<Where Type="TECH_RADIO"/>
+		</Update>
+		<Update>
+			<Set Disable="0"/>
+			<Where Type="TECH_GLOBALIZATION"/>
+		</Update>
+	</Technologies>
+
+	<Technology_PrereqTechs>
+		<Delete TechType="TECH_FUTURE_TECH" PrereqTech="TECH_PARTICLE_PHYSICS"/>
+		<Delete TechType="TECH_FUTURE_TECH" PrereqTech="TECH_NUCLEAR_FUSION"/>
+		<Delete TechType="TECH_FUTURE_TECH" PrereqTech="TECH_NANOTECHNOLOGY"/>
+		<Delete TechType="TECH_FUTURE_TECH" PrereqTech="TECH_STEALTH"/>
+		<Delete TechType="TECH_FUTURE_TECH" PrereqTech="TECH_INTERNET"/>
+		<Delete TechType="TECH_GLOBALIZATION" PrereqTech="TECH_TELECOM"/>
+		<Delete TechType="TECH_RADIO" PrereqTech="TECH_ELECTRICITY"/>
+		<Delete TechType="TECH_PLASTIC" PrereqTech="TECH_RADIO"/>
+		<Delete TechType="TECH_NAVIGATION" PrereqTech="TECH_ASTRONOMY"/>
+		<Delete TechType="TECH_ARCHITECTURE" PrereqTech="TECH_BANKING"/>
+		<Delete TechType="TECH_ARCHITECTURE" PrereqTech="TECH_ACOUSTICS"/>
+		<Delete TechType="TECH_ECONOMICS" PrereqTech="TECH_BANKING"/>
+		<Row>
+			<TechType>TECH_GLOBALIZATION</TechType>
+			<PrereqTech>TECH_RADIO</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RADIO</TechType>
+			<PrereqTech>TECH_ACOUSTICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RADIO</TechType>
+			<PrereqTech>TECH_BANKING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_RADIO</TechType>
+			<PrereqTech>TECH_ASTRONOMY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BANKING</TechType>
+			<PrereqTech>TECH_PHYSICS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BANKING</TechType>
+			<PrereqTech>TECH_MACHINERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BANKING</TechType>
+			<PrereqTech>TECH_STEEL</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_NAVIGATION</TechType>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ARCHITECTURE</TechType>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ECONOMICS</TechType>
+			<PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_HORSEBACK_RIDING</TechType>
+			<PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MASONRY</TechType>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_OPTICS</TechType>
+			<PrereqTech>TECH_POTTERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_TRAPPING</TechType>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+		</Row>
+	</Technology_PrereqTechs>
+	<Language_en_US>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_FUTURE_TECH_TITLE"/>
+			<Set Text="Mentoring"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_FUTURE_TECH_HELP"/>
+			<Set Text="Who knows what the future holds?[NEWLINE][NEWLINE]A repeating technology that will increase your score and give +1 [ICON_CULTURE] Culture and +1 [ICON_GOLD] Gold in your [ICON_CAPITAL] Capital each time it is researched."  />
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RADIO_TITLE"/>
+			<Set Text="Master of Whispers"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_BANKING_HELP"/>
+			<Set Text="Allows the founding of the World Congress, upgrades for many of the unique improvements, as well as access to the Bank building for gold production"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_RADIO_HELP"/>
+			<Set Text="Reveals the map, unlocks an aditional spy and the Master of Whispers National Wonder"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_GLOBALIZATION_TITLE"/>
+			<Set Text="Diplomacy"/>
+		</Update>
+		<Update>
+			<Where Tag="TXT_KEY_TECH_GLOBALIZATION_HELP"/>
+			<Set Text="Allows diplomats sent to each foreign power to confer Great Council votes"/>
+		</Update>
+	</Language_en_US>
+</GameData>
