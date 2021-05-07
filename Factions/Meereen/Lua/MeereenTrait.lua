@@ -5,12 +5,15 @@
 function CityCapturedNoResistance(hexPos, playerID, cityID, newPlayerID)
 	local winner = Players[newPlayerID];
 
+	print("City Captured No Resistence is called")
+
 	if not IsMajorCiv(winner) then return 
 	end
 
+	print("Attacker was a major civ")
+
 	local loser = Players[playerID];
 	local pPlot = Map.GetPlot(ToGridFromHex(hexPos.x, hexPos.y));
-
 
 	-- check if the plot has a city
 	if pPlot:IsCity() then
@@ -24,12 +27,14 @@ function CityCapturedNoResistance(hexPos, playerID, cityID, newPlayerID)
 			-- check if the city is in resistance
 			if pCity:IsResistance() then 
 
+				print("City was in resitance")
+
 				-- change the resistance time
 				pCity:ChangeResistanceTurns(-pCity:GetResistanceTurns());
 
 				-- pay back the lost population
-				iLostPop = math.floor(pCity:GetPopulation()/2) + 1;
-				pCity:ChangePopulation(iLostPop, true);
+				-- iLostPop = math.floor(pCity:GetPopulation()/2) + 1;
+				-- pCity:ChangePopulation(iLostPop, true);
 
 				-- send a message to player
 				local text = Locale.ConvertTextKey("TXT_KEY_CITY_LIBERATED", pCity:GetName());
@@ -38,12 +43,16 @@ function CityCapturedNoResistance(hexPos, playerID, cityID, newPlayerID)
 					-- give free courthouse to Liu Bei if Liu Bei choose to occupy the city
 					if pCity:IsOccupied() then
 					pCity:SetNumRealBuilding(GameInfoTypes["BUILDING_COURTHOUSE"], 1);
+
+					print("Courthouse was made")
 					
 					end
 			end
 		end
 	end
 end
+
+-- Running the script on city capture
 Events.SerialEventCityCaptured.Add( CityCapturedNoResistance );
 
 function IsValidPlayer(player)
