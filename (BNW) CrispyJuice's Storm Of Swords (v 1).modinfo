@@ -194,7 +194,7 @@
     <File md5="8826FEB65AF285ED07DA994072805FE9" import="1">Factions/Meereen/Art/Unsullied_Meereen.fxsxml</File>
     <File md5="E44D2D33A41286C17B944DE88DEF6951" import="1">Factions/Meereen/Art/Unsullied_Meereen.gr2</File>
     <File md5="E3A41F1E7FEEFC456B64BD6F30397D6E" import="1">Factions/Meereen/Art/Unsullied_Meereen_gloss.dds</File>
-    <File md5="B826C1CAB651892D2B3D2ECBF6984B64" import="1">Factions/Meereen/Lua/MeereenTrait.lua</File>
+    <File md5="B826C1CAB651892D2B3D2ECBF6984B64" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
     <File md5="1B162F7FE284D46D4E5E01C6F716559F" import="0">Factions/Meereen/Sounds/MeereenSounds.xml</File>
     <File md5="B7EA24000BCD0EB15C2C0C48F98CE887" import="1">Factions/Meereen/XML/DaenerysTargaryen_Scene.dds</File>
     <File md5="3272DE62737232940B7D151B7FDC3621" import="0">Factions/Meereen/XML/MeereenBuildings.xml</File>
@@ -522,4 +522,11 @@
       <UpdateDatabase>Factions/Stormlands/XML/StormlandsImprovement.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Factions/Meereen/Lua/MeereenTrait.lua">
+      <Name>MeereenTrait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
 </Mod>

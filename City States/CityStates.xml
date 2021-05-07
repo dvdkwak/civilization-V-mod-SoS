@@ -1,1312 +1,1312 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 4/29/2021 2:00:33 PM -->
 <GameData>
-	<MinorCivilizations>
-		<Row>
-			<Type>MINOR_CIV_VOLON_THERYS</Type>
-			<Description>TXT_KEY_CITYSTATE_VOLON_THERYS</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_VOLON_THERYS</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_VOLON_THERYS_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_VOLON_THERYS_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_ORANGE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_VALYSAR</Type>
-			<Description>TXT_KEY_CITYSTATE_VALYSAR</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_VALYSAR</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_VALYSAR_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_VALYSAR_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CYAN</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_SELHORYS</Type>
-			<Description>TXT_KEY_CITYSTATE_SELHORYS</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_SELHORYS</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_SELHORYS_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_SELHORYS_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_CYAN</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_PENTOS</Type>
-			<Description>TXT_KEY_CITYSTATE_PENTOS</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_PENTOS</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_PENTOS_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_PENTOS_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_WHITE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_VAES_DOTHRAK</Type>
-			<Description>TXT_KEY_CITYSTATE_VAES_DOTHRAK</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_VAES_DOTHRAK</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_VAES_DOTHRAK_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_VAES_DOTHRAK_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_PEACH</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_LYS</Type>
-			<Description>TXT_KEY_CITYSTATE_LYS</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_LYS</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_LYS_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_LYS_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_QOHOR</Type>
-			<Description>TXT_KEY_CITYSTATE_QOHOR</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_QOHOR</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_QOHOR_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_QOHOR_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_ORANGE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_NORVOS</Type>
-			<Description>TXT_KEY_CITYSTATE_NORVOS</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_NORVOS</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_NORVOS_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_NORVOS_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_YELLOW</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_MYR</Type>
-			<Description>TXT_KEY_CITYSTATE_MYR</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_MYR</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_MYR_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_MYR_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_YELLOW</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_TYROSH</Type>
-			<Description>TXT_KEY_CITYSTATE_TYROSH</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_TYROSH</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_TYROSH_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_TYROSH_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_DARK_LEMON</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_VOLANTIS</Type>
-			<Description>TXT_KEY_CITYSTATE_VOLANTIS</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_VOLANTIS</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_VOLANTIS_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_VOLANTIS_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_PURPLE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_LORATH</Type>
-			<Description>TXT_KEY_CITYSTATE_LORATH</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_LORATH</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_LORATH_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_LORATH_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_NAATH</Type>
-			<Description>TXT_KEY_CITYSTATE_NAATH</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_NAATH</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_NAATH_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_NAATH_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_GREEN</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
-			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
-			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
-			<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_BAYASABHAD</Type>
-			<Description>TXT_KEY_CITYSTATE_BAYASABHAD</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_BAYASABHAD</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_BAYASABHAD_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_BAYASABHAD_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_GOLDENROD</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
-			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
-			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
-			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_LOTUS_PORT</Type>
-			<Description>TXT_KEY_CITYSTATE_LOTUS_PORT</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_LOTUS_PORT</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_LOTUS_PORT_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_LOTUS_PORT_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CYAN</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
-			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
-			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
-			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_EBONHEAD</Type>
-			<Description>TXT_KEY_CITYSTATE_EBONHEAD</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_EBONHEAD</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_EBONHEAD_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_EBONHEAD_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_CYAN</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
-			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
-			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
-			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_CASTLE_BLACK</Type>
-			<Description>TXT_KEY_CITYSTATE_CASTLE_BLACK</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_CASTLE_BLACK</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_CASTLE_BLACK_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_CASTLE_BLACK_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_GRAY</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
-			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
-			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
-			<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_TALL_TREES_TOWN</Type>
-			<Description>TXT_KEY_CITYSTATE_TALL_TREES_TOWN</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_TALL_TREES_TOWN</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_TALL_TREES_TOWN_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_TALL_TREES_TOWN_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_PURPLE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
-			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
-			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
-			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_ASSHAI</Type>
-			<Description>TXT_KEY_CITYSTATE_ASSHAI</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_ASSHAI</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_ASSHAI_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_ASSHAI_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_BLUE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_QARTH</Type>
-			<Description>TXT_KEY_CITYSTATE_QARTH</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_QARTH</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_QARTH_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_QARTH_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_BLUE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_MOLES_TOWN</Type>
-			<Description>TXT_KEY_CITYSTATE_MOLES_TOWN</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_MOLES_TOWN</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_MOLES_TOWN_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_MOLES_TOWN_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_GREEN</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_KAYAKAYANAYA</Type>
-			<Description>TXT_KEY_CITYSTATE_KAYAKAYANAYA</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_KAYAKAYANAYA</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_KAYAKAYANAYA_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_KAYAKAYANAYA_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_PURPLE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_ADAKHAKILEKI</Type>
-			<Description>TXT_KEY_CITYSTATE_ADAKHAKILEKI</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_ADAKHAKILEKI</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_ADAKHAKILEKI_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_ADAKHAKILEKI_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_GREEN</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_YIN</Type>
-			<Description>TXT_KEY_CITYSTATE_YIN</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_YIN</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_YIN_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_YIN_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_GREEN</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_NEFER</Type>
-			<Description>TXT_KEY_CITYSTATE_NEFER</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_NEFER</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_NEFER_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_NEFER_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CYAN</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_TRADER_TOWN</Type>
-			<Description>TXT_KEY_CITYSTATE_TRADER_TOWN</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_TRADER_TOWN</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_TRADER_TOWN_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_TRADER_TOWN_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_ORANGE</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
-		</Row>
-		<Row>
-			<Type>MINOR_CIV_PORT_MORAQ</Type>
-			<Description>TXT_KEY_CITYSTATE_PORT_MORAQ</Description>
-			<ShortDescription>TXT_KEY_CITYSTATE_PORT_MORAQ</ShortDescription>
-			<Adjective>TXT_KEY_CITYSTATE_PORT_MORAQ_ADJ</Adjective>
-			<Civilopedia>TXT_KEY_CIV5_PORT_MORAQ_TEXT</Civilopedia>
-			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_YELLOW</DefaultPlayerColor>
-			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
-			<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
-			<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
-			<ArtStylePrefix>AFRICAN </ArtStylePrefix>
-			<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
-		</Row>
-	</MinorCivilizations>
-	<MinorCivilization_CityNames>
-		<Row>
-			<MinorCivType>MINOR_CIV_VOLON_THERYS</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_VOLON_THERYS</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VALYSAR</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_VALYSAR</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_SELHORYS</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_SELHORYS</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_PENTOS</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_VAES_DOTHRAK</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LYS</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_LYS</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_QOHOR</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_NORVOS</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MYR</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_MYR</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_TYROSH</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_VOLANTIS</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_LORATH</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_NAATH</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_BAYASABHAD</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_LOTUS_PORT</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_EBONHEAD</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_CASTLE_BLACK</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_TALL_TREES_TOWN</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_ASSHAI</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_QARTH</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_MOLES_TOWN</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_KAYAKAYANAYA</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_ADAKHAKILEKI</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_YIN</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_YIN</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_NEFER</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_TRADER_TOWN</CityName>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
-			<CityName>TXT_KEY_CITYSTATE_PORT_MORAQ</CityName>
-		</Row>
-	</MinorCivilization_CityNames>
-	<MinorCivilization_Flavors>
-		<Row>
-			<MinorCivType>MINOR_CIV_VOLON_THERYS</MinorCivType>
-			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VALYSAR</MinorCivType>
-			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VALYSAR</MinorCivType>
-			<FlavorType>FLAVOR_GOLD</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_SELHORYS</MinorCivType>
-			<FlavorType>FLAVOR_GOLD</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
-			<FlavorType>FLAVOR_GOLD</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
-			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
-			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
-			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
-			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LYS</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LYS</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LYS</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LYS</MinorCivType>
-			<FlavorType>FLAVOR_CULTURE</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
-			<FlavorType>FLAVOR_RELIGION</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
-			<FlavorType>FLAVOR_GOLD</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MYR</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MYR</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MYR</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MYR</MinorCivType>
-			<FlavorType>FLAVOR_GOLD</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
-			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
-			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
-			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
-			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
-			<FlavorType>FLAVOR_NAVAL</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
-			<FlavorType>FLAVOR_GROWTH</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
-			<FlavorType>FLAVOR_NAVAL</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
-			<FlavorType>FLAVOR_GROWTH</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
-			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
-			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
-			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
-			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
-			<FlavorType>FLAVOR_CULTURE</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
-			<FlavorType>FLAVOR_CULTURE</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
-			<FlavorType>FLAVOR_CULTURE</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
-			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
-			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
-			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
-			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
-			<Flavor>7</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
-			<FlavorType>FLAVOR_GOLD</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
-			<FlavorType>FLAVOR_GOLD</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_NAVAL</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
-			<FlavorType>FLAVOR_NAVAL</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
-			<FlavorType>FLAVOR_GROWTH</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
-			<FlavorType>FLAVOR_NAVAL</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
-			<FlavorType>FLAVOR_GROWTH</FlavorType>
-			<Flavor>8</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_YIN</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_YIN</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_YIN</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_YIN</MinorCivType>
-			<FlavorType>FLAVOR_CULTURE</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
-			<FlavorType>FLAVOR_RELIGION</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
-			<FlavorType>FLAVOR_GOLD</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
-			<FlavorType>FLAVOR_EXPANSION</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
-			<FlavorType>FLAVOR_NUKE</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
-			<FlavorType>FLAVOR_WONDER</FlavorType>
-			<Flavor>0</Flavor>
-		</Row>
-		<Row>
-			<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
-			<FlavorType>FLAVOR_RELIGION</FlavorType>
-			<Flavor>10</Flavor>
-		</Row>
-	</MinorCivilization_Flavors>
+		<MinorCivilizations>
+			<Row>
+				<Type>MINOR_CIV_VOLON_THERYS</Type>
+				<Description>TXT_KEY_CITYSTATE_VOLON_THERYS</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_VOLON_THERYS</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_VOLON_THERYS_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_VOLON_THERYS_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_ORANGE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_VALYSAR</Type>
+				<Description>TXT_KEY_CITYSTATE_VALYSAR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_VALYSAR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_VALYSAR_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_VALYSAR_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_CYAN</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_SELHORYS</Type>
+				<Description>TXT_KEY_CITYSTATE_SELHORYS</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_SELHORYS</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_SELHORYS_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_SELHORYS_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_CYAN</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_PENTOS</Type>
+				<Description>TXT_KEY_CITYSTATE_PENTOS</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_PENTOS</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_PENTOS_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_PENTOS_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_WHITE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_VAES_DOTHRAK</Type>
+				<Description>TXT_KEY_CITYSTATE_VAES_DOTHRAK</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_VAES_DOTHRAK</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_VAES_DOTHRAK_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_VAES_DOTHRAK_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_PEACH</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_LYS</Type>
+				<Description>TXT_KEY_CITYSTATE_LYS</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_LYS</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_LYS_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_LYS_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_QOHOR</Type>
+				<Description>TXT_KEY_CITYSTATE_QOHOR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_QOHOR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_QOHOR_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_QOHOR_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_ORANGE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_NORVOS</Type>
+				<Description>TXT_KEY_CITYSTATE_NORVOS</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_NORVOS</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_NORVOS_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_NORVOS_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_YELLOW</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_MYR</Type>
+				<Description>TXT_KEY_CITYSTATE_MYR</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MYR</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MYR_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_MYR_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_YELLOW</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_TYROSH</Type>
+				<Description>TXT_KEY_CITYSTATE_TYROSH</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_TYROSH</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_TYROSH_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_TYROSH_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_DARK_LEMON</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_VOLANTIS</Type>
+				<Description>TXT_KEY_CITYSTATE_VOLANTIS</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_VOLANTIS</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_VOLANTIS_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_VOLANTIS_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_PURPLE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_LORATH</Type>
+				<Description>TXT_KEY_CITYSTATE_LORATH</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_LORATH</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_LORATH_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_LORATH_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_NAATH</Type>
+				<Description>TXT_KEY_CITYSTATE_NAATH</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_NAATH</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_NAATH_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_NAATH_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_GREEN</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+				<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+				<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+				<MinorCivTrait>MINOR_TRAIT_MARITIME</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_BAYASABHAD</Type>
+				<Description>TXT_KEY_CITYSTATE_BAYASABHAD</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_BAYASABHAD</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_BAYASABHAD_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_BAYASABHAD_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_GOLDENROD</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+				<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+				<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+				<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_LOTUS_PORT</Type>
+				<Description>TXT_KEY_CITYSTATE_LOTUS_PORT</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_LOTUS_PORT</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_LOTUS_PORT_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_LOTUS_PORT_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_CYAN</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+				<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+				<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+				<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_EBONHEAD</Type>
+				<Description>TXT_KEY_CITYSTATE_EBONHEAD</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_EBONHEAD</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_EBONHEAD_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_EBONHEAD_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_CYAN</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+				<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+				<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+				<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_CASTLE_BLACK</Type>
+				<Description>TXT_KEY_CITYSTATE_CASTLE_BLACK</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_CASTLE_BLACK</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_CASTLE_BLACK_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_CASTLE_BLACK_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_GRAY</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+				<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+				<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+				<MinorCivTrait>MINOR_TRAIT_MILITARISTIC</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_TALL_TREES_TOWN</Type>
+				<Description>TXT_KEY_CITYSTATE_TALL_TREES_TOWN</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_TALL_TREES_TOWN</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_TALL_TREES_TOWN_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_TALL_TREES_TOWN_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_PURPLE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+				<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+				<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+				<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_ASSHAI</Type>
+				<Description>TXT_KEY_CITYSTATE_ASSHAI</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_ASSHAI</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_ASSHAI_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_ASSHAI_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_BLUE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_QARTH</Type>
+				<Description>TXT_KEY_CITYSTATE_QARTH</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_QARTH</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_QARTH_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_QARTH_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_BLUE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_MOLES_TOWN</Type>
+				<Description>TXT_KEY_CITYSTATE_MOLES_TOWN</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_MOLES_TOWN</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_MOLES_TOWN_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_MOLES_TOWN_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_GREEN</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_KAYAKAYANAYA</Type>
+				<Description>TXT_KEY_CITYSTATE_KAYAKAYANAYA</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_KAYAKAYANAYA</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_KAYAKAYANAYA_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_KAYAKAYANAYA_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_PURPLE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_ADAKHAKILEKI</Type>
+				<Description>TXT_KEY_CITYSTATE_ADAKHAKILEKI</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_ADAKHAKILEKI</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_ADAKHAKILEKI_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_ADAKHAKILEKI_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_GREEN</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_YIN</Type>
+				<Description>TXT_KEY_CITYSTATE_YIN</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_YIN</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_YIN_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_YIN_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_GREEN</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_NEFER</Type>
+				<Description>TXT_KEY_CITYSTATE_NEFER</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_NEFER</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_NEFER_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_NEFER_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_CYAN</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_TRADER_TOWN</Type>
+				<Description>TXT_KEY_CITYSTATE_TRADER_TOWN</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_TRADER_TOWN</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_TRADER_TOWN_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_TRADER_TOWN_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_ORANGE</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+			</Row>
+			<Row>
+				<Type>MINOR_CIV_PORT_MORAQ</Type>
+				<Description>TXT_KEY_CITYSTATE_PORT_MORAQ</Description>
+				<ShortDescription>TXT_KEY_CITYSTATE_PORT_MORAQ</ShortDescription>
+				<Adjective>TXT_KEY_CITYSTATE_PORT_MORAQ_ADJ</Adjective>
+				<Civilopedia>TXT_KEY_CIV5_PORT_MORAQ_TEXT</Civilopedia>
+				<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_YELLOW</DefaultPlayerColor>
+				<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+				<ArtStyleType>ARTSTYLE_MIDDLE_EAST</ArtStyleType>
+				<ArtStyleSuffix>_AFRI</ArtStyleSuffix>
+				<ArtStylePrefix>AFRICAN </ArtStylePrefix>
+				<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
+			</Row>
+		</MinorCivilizations>
+		<MinorCivilization_CityNames>
+			<Row>
+				<MinorCivType>MINOR_CIV_VOLON_THERYS</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_VOLON_THERYS</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VALYSAR</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_VALYSAR</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_SELHORYS</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_SELHORYS</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_PENTOS</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_VAES_DOTHRAK</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LYS</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_LYS</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_QOHOR</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_NORVOS</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MYR</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_MYR</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_TYROSH</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_VOLANTIS</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_LORATH</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_NAATH</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_BAYASABHAD</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_LOTUS_PORT</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_EBONHEAD</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_CASTLE_BLACK</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_TALL_TREES_TOWN</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_ASSHAI</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_QARTH</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_MOLES_TOWN</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_KAYAKAYANAYA</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_ADAKHAKILEKI</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_YIN</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_YIN</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_NEFER</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_TRADER_TOWN</CityName>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
+				<CityName>TXT_KEY_CITYSTATE_PORT_MORAQ</CityName>
+			</Row>
+		</MinorCivilization_CityNames>
+		<MinorCivilization_Flavors>
+			<Row>
+				<MinorCivType>MINOR_CIV_VOLON_THERYS</MinorCivType>
+				<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VALYSAR</MinorCivType>
+				<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VALYSAR</MinorCivType>
+				<FlavorType>FLAVOR_GOLD</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_SELHORYS</MinorCivType>
+				<FlavorType>FLAVOR_GOLD</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PENTOS</MinorCivType>
+				<FlavorType>FLAVOR_GOLD</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
+				<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
+				<FlavorType>FLAVOR_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
+				<FlavorType>FLAVOR_OFFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
+				<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VAES_DOTHRAK</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LYS</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LYS</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LYS</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LYS</MinorCivType>
+				<FlavorType>FLAVOR_CULTURE</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QOHOR</MinorCivType>
+				<FlavorType>FLAVOR_RELIGION</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NORVOS</MinorCivType>
+				<FlavorType>FLAVOR_GOLD</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MYR</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MYR</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MYR</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MYR</MinorCivType>
+				<FlavorType>FLAVOR_GOLD</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
+				<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
+				<FlavorType>FLAVOR_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
+				<FlavorType>FLAVOR_OFFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TYROSH</MinorCivType>
+				<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
+				<FlavorType>FLAVOR_NAVAL</FlavorType>
+				<Flavor>8</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_VOLANTIS</MinorCivType>
+				<FlavorType>FLAVOR_GROWTH</FlavorType>
+				<Flavor>8</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
+				<FlavorType>FLAVOR_NAVAL</FlavorType>
+				<Flavor>8</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LORATH</MinorCivType>
+				<FlavorType>FLAVOR_GROWTH</FlavorType>
+				<Flavor>8</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
+				<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
+				<FlavorType>FLAVOR_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
+				<FlavorType>FLAVOR_OFFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NAATH</MinorCivType>
+				<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_BAYASABHAD</MinorCivType>
+				<FlavorType>FLAVOR_CULTURE</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_LOTUS_PORT</MinorCivType>
+				<FlavorType>FLAVOR_CULTURE</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_EBONHEAD</MinorCivType>
+				<FlavorType>FLAVOR_CULTURE</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
+				<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
+				<FlavorType>FLAVOR_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
+				<FlavorType>FLAVOR_OFFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_CASTLE_BLACK</MinorCivType>
+				<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_DEFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_OFFENSE</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TALL_TREES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+				<Flavor>7</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ASSHAI</MinorCivType>
+				<FlavorType>FLAVOR_GOLD</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_QARTH</MinorCivType>
+				<FlavorType>FLAVOR_GOLD</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_MOLES_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_NAVAL</FlavorType>
+				<Flavor>8</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
+				<FlavorType>FLAVOR_NAVAL</FlavorType>
+				<Flavor>8</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_KAYAKAYANAYA</MinorCivType>
+				<FlavorType>FLAVOR_GROWTH</FlavorType>
+				<Flavor>8</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
+				<FlavorType>FLAVOR_NAVAL</FlavorType>
+				<Flavor>8</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_ADAKHAKILEKI</MinorCivType>
+				<FlavorType>FLAVOR_GROWTH</FlavorType>
+				<Flavor>8</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_YIN</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_YIN</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_YIN</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_YIN</MinorCivType>
+				<FlavorType>FLAVOR_CULTURE</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_NEFER</MinorCivType>
+				<FlavorType>FLAVOR_RELIGION</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_TRADER_TOWN</MinorCivType>
+				<FlavorType>FLAVOR_GOLD</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
+				<FlavorType>FLAVOR_EXPANSION</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
+				<FlavorType>FLAVOR_NUKE</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
+				<FlavorType>FLAVOR_WONDER</FlavorType>
+				<Flavor>0</Flavor>
+			</Row>
+			<Row>
+				<MinorCivType>MINOR_CIV_PORT_MORAQ</MinorCivType>
+				<FlavorType>FLAVOR_RELIGION</FlavorType>
+				<Flavor>10</Flavor>
+			</Row>
+		</MinorCivilization_Flavors>
 
-	<!-- /////////////////////City States text///////////////////////// -->
+		<!-- /////////////////////City States text///////////////////////// -->
 
-	<Language_en_US>
-		<Row Tag="TXT_KEY_CITYSTATE_VOLON_THERYS">
-			<Text>Volon Therys</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_VOLON_THERYS_ADJ">
-			<Text>Volon Therysian</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_VOLON_THERYS_TEXT">
-			<Text>Serving as seat to House Mormont, this remote and dreary island has seen many a battle, switching between ironborn and northern control for centuries until during the reign of Rodrik Stark, the island was wagered and won on a wrestling match before being given to the Mormonts.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_VALYSAR">
-			<Text>Valysar</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_VALYSAR_ADJ">
-			<Text>Valysarian</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_VALYSAR_TEXT">
-			<Text>The demon road passes through Mantarys. It has a sinister repute and is allegedly a city of monsters.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_SELHORYS">
-			<Text>Selhorys</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_SELHORYS_ADJ">
-			<Text>Selhorian</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_SELHORYS_TEXT">
-			<Text>The people of Saath still call themselves Tagaez Fen, or Tall Men, after the Sarnori of old. The city has managed to survive with the support of Ib and Lorath.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_PENTOS">
-			<Text>Pentos</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_PENTOS_ADJ">
-			<Text>Pentoshi</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_PENTOS_TEXT">
-			<Text>Pentos is a large port city, more populous than Astapor on Slaver's Bay, and may be one of the most populous of the Free Cities. It lies on the bay of Pentos off the narrow sea, with the Flatlands plains and Velvet Hills to the east.	The city has many square brick towers, controlled by the spice traders. Most of the roofing is done in tiles. There is a large red temple in Pentos, along with the manse of Illyrio Mopatis and the 'Sunrise Gate' allows the traveler to exit the city to the east, in the direction of the Rhoyne.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_VAES_DOTHRAK">
-			<Text>Vaes Dothrak</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_VAES_DOTHRAK_ADJ">
-			<Text>Dothraki</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_VAES_DOTHRAK_TEXT">
-			<Text>Vaes Dothrak is the greatest and most powerful of the Free Cities, located in a lagoon on the northwestern end of Essos, where the narrow sea and the Shivering Sea meet. There is a stretch of land to the southwest called the Braavosian Coastland that is claimed by Braavos. The ruler of Braavos is known as the Sealord and it is from the sea that the city’s power and wealth flows.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_LYS">
-			<Text>Lys</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_LYS_ADJ">
-			<Text>Lysene</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_LYS_TEXT">
-			<Text>Lys is one of the nine Free Cities, located on Essos. It is a small city clinging to rocks surrounded by stormy seas. The city lies off the southern coast of the eastern continent, to the southeast of Tyrosh and to the west of Volantis. According to semi-canon sources the city is spread over several islands. Lys is known for the alchemists who work in the city, who are known to make poisons, the Strangler among them.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_QOHOR">
-			<Text>Qohor</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_QOHOR_ADJ">
-			<Text>Qohorik</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_QOHOR_TEXT">
-			<Text>Qohor is one of the nine Free Cities located on the eastern continent. It lies near a great forest, the Forest of Qohor. Their city guard is made up entirely of Unsullied, of which every one carries a spear with a braid of human hair. It sits on the banks of the Qhoyne, a tributary of the Rhoyne. It sits to the east of Norvos and to the north of Volantis.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_NORVOS">
-			<Text>Norvos</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_NORVOS_ADJ">
-			<Text>Norvosian</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_NORVOS_TEXT">
-			<Text>Norvos is ruled by a High Magister and a council of religious protectors. It's divided into two, with the High City on the tallest hill in the region, and the Low City located at the base of the hill by the river.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MYR">
-			<Text>Myr</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MYR_ADJ">
-			<Text>Myrish</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_MYR_TEXT">
-			<Text>The inhabitants of the city are renowned for being great craftsmen. Its main exports are its finished goods, such as its carpets and lace. The best glass comes from Myr; a clear pane is worth its weight in spice. The best far-eyes are also made in Myr, and are as a result known as Myrish eyes. Myr produces gowns made of Myrish lace.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_TYROSH">
-			<Text>Tyrosh</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_TYROSH_ADJ">
-			<Text>Tyroshi</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_TYROSH_TEXT">
-			<Text>Tyrosh is far larger than the shadow city of Sunspear, being described as boisterous and loud. At the mouth of its harbor lies the Bleeding Tower. There is a fountain in Tyrosh called the Fountain of the Drunken God. There is a temple called the Temple of Trios with a big statue of the three headed Trios beside the temple’s doors.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_VOLANTIS">
-			<Text>Volantis</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_VOLANTIS_ADJ">
-			<Text>Volantene</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_VOLANTIS_TEXT">
-			<Text>The city sits on a very deep harbor. Volantenes claim that the hundred isles of Braavos could be dropped into the harbor and disappear. Volantis spreads across the mouth of the Rhoyne and across the hills and marshes on both sides of the river.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_LORATH">
-			<Text>Lorath</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_LORATH_ADJ">
-			<Text>Lorathi</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_LORATH_TEXT">
-			<Text>Lorath is one of the Nine Free Cities. It is situated on a group of islands off the northern coast of Essos.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_NAATH">
-			<Text>Naath</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_NAATH_ADJ">
-			<Text>Naathi</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_NAATH_TEXT">
-			<Text>Naath, sometimes known as the Crossing, is the name given to the fortified river crossing of House Frey within the northern Riverlands. It is the seat of House Frey.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_BAYASABHAD">
-			<Text>Bayasabhad</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_BAYASABHAD_ADJ">
-			<Text>Bayasabhadi</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_BAYASABHAD_TEXT">
-			<Text>Bayasabhad is the capital of the Seven Kingdoms, located on the east coast of Westeros, overlooking Blackwater Bay. It is the site of the Iron Throne and the Red Keep, the seat of the King. The main city is surrounded by a wall, manned by the City Watch of King's Landing, also known as the Gold Cloaks. Poorer smallfolk build shanty settlements outside the city. King's Landing is extremely populous, but rather unsightly and dirty compared to other cities. The stench of the city's waste can be smelled far beyond its walls. It is the principal harbor of the Seven Kingdoms, rivaled only by Oldtown.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_LOTUS_PORT">
-			<Text>Faros</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_LOTUS_PORT_ADJ">
-			<Text>Farosi</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_LOTUS_PORT_TEXT">
-			<Text>Faros is a great castle constructed before the War of Conquest, located in the Riverlands, on the north shore of the Gods Eye lake. It is the largest castle in the Seven Kingdoms. Since the War of Conquest, however, it has become a dark and ruinous place.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_EBONHEAD">
-			<Text>Ebonhead</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_EBONHEAD_ADJ">
-			<Text>Ebonhead</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_EBONHEAD_TEXT">
-			<Text>Ebonhead is one of the largest cities in Westeros and is by far the oldest, built by the First Men before the Andal Invasion. The city is located in the south-west of Westeros, at the mouth of the river Honeywine where it opens onto Whispering Sound and the Sunset Sea beyond. It is the western terminus of the Roseroad from Highgarden and King's Landing.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_CASTLE_BLACK">
-			<Text>Castle Black</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_CASTLE_BLACK_ADJ">
-			<Text>Castle Black</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_CASTLE_BLACK_TEXT">
-			<Text>Castle Black is the main fortress for the Night's Watch. The castle is situated along the Wall between Queensgate to the west and Oakenshield to the east, near the center of the Wall, at the northern end of the Kingsroad.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_TALL_TREES_TOWN">
-			<Text>Tall Trees Town</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_TALL_TREES_TOWN_ADJ">
-			<Text>Tall Tree</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_TALL_TREES_TOWN_TEXT">
-			<Text>Tall Trees Town is a fortress in the North and the seat of House Bolton. It is located on the banks of the Weeping Water, in the eastern half of the continent.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ASSHAI">
-			<Text>Asshai</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ASSHAI_ADJ">
-			<Text>Asshaï</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_ASSHAI_TEXT">
-			<Text>Asshai is a port city, located in the far south-east of the Essos continent on the Jade Sea at the entrance to its eastern exit, the Saffron Straits. Asshai on the southernmost edge of a mountainous peninsula known as the Shadow Lands, thus the city is often called as Asshai-by-the-Shadow and to go to Asshai can be described as to "pass beneath the shadow". The area of the Shadow Lands and Asshai are sometimes referred to simply as "the Shadow".</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_QARTH">
-			<Text>Qarth</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_QARTH_ADJ">
-			<Text>Qartheen</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_QARTH_TEXT">
-			<Text>Qarth is an ancient port city located on the south coast of the Essos continent. Situated in a central location, Qarth is a gateway of commerce and culture between the east and west, and the north and south. Brimming with wealth, the city's architecture makes a grand display. It is home to warlocks and merchant princes, and nominally ruled by the Pureborn. However, the powerful guilds Thirteen, Tourmaline Brotherhood and the Ancient Guild of Spicers all attempt to play a role in the governance of the city. It has been referred to as the Queen of Cities.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MOLES_TOWN">
-			<Text>Mole's Town</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_MOLES_TOWN_ADJ">
-			<Text>Mole's Town</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_MOLES_TOWN_TEXT">
-			<Text>Lotus Port is the capital of the Summer Islands. It is located in southwestern Walano north of the island Koj.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_KAYAKAYANAYA">
-			<Text>Kayakayanaya</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_KAYAKAYANAYA_ADJ">
-			<Text>Kayakayanayan</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_KAYAKAYANAYA_TEXT">
-			<Text>The Port of Ibben is the main city on Ibben. The lights of the city are powered with whale oil. Beyond the Port of Ibben lies cold wastes where hairy mammoths roam. It is located on the southwest coast of Ibben.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ADAKHAKILEKI">
-			<Text>Adakhakileki</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_ADAKHAKILEKI_ADJ">
-			<Text>Adakhakilekian</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_ADAKHAKILEKI_TEXT">
-			<Text>A trading town on the Cinnamon Straits.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_YIN">
-			<Text>Yin</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_YIN_ADJ">
-			<Text>Yin</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_YIN_TEXT">
-			<Text>Yin is a city in Yi Ti on the Jade Sea.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_NEFER">
-			<Text>Nefer</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_NEFER_ADJ">
-			<Text>Nefer</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_NEFER_TEXT">
-			<Text>A city in Essos near the Thousand Islands in N'Ghai.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_TRADER_TOWN">
-			<Text>Trader Town</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_TRADER_TOWN_ADJ">
-			<Text>Trader</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_TRADER_TOWN_TEXT">
-			<Text>As its names suggests, the town is a major trading point similar to Vaes Dothrak on the western side of the Bone Mountains.</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_PORT_MORAQ">
-			<Text>Port Moraq</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CITYSTATE_PORT_MORAQ_ADJ">
-			<Text>Moraqi</Text>
-		</Row>
-		<Row Tag="TXT_KEY_CIV5_PORT_MORAQ_TEXT">
-			<Text>A port of Great Moraq on the Cinnamon Straits.</Text>
-		</Row>
-	</Language_en_US>
+		<Language_en_US>
+			<Row Tag="TXT_KEY_CITYSTATE_VOLON_THERYS">
+				<Text>Volon Therys</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_VOLON_THERYS_ADJ">
+				<Text>Volon Therysian</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_VOLON_THERYS_TEXT">
+				<Text>Serving as seat to House Mormont, this remote and dreary island has seen many a battle, switching between ironborn and northern control for centuries until during the reign of Rodrik Stark, the island was wagered and won on a wrestling match before being given to the Mormonts.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_VALYSAR">
+				<Text>Valysar</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_VALYSAR_ADJ">
+				<Text>Valysarian</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_VALYSAR_TEXT">
+				<Text>The demon road passes through Mantarys. It has a sinister repute and is allegedly a city of monsters.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_SELHORYS">
+				<Text>Selhorys</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_SELHORYS_ADJ">
+				<Text>Selhorian</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_SELHORYS_TEXT">
+				<Text>The people of Saath still call themselves Tagaez Fen, or Tall Men, after the Sarnori of old. The city has managed to survive with the support of Ib and Lorath.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_PENTOS">
+				<Text>Pentos</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_PENTOS_ADJ">
+				<Text>Pentoshi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_PENTOS_TEXT">
+				<Text>Pentos is a large port city, more populous than Astapor on Slaver's Bay, and may be one of the most populous of the Free Cities. It lies on the bay of Pentos off the narrow sea, with the Flatlands plains and Velvet Hills to the east.	The city has many square brick towers, controlled by the spice traders. Most of the roofing is done in tiles. There is a large red temple in Pentos, along with the manse of Illyrio Mopatis and the 'Sunrise Gate' allows the traveler to exit the city to the east, in the direction of the Rhoyne.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_VAES_DOTHRAK">
+				<Text>Vaes Dothrak</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_VAES_DOTHRAK_ADJ">
+				<Text>Dothraki</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_VAES_DOTHRAK_TEXT">
+				<Text>Vaes Dothrak is the greatest and most powerful of the Free Cities, located in a lagoon on the northwestern end of Essos, where the narrow sea and the Shivering Sea meet. There is a stretch of land to the southwest called the Braavosian Coastland that is claimed by Braavos. The ruler of Braavos is known as the Sealord and it is from the sea that the city’s power and wealth flows.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_LYS">
+				<Text>Lys</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_LYS_ADJ">
+				<Text>Lysene</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_LYS_TEXT">
+				<Text>Lys is one of the nine Free Cities, located on Essos. It is a small city clinging to rocks surrounded by stormy seas. The city lies off the southern coast of the eastern continent, to the southeast of Tyrosh and to the west of Volantis. According to semi-canon sources the city is spread over several islands. Lys is known for the alchemists who work in the city, who are known to make poisons, the Strangler among them.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_QOHOR">
+				<Text>Qohor</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_QOHOR_ADJ">
+				<Text>Qohorik</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_QOHOR_TEXT">
+				<Text>Qohor is one of the nine Free Cities located on the eastern continent. It lies near a great forest, the Forest of Qohor. Their city guard is made up entirely of Unsullied, of which every one carries a spear with a braid of human hair. It sits on the banks of the Qhoyne, a tributary of the Rhoyne. It sits to the east of Norvos and to the north of Volantis.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_NORVOS">
+				<Text>Norvos</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_NORVOS_ADJ">
+				<Text>Norvosian</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_NORVOS_TEXT">
+				<Text>Norvos is ruled by a High Magister and a council of religious protectors. It's divided into two, with the High City on the tallest hill in the region, and the Low City located at the base of the hill by the river.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_MYR">
+				<Text>Myr</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_MYR_ADJ">
+				<Text>Myrish</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_MYR_TEXT">
+				<Text>The inhabitants of the city are renowned for being great craftsmen. Its main exports are its finished goods, such as its carpets and lace. The best glass comes from Myr; a clear pane is worth its weight in spice. The best far-eyes are also made in Myr, and are as a result known as Myrish eyes. Myr produces gowns made of Myrish lace.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_TYROSH">
+				<Text>Tyrosh</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_TYROSH_ADJ">
+				<Text>Tyroshi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_TYROSH_TEXT">
+				<Text>Tyrosh is far larger than the shadow city of Sunspear, being described as boisterous and loud. At the mouth of its harbor lies the Bleeding Tower. There is a fountain in Tyrosh called the Fountain of the Drunken God. There is a temple called the Temple of Trios with a big statue of the three headed Trios beside the temple’s doors.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_VOLANTIS">
+				<Text>Volantis</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_VOLANTIS_ADJ">
+				<Text>Volantene</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_VOLANTIS_TEXT">
+				<Text>The city sits on a very deep harbor. Volantenes claim that the hundred isles of Braavos could be dropped into the harbor and disappear. Volantis spreads across the mouth of the Rhoyne and across the hills and marshes on both sides of the river.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_LORATH">
+				<Text>Lorath</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_LORATH_ADJ">
+				<Text>Lorathi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_LORATH_TEXT">
+				<Text>Lorath is one of the Nine Free Cities. It is situated on a group of islands off the northern coast of Essos.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_NAATH">
+				<Text>Naath</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_NAATH_ADJ">
+				<Text>Naathi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_NAATH_TEXT">
+				<Text>Naath, sometimes known as the Crossing, is the name given to the fortified river crossing of House Frey within the northern Riverlands. It is the seat of House Frey.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_BAYASABHAD">
+				<Text>Bayasabhad</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_BAYASABHAD_ADJ">
+				<Text>Bayasabhadi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_BAYASABHAD_TEXT">
+				<Text>Bayasabhad is the capital of the Seven Kingdoms, located on the east coast of Westeros, overlooking Blackwater Bay. It is the site of the Iron Throne and the Red Keep, the seat of the King. The main city is surrounded by a wall, manned by the City Watch of King's Landing, also known as the Gold Cloaks. Poorer smallfolk build shanty settlements outside the city. King's Landing is extremely populous, but rather unsightly and dirty compared to other cities. The stench of the city's waste can be smelled far beyond its walls. It is the principal harbor of the Seven Kingdoms, rivaled only by Oldtown.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_LOTUS_PORT">
+				<Text>Faros</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_LOTUS_PORT_ADJ">
+				<Text>Farosi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_LOTUS_PORT_TEXT">
+				<Text>Faros is a great castle constructed before the War of Conquest, located in the Riverlands, on the north shore of the Gods Eye lake. It is the largest castle in the Seven Kingdoms. Since the War of Conquest, however, it has become a dark and ruinous place.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_EBONHEAD">
+				<Text>Ebonhead</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_EBONHEAD_ADJ">
+				<Text>Ebonhead</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_EBONHEAD_TEXT">
+				<Text>Ebonhead is one of the largest cities in Westeros and is by far the oldest, built by the First Men before the Andal Invasion. The city is located in the south-west of Westeros, at the mouth of the river Honeywine where it opens onto Whispering Sound and the Sunset Sea beyond. It is the western terminus of the Roseroad from Highgarden and King's Landing.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_CASTLE_BLACK">
+				<Text>Castle Black</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_CASTLE_BLACK_ADJ">
+				<Text>Castle Black</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_CASTLE_BLACK_TEXT">
+				<Text>Castle Black is the main fortress for the Night's Watch. The castle is situated along the Wall between Queensgate to the west and Oakenshield to the east, near the center of the Wall, at the northern end of the Kingsroad.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_TALL_TREES_TOWN">
+				<Text>Tall Trees Town</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_TALL_TREES_TOWN_ADJ">
+				<Text>Tall Tree</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_TALL_TREES_TOWN_TEXT">
+				<Text>Tall Trees Town is a fortress in the North and the seat of House Bolton. It is located on the banks of the Weeping Water, in the eastern half of the continent.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_ASSHAI">
+				<Text>Asshai</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_ASSHAI_ADJ">
+				<Text>Asshaï</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_ASSHAI_TEXT">
+				<Text>Asshai is a port city, located in the far south-east of the Essos continent on the Jade Sea at the entrance to its eastern exit, the Saffron Straits. Asshai on the southernmost edge of a mountainous peninsula known as the Shadow Lands, thus the city is often called as Asshai-by-the-Shadow and to go to Asshai can be described as to "pass beneath the shadow". The area of the Shadow Lands and Asshai are sometimes referred to simply as "the Shadow".</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_QARTH">
+				<Text>Qarth</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_QARTH_ADJ">
+				<Text>Qartheen</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_QARTH_TEXT">
+				<Text>Qarth is an ancient port city located on the south coast of the Essos continent. Situated in a central location, Qarth is a gateway of commerce and culture between the east and west, and the north and south. Brimming with wealth, the city's architecture makes a grand display. It is home to warlocks and merchant princes, and nominally ruled by the Pureborn. However, the powerful guilds Thirteen, Tourmaline Brotherhood and the Ancient Guild of Spicers all attempt to play a role in the governance of the city. It has been referred to as the Queen of Cities.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_MOLES_TOWN">
+				<Text>Mole's Town</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_MOLES_TOWN_ADJ">
+				<Text>Mole's Town</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_MOLES_TOWN_TEXT">
+				<Text>Lotus Port is the capital of the Summer Islands. It is located in southwestern Walano north of the island Koj.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_KAYAKAYANAYA">
+				<Text>Kayakayanaya</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_KAYAKAYANAYA_ADJ">
+				<Text>Kayakayanayan</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_KAYAKAYANAYA_TEXT">
+				<Text>The Port of Ibben is the main city on Ibben. The lights of the city are powered with whale oil. Beyond the Port of Ibben lies cold wastes where hairy mammoths roam. It is located on the southwest coast of Ibben.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_ADAKHAKILEKI">
+				<Text>Adakhakileki</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_ADAKHAKILEKI_ADJ">
+				<Text>Adakhakilekian</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_ADAKHAKILEKI_TEXT">
+				<Text>A trading town on the Cinnamon Straits.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_YIN">
+				<Text>Yin</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_YIN_ADJ">
+				<Text>Yin</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_YIN_TEXT">
+				<Text>Yin is a city in Yi Ti on the Jade Sea.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_NEFER">
+				<Text>Nefer</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_NEFER_ADJ">
+				<Text>Nefer</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_NEFER_TEXT">
+				<Text>A city in Essos near the Thousand Islands in N'Ghai.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_TRADER_TOWN">
+				<Text>Trader Town</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_TRADER_TOWN_ADJ">
+				<Text>Trader</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_TRADER_TOWN_TEXT">
+				<Text>As its names suggests, the town is a major trading point similar to Vaes Dothrak on the western side of the Bone Mountains.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_PORT_MORAQ">
+				<Text>Port Moraq</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CITYSTATE_PORT_MORAQ_ADJ">
+				<Text>Moraqi</Text>
+			</Row>
+			<Row Tag="TXT_KEY_CIV5_PORT_MORAQ_TEXT">
+				<Text>A port of Great Moraq on the Cinnamon Straits.</Text>
+			</Row>
+		</Language_en_US>
 </GameData>
