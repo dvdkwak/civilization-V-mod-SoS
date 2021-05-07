@@ -78,6 +78,56 @@
 		</Row>
 	</UnitGameplay2DScripts>
 
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
 	<UnitPromotions>
 		<Row>
 			<Type>PROMOTION_FURY_I</Type>
@@ -92,7 +142,7 @@
 			<Defense>10</Defense>
 			<Attack>10</Attack>
 		</Row>
-		<!-- <Row>
+		<Row>
 			<Type>PROMOTION_FURY_II</Type>
 			<Description>Promotion of the Fury II</Description>
 			<Help>Unit gains +20% [ICON_STRENGTH] Combat Strength.</Help>
@@ -104,7 +154,7 @@
 			<PediaEntry>Unit gains +20% [ICON_STRENGTH] Combat Strength.</PediaEntry>
 			<Defense>20</Defense>
 			<Attack>20</Attack>
-		</Row> -->
+		</Row>
 	</UnitPromotions>
 
 	<Language_en_US>
