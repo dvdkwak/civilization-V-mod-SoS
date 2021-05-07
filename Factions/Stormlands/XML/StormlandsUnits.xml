@@ -141,6 +141,7 @@
 			<PediaEntry>Unit gains +10% [ICON_STRENGTH] Combat Strength.</PediaEntry>
 			<!--<Defense>10</Defense>
 			<Attack>10</Attack>-->
+			<CombatPercent>10</CombatPercent>
 		</Row>
 		<Row>
 			<Type>PROMOTION_FURY_II</Type>
@@ -154,6 +155,7 @@
 			<PediaEntry>Unit gains +20% [ICON_STRENGTH] Combat Strength.</PediaEntry>
 			<!--<Defense>20</Defense>
 			<Attack>20</Attack>-->
+			<CombatPercent>20</CombatPercent>
 		</Row>
 	</UnitPromotions>
 
