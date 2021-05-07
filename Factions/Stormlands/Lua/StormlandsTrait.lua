@@ -11,7 +11,7 @@ function StormLandsTrait( playerID )
     local civType = player:GetCivilizationType();
 
     -- when the civ is stormlands, initiate bonus on all units
-    if ( civType == GameInfoTypes["CIVILIZATION_STORMLANDS"] ) then
+    if ( player:IsAlive() and civType == GameInfoTypes["CIVILIZATION_STORMLANDS"] ) then
         if ( Locale.ConvertTextKey("DEBUG_MODE") ) then
             print("TEST: YOU SHOULD GET A COMBAT BONUS FOR EVERY UNIT");
         end
@@ -19,7 +19,11 @@ function StormLandsTrait( playerID )
             if ( Locale.ConvertTextKey("DEBUG_MODE") ) then
                 print("TEST UNIT: " .. unit:GetID());
             end
-            print("TEST UNIT: EMPTYYYYY");
+            -- if the unit has not a promotion yet, we grand it (no decleration of friendship check yet)
+            if ( !unit:IsHasPromotion("PROMOTION_FURY_I") ) then
+                unit:Promote("PROMOTION_FURY_I");
+                print("TEST PROMOTION GIVEN: UNIT SHOULD HAVE BEEN GRANTED A PROMOTION");
+            end
         end
     end
 

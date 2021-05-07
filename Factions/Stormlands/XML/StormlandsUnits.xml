@@ -78,6 +78,35 @@
 		</Row>
 	</UnitGameplay2DScripts>
 
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_FURY_I</Type>
+			<Description>Promotion of the Fury I</Description>
+			<Help>Unit gains +10% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +10% [ICON_STRENGTH] Combat Strength.</PediaEntry>
+			<Defense>10</Defense>
+			<Attack>10</Attack>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FURY_II</Type>
+			<Description>Promotion of the Fury II</Description>
+			<Help>Unit gains +20% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +20% [ICON_STRENGTH] Combat Strength.</PediaEntry>
+			<Defense>20</Defense>
+			<Attack>20</Attack>
+		</Row>
+	</UnitPromotions>
+
 	<Language_en_US>
 		<Row Tag="TXT_KEY_UNIT_STORMLANDSPLACEHOLDER1">
 			<Text>StormlandsPlaceholder1</Text>
