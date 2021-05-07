@@ -32,8 +32,8 @@ function CityCapturedNoResistance(hexPos, playerID, cityID, newPlayerID)
 				pCity:ChangePopulation(iLostPop, true);
 
 				-- send a message to player
-				local text = Locale.ConvertTextKey("TXT_KEY_CITY_LIBERATED");
-				local notificationText = text, pCity:GetName(), "!";
+				local text = Locale.ConvertTextKey("TXT_KEY_CITY_LIBERATED", pCity:GetName());
+				local notificationText = text .. pCity:GetName() .. "!";
 				print("TEST: ", notificationText);
 				winner:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, notificationText);
 
