@@ -131,7 +131,7 @@
 			<Text>Fire And Blood</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_LIBERATED">
-			<Text>You have liberated the people of [CITY_NAME]!</Text>
+			<Text>You have liberated the people of </Text>
 		</Row>
 	</Language_en_US>
 </GameData>

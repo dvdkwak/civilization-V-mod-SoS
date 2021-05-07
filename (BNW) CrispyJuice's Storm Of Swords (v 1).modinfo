@@ -194,7 +194,7 @@
     <File md5="8826FEB65AF285ED07DA994072805FE9" import="1">Factions/Meereen/Art/Unsullied_Meereen.fxsxml</File>
     <File md5="E44D2D33A41286C17B944DE88DEF6951" import="1">Factions/Meereen/Art/Unsullied_Meereen.gr2</File>
     <File md5="E3A41F1E7FEEFC456B64BD6F30397D6E" import="1">Factions/Meereen/Art/Unsullied_Meereen_gloss.dds</File>
-    <File md5="B826C1CAB651892D2B3D2ECBF6984B64" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
+    <File md5="8036A468356D0AAB685FBCE243CBBFE2" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
     <File md5="1B162F7FE284D46D4E5E01C6F716559F" import="0">Factions/Meereen/Sounds/MeereenSounds.xml</File>
     <File md5="B7EA24000BCD0EB15C2C0C48F98CE887" import="1">Factions/Meereen/XML/DaenerysTargaryen_Scene.dds</File>
     <File md5="3272DE62737232940B7D151B7FDC3621" import="0">Factions/Meereen/XML/MeereenBuildings.xml</File>
@@ -202,7 +202,7 @@
     <File md5="A614DA8F78B8C50FD23E5CFEEEC2F3E4" import="1">Factions/Meereen/XML/MeereenDaenerysTargaryen_Scene.xml</File>
     <File md5="F0F3057B08AC03679A5C82B47C140B02" import="1">Factions/Meereen/XML/MeereenDiplomacyResponses.xml</File>
     <File md5="AE34909F5CFA1B4EFD21A6A044945B6C" import="0">Factions/Meereen/XML/MeereenLeader.xml</File>
-    <File md5="5736ED4D1FFD8CDC5458982E47BA500E" import="0">Factions/Meereen/XML/MeereenTrait.xml</File>
+    <File md5="BEC95599E9A63189764887E3D23C98C2" import="0">Factions/Meereen/XML/MeereenTrait.xml</File>
     <File md5="23050619DDD67E44C2822A09ACCCD79E" import="0">Factions/Meereen/XML/MeereenUnits.xml</File>
     <File md5="48CED14FEE6DED59A17EB9AB0F3970A3" import="1">Factions/North/Art/WhiteHarborKnight_North_Horse.dds</File>
     <File md5="D8296024A52BB9B56D80FA15DA86A746" import="1">Factions/North/Art/WhiteHarborKnight_North_Horse_gloss.dds</File>
