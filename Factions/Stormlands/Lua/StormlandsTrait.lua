@@ -20,7 +20,7 @@ function StormLandsTrait( playerID )
                 print("TEST UNIT: " .. unit:GetID());
             end
             -- if the unit has not a promotion yet, we grand it (no decleration of friendship check yet)
-            if ( !unit:IsHasPromotion("PROMOTION_FURY_I") ) then
+            if ( !(unit:IsHasPromotion("PROMOTION_FURY_I")) ) then
                 unit:Promote("PROMOTION_FURY_I");
                 print("TEST PROMOTION GIVEN: UNIT SHOULD HAVE BEEN GRANTED A PROMOTION");
             end
