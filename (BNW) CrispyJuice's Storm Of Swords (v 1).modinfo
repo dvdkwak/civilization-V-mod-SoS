@@ -161,10 +161,10 @@
     <File md5="B1C582BC5D94F0AC96656FD36044EF02" import="1">Factions/Iron Islands/Art/IronIslandsAtlas64.dds</File>
     <File md5="D9F19F681F07C451212CB71D1AC7CD76" import="1">Factions/Iron Islands/Art/IronIslandsAtlas80.dds</File>
     <File md5="195A7C750A9822E56056BA5010EA9264" import="0">Factions/Iron Islands/Art/IronIslandsAtlases.xml</File>
-    <File md5="1102693D9D53EE779E5ABB6D8AFF17C1" import="1">Factions/Iron Islands/Art/IronIslandsDom.dds</File>
+    <File md5="CACF3792B6EDFC5056CBDAA62F5069B9" import="1">Factions/Iron Islands/Art/IronIslandsDom.dds</File>
     <File md5="5EDBA1B26A7FFC8156D027BECEBDCEB8" import="1">Factions/Iron Islands/Art/IronIslandsMap.dds</File>
     <File md5="FA24CC9C3E52CBFA73B0F782F2AA65D9" import="0">Factions/Iron Islands/Sounds/IronIslandsSounds.xml</File>
-    <File md5="C9CB1F3A6633CC0DEF59009BB90B305E" import="1">Factions/Iron Islands/XML/BalonGreyjoy_Scene.dds</File>
+    <File md5="04BAA562DDA79B540D68974715103CD9" import="1">Factions/Iron Islands/XML/BalonGreyjoy_Scene.dds</File>
     <File md5="41288E1F9B3BD87C2836E73C296C7A50" import="1">Factions/Iron Islands/XML/IronIslandsBalonGreyjoy_Scene.xml</File>
     <File md5="37776B4FD35E2EC2FA2054B42D338C0E" import="0">Factions/Iron Islands/XML/IronIslandsBuildings.xml</File>
     <File md5="DBDE4180B42C0E8929D32EA5C55692C6" import="0">Factions/Iron Islands/XML/IronIslandsCivilization.xml</File>
@@ -196,7 +196,7 @@
     <File md5="8826FEB65AF285ED07DA994072805FE9" import="1">Factions/Meereen/Art/Unsullied_Meereen.fxsxml</File>
     <File md5="E44D2D33A41286C17B944DE88DEF6951" import="1">Factions/Meereen/Art/Unsullied_Meereen.gr2</File>
     <File md5="E3A41F1E7FEEFC456B64BD6F30397D6E" import="1">Factions/Meereen/Art/Unsullied_Meereen_gloss.dds</File>
-    <File md5="8D18F1D099C0532FB872874714CEFFEF" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
+    <File md5="B312C40CB458742038F3DD09329AD046" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
     <File md5="1B162F7FE284D46D4E5E01C6F716559F" import="0">Factions/Meereen/Sounds/MeereenSounds.xml</File>
     <File md5="B7EA24000BCD0EB15C2C0C48F98CE887" import="1">Factions/Meereen/XML/DaenerysTargaryen_Scene.dds</File>
     <File md5="3272DE62737232940B7D151B7FDC3621" import="0">Factions/Meereen/XML/MeereenBuildings.xml</File>
@@ -204,7 +204,7 @@
     <File md5="A614DA8F78B8C50FD23E5CFEEEC2F3E4" import="1">Factions/Meereen/XML/MeereenDaenerysTargaryen_Scene.xml</File>
     <File md5="F0F3057B08AC03679A5C82B47C140B02" import="1">Factions/Meereen/XML/MeereenDiplomacyResponses.xml</File>
     <File md5="AE34909F5CFA1B4EFD21A6A044945B6C" import="0">Factions/Meereen/XML/MeereenLeader.xml</File>
-    <File md5="BEC95599E9A63189764887E3D23C98C2" import="0">Factions/Meereen/XML/MeereenTrait.xml</File>
+    <File md5="6676212D6F57C0C4A32E8456EACFCF9D" import="0">Factions/Meereen/XML/MeereenTrait.xml</File>
     <File md5="23050619DDD67E44C2822A09ACCCD79E" import="0">Factions/Meereen/XML/MeereenUnits.xml</File>
     <File md5="48CED14FEE6DED59A17EB9AB0F3970A3" import="1">Factions/North/Art/WhiteHarborKnight_North_Horse.dds</File>
     <File md5="D8296024A52BB9B56D80FA15DA86A746" import="1">Factions/North/Art/WhiteHarborKnight_North_Horse_gloss.dds</File>
@@ -315,7 +315,7 @@
     <File md5="8973D321A84F28FCB152B3708FC632FF" import="1">Factions/Stormlands/Art/StormlandsAtlas64.dds</File>
     <File md5="2441F9076163E9A4605FC861A1A99463" import="1">Factions/Stormlands/Art/StormlandsAtlas80.dds</File>
     <File md5="70035ABA822FEF4A8B84432A88F548A3" import="0">Factions/Stormlands/Art/StormlandsAtlases.xml</File>
-    <File md5="1102693D9D53EE779E5ABB6D8AFF17C1" import="1">Factions/Stormlands/Art/StormlandsDom.dds</File>
+    <File md5="BF52AEF7AFE7CB7D62CC9F747091F9FD" import="1">Factions/Stormlands/Art/StormlandsDom.dds</File>
     <File md5="0F97A9F0B68DC4C97F24E6DC3D80CAB5" import="1">Factions/Stormlands/Art/StormlandsIconAlpha128.dds</File>
     <File md5="A2029B9C075981D07D2BE4B0FC0387A7" import="1">Factions/Stormlands/Art/StormlandsIconAlpha16.dds</File>
     <File md5="CB6D468D136E50D6E050D145B7B73C9E" import="1">Factions/Stormlands/Art/StormlandsIconAlpha24.dds</File>
@@ -324,9 +324,10 @@
     <File md5="3C37216379B8B68F332FDC50C4205D25" import="1">Factions/Stormlands/Art/StormlandsIconAlpha64.dds</File>
     <File md5="F7EECB2F0B5BAFF4F85227E5E0D5199B" import="1">Factions/Stormlands/Art/StormlandsIconAlpha80.dds</File>
     <File md5="C7E3D1BE60BCE761827A9BC50BB6452A" import="1">Factions/Stormlands/Art/StormlandsMap.dds</File>
+    <File md5="A426D7845FE6875F77A61D14623656EF" import="1">Factions/Stormlands/Lua/StormlandsTrait.lua</File>
     <File md5="47321CFDD22FB727EF3D6CE6C12FD418" import="0">Factions/Stormlands/Sounds/StormlandsSounds.xml</File>
     <File md5="F44C887AD84E7998CA115B444D5CD44C" import="0">Factions/Stormlands/XML/StormlandsImprovement.xml</File>
-    <File md5="6F7722EC77CAFF4254335BBCA50FC53B" import="1">Factions/Stormlands/XML/RenlyBaratheon_Scene.dds</File>
+    <File md5="8E1C56ECF55BBF8529CA6A31DA0CAFB9" import="1">Factions/Stormlands/XML/RenlyBaratheon_Scene.dds</File>
     <File md5="A640B3C7E3F97A18ABADB2022A1E087E" import="0">Factions/Stormlands/XML/StormlandsCivilization.xml</File>
     <File md5="C56DF47B30886AE4F729ABF06A5687CA" import="0">Factions/Stormlands/XML/StormlandsDiplomacyResponses.xml</File>
     <File md5="9303B576C31A2903439B6FFAD9C2B7FE" import="0">Factions/Stormlands/XML/StormlandsLeader.xml</File>
@@ -354,7 +355,6 @@
     <File md5="F7EECB2F0B5BAFF4F85227E5E0D5199B" import="1">Factions/Vale/Art/ValeIconAlpha80.dds</File>
     <File md5="238D725B4D2CCEE851B7B4B27C342A00" import="1">Factions/Vale/Art/ValeMap.dds</File>
     <File md5="D8917462D07B4D3936BB13D534337706" import="0">Factions/Vale/Sounds/ValeSounds.xml</File>
-    <File md5="8107A9CB7838B165FE8458165E53D697" import="1">Factions/Vale/XML/LysaArryn_Scene.dds</File>
     <File md5="D7A6DB94C3615A1BFC12DAFFB28BFB5E" import="0">Factions/Vale/XML/ValeBuildings.xml</File>
     <File md5="497C39299DC44FEE19676FE60EDE5B37" import="0">Factions/Vale/XML/ValeCivilization.xml</File>
     <File md5="FA3F599067C9D1E529788933D62CE922" import="0">Factions/Vale/XML/ValeDiplomacyResponses.xml</File>
