@@ -129,5 +129,8 @@
 		<Row Tag="TXT_KEY_OURS_IS_THE_FURY_SHORT">
 			<Text>Ours Is The Fury</Text>
 		</Row>
+		<Row Tag="DEBUG_MODE">
+			<Text>True</Text>
+		</Row>
 	</Language_en_US>
 </GameData>

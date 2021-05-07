@@ -10,8 +10,17 @@ function StormLandsTrait( playerID )
     local player = Players[playerID];
     local civType = player:GetCivilizationType();
 
+    -- when the civ is stormlands, initiate bonus on all units
     if ( civType == GameInfoTypes["CIVILIZATION_STORMLANDS"] ) then
-        print("TEST: YOU SHOULD GET A COMBAT BONUS FOR EVERY UNIT");
+        if ( Locale.ConvertTextKey("DEBUG_MODE"); ) then
+            print("TEST: YOU SHOULD GET A COMBAT BONUS FOR EVERY UNIT");
+        end
+        for unit in player:Units() do
+            if ( Locale.ConvertTextKey("DEBUG_MODE"); ) then
+                print("TEST UNIT: " .. unit:GetID());
+            end
+            print("TEST UNIT: EMPTYYYYY");
+        end
     end
 
 end -- end of StormLandTrait
