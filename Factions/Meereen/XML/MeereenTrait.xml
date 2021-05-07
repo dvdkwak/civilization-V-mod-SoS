@@ -130,5 +130,8 @@
 		<Row Tag="TXT_KEY_FIRE_AND_BLOOD_SHORT">
 			<Text>Fire And Blood</Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITY_LIBERATED">
+			<Text>You have liberated the people of [CITY_NAME]!</Text>
+		</Row>
 	</Language_en_US>
 </GameData>
