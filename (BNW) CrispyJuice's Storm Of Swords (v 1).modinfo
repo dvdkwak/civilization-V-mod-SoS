@@ -125,7 +125,7 @@
     <File md5="769D3EBA53B241125B63C07C52C2F85E" import="1">Factions/Dragonstone/Art/DragonstoneAtlas64.dds</File>
     <File md5="292AC90E48D8812F1B97AE80804D4150" import="1">Factions/Dragonstone/Art/DragonstoneAtlas80.dds</File>
     <File md5="6022CA0F5894679FC9D63FB09E8527E7" import="0">Factions/Dragonstone/Art/DragonstoneAtlases.xml</File>
-    <File md5="1102693D9D53EE779E5ABB6D8AFF17C1" import="1">Factions/Dragonstone/Art/DragonstoneDom.dds</File>
+    <File md5="19D4D8ED612134843456178BF5A028B7" import="1">Factions/Dragonstone/Art/DragonstoneDom.dds</File>
     <File md5="51403C5A67B145CB16DBF83E01E31797" import="1">Factions/Dragonstone/Art/DragonstoneIconAlpha128.dds</File>
     <File md5="46F7E55DF3D9019F59EB69BF0EB13B05" import="1">Factions/Dragonstone/Art/DragonstoneIconAlpha16.dds</File>
     <File md5="58E601B386C9B702AD3062B042CB9FCF" import="1">Factions/Dragonstone/Art/DragonstoneIconAlpha24.dds</File>
@@ -142,7 +142,7 @@
     <File md5="4F205F9E9AA31AD24596FCF639DA8B78" import="1">Factions/Dragonstone/XML/DragonstoneStannisBaratheon_Scene.xml</File>
     <File md5="A658B7FD889017615436F6571A65FD8C" import="0">Factions/Dragonstone/XML/DragonstoneTrait.xml</File>
     <File md5="19AA25786698A7CBD3D2786EF4814038" import="0">Factions/Dragonstone/XML/DragonstoneUnits.xml</File>
-    <File md5="FB52FE74F539BDA74780A49237CF1D50" import="1">Factions/Dragonstone/XML/StannisBaratheon_Scene.dds</File>
+    <File md5="74FA4699A67D86D361D8BAF95B998876" import="1">Factions/Dragonstone/XML/StannisBaratheon_Scene.dds</File>
     <File md5="4DFB3C6F3C81200A48D365A77DE67FCB" import="1">Factions/Iron Islands/Art/IronIslandsAtlas256.dds</File>
     <File md5="20CF1642A8BE9558B6A97D4A147EA6C7" import="1">Factions/Iron Islands/Art/IronIslandsIconAlpha128.dds</File>
     <File md5="9C370589B5153CF580FBCB996CF1F315" import="1">Factions/Iron Islands/Art/IronIslandsIconAlpha16.dds</File>
@@ -196,7 +196,7 @@
     <File md5="8826FEB65AF285ED07DA994072805FE9" import="1">Factions/Meereen/Art/Unsullied_Meereen.fxsxml</File>
     <File md5="E44D2D33A41286C17B944DE88DEF6951" import="1">Factions/Meereen/Art/Unsullied_Meereen.gr2</File>
     <File md5="E3A41F1E7FEEFC456B64BD6F30397D6E" import="1">Factions/Meereen/Art/Unsullied_Meereen_gloss.dds</File>
-    <File md5="80023D7EEBA49E25E88BB1C9E3F29C4B" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
+    <File md5="8D18F1D099C0532FB872874714CEFFEF" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
     <File md5="1B162F7FE284D46D4E5E01C6F716559F" import="0">Factions/Meereen/Sounds/MeereenSounds.xml</File>
     <File md5="B7EA24000BCD0EB15C2C0C48F98CE887" import="1">Factions/Meereen/XML/DaenerysTargaryen_Scene.dds</File>
     <File md5="3272DE62737232940B7D151B7FDC3621" import="0">Factions/Meereen/XML/MeereenBuildings.xml</File>
