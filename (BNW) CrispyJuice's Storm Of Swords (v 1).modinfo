@@ -324,7 +324,7 @@
     <File md5="3C37216379B8B68F332FDC50C4205D25" import="1">Factions/Stormlands/Art/StormlandsIconAlpha64.dds</File>
     <File md5="F7EECB2F0B5BAFF4F85227E5E0D5199B" import="1">Factions/Stormlands/Art/StormlandsIconAlpha80.dds</File>
     <File md5="C7E3D1BE60BCE761827A9BC50BB6452A" import="1">Factions/Stormlands/Art/StormlandsMap.dds</File>
-    <File md5="A426D7845FE6875F77A61D14623656EF" import="1">Factions/Stormlands/Lua/StormlandsTrait.lua</File>
+    <File md5="35DF63372405FA103FFFB661F60F5E70" import="0">Factions/Stormlands/Lua/StormlandsTrait.lua</File>
     <File md5="47321CFDD22FB727EF3D6CE6C12FD418" import="0">Factions/Stormlands/Sounds/StormlandsSounds.xml</File>
     <File md5="F44C887AD84E7998CA115B444D5CD44C" import="0">Factions/Stormlands/XML/StormlandsImprovement.xml</File>
     <File md5="8E1C56ECF55BBF8529CA6A31DA0CAFB9" import="1">Factions/Stormlands/XML/RenlyBaratheon_Scene.dds</File>
@@ -527,6 +527,11 @@
   <EntryPoints>
     <EntryPoint type="InGameUIAddin" file="Factions/Meereen/Lua/MeereenTrait.lua">
       <Name>MeereenTrait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Factions/Stormlands/Lua/StormlandsTrait.lua">
+      <Name>StormlandsTrait</Name>
       <Description>
       </Description>
     </EntryPoint>
