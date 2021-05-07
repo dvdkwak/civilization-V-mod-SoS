@@ -5,14 +5,14 @@
 
 -- Trait of the Stormland increases the combat bonus of all units by 10% per DoF (Decleration of Friendship)
 
-function StormLandsTrait( playerID ){
+function StormLandsTrait( playerID )
 
     local player = Players[playerID];
 
     print("this is a test");
     print("CURRENT CIV: " .. player:GetCivilizationType());
 
-} -- end of StormLandTrait
+end -- end of StormLandTrait
 
 -- on turn start, call this method
 GameEvent.PlayerDoTurn.add( StormLandsTrait );
