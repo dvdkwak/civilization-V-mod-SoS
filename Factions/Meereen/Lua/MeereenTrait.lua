@@ -27,8 +27,9 @@ function CityCapturedNoResistance(hexPos, playerID, cityID, newPlayerID)
 				-- change the resistance time
 				pCity:ChangeResistanceTurns(-pCity:GetResistanceTurns());
 
-				-- pay back the lost population
-				iLostPop = math.floor(pCity:GetPopulation()/4 * 3);
+				-- pay back the lost population (LostPop is not floored, iLostPop is floored)
+				local LostPop = pCity:GetPopulation()/4 * 3;
+				iLostPop = math.floor(LostPop);
 				pCity:ChangePopulation(iLostPop, true);
 
 				-- send a message to player
