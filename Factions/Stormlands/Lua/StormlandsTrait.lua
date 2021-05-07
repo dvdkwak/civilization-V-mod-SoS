@@ -8,9 +8,11 @@
 function StormLandsTrait( playerID )
 
     local player = Players[playerID];
+    local civType = player:GetCivilizationType();
 
-    print("this is a test");
-    print("CURRENT CIV: " .. player:GetCivilizationType());
+    if ( civType == GameInfoTypes["CIVILIZATION_URK"] ) then
+        print("TEST: YOU SHOULD GET A COMBAT BONUS FOR EVERY UNIT");
+    end
 
 end -- end of StormLandTrait
 
