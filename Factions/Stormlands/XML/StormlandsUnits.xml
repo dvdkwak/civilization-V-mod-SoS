@@ -92,7 +92,7 @@
 			<Defense>10</Defense>
 			<Attack>10</Attack>
 		</Row>
-		<Row>
+		<!-- <Row>
 			<Type>PROMOTION_FURY_II</Type>
 			<Description>Promotion of the Fury II</Description>
 			<Help>Unit gains +20% [ICON_STRENGTH] Combat Strength.</Help>
@@ -104,7 +104,7 @@
 			<PediaEntry>Unit gains +20% [ICON_STRENGTH] Combat Strength.</PediaEntry>
 			<Defense>20</Defense>
 			<Attack>20</Attack>
-		</Row>
+		</Row> -->
 	</UnitPromotions>
 
 	<Language_en_US>
