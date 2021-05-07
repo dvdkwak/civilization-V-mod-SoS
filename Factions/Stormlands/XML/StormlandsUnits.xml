@@ -78,7 +78,7 @@
 		</Row>
 	</UnitGameplay2DScripts>
 
-	<UnitPromotions_UnitCombats>
+	<!-- <UnitPromotions_UnitCombats>
 		<Row>
 			<PromotionType>PROMOTION_FURY_I</PromotionType>
 			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
@@ -155,7 +155,7 @@
 			<Defense>20</Defense>
 			<Attack>20</Attack>
 		</Row>
-	</UnitPromotions>
+	</UnitPromotions> -->
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_UNIT_STORMLANDSPLACEHOLDER1">
