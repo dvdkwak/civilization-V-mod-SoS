@@ -10,7 +10,7 @@ function StormLandsTrait( playerID )
     local player = Players[playerID];
     local civType = player:GetCivilizationType();
 
-    if ( civType == GameInfoTypes["CIVILIZATION_URK"] ) then
+    if ( civType == GameInfoTypes["CIVILIZATION_STORMLANDS"] ) then
         print("TEST: YOU SHOULD GET A COMBAT BONUS FOR EVERY UNIT");
     end
 
