@@ -133,5 +133,8 @@
 		<Row Tag="TXT_KEY_CITY_LIBERATED">
 			<Text>You have liberated the people of </Text>
 		</Row>
+		<Row Tag="TXT_KEY_CITY_LIBERATED_TITLE">
+			<Text>City Liberated!</Text>
+		</Row>
 	</Language_en_US>
 </GameData>
