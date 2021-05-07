@@ -33,8 +33,9 @@ function CityCapturedNoResistance(hexPos, playerID, cityID, newPlayerID)
 
 				-- send a message to player
 				local text = Locale.ConvertTextKey("TXT_KEY_CITY_LIBERATED");
-				print("TEST: ", text, pCity:GetName(), "!");
-				winner:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, text, pCity:GetName(), "!");
+				local notificationText = text, pCity:GetName(), "!";
+				print("TEST: ", notificationText);
+				winner:AddNotification(NotificationTypes.NOTIFICATION_GENERIC, notificationText);
 
 					-- give free courthouse to Liu Bei if Liu Bei choose to occupy the city
 					if pCity:IsOccupied() then
