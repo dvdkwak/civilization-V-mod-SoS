@@ -16,7 +16,7 @@ function StormLandsTrait( playerID )
             print("TEST: YOU SHOULD GET A COMBAT BONUS FOR EVERY UNIT");
         end
         for unit in player:Units() do
-            if ( Locale.ConvertTextKey("DEBUG_MODE"); ) then
+            if ( Locale.ConvertTextKey("DEBUG_MODE") ) then
                 print("TEST UNIT: " .. unit:GetID());
             end
             print("TEST UNIT: EMPTYYYYY");
