@@ -15,4 +15,4 @@ function StormLandsTrait( playerID )
 end -- end of StormLandTrait
 
 -- on turn start, call this method
-GameEvent.PlayerDoTurn.add( StormLandsTrait );
+GameEvents.PlayerDoTurn.add( StormLandsTrait );
