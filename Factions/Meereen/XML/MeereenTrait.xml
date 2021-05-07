@@ -131,10 +131,10 @@
 			<Text>Fire And Blood</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_LIBERATED">
-			<Text>You have crusified the Masters of </Text>
+			<Text>You have crucified the Masters of </Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_LIBERATED_TITLE">
-			<Text>Crusifiction of the Master!</Text>
+			<Text>Crucifiction of the Masters!</Text>
 		</Row>
 	</Language_en_US>
 </GameData>
