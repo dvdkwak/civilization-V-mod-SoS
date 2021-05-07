@@ -28,7 +28,9 @@ function CityCapturedNoResistance(hexPos, playerID, cityID, newPlayerID)
 				pCity:ChangeResistanceTurns(-pCity:GetResistanceTurns());
 
 				-- pay back the lost population (LostPop is not floored, iLostPop is floored)
-				local LostPop = pCity:GetPopulation()/4 * 3;
+				local LostPop = pCity:GetPopulation()/4;
+				LostPop = LostPop*3;
+				print("POPULATION SHOULD BE: ", LostPop);
 				iLostPop = math.floor(LostPop);
 				pCity:ChangePopulation(iLostPop, true);
 
