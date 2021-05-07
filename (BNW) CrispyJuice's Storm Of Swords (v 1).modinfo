@@ -4,7 +4,9 @@
     <Name>(BNW) CrispyJuice's Storm Of Swords</Name>
     <Stability>Alpha</Stability>
     <Teaser>A fresh new mod that takes place in the fantastical world of Game Of Thrones!</Teaser>
-    <Description>A fresh new mod that takes place in the fantastical world of Game Of Thrones!</Description>
+    <Description>A fresh new mod that takes place in the fantastical world of Game Of Thrones!
+
+(BNW) CrispyJuice's Storm Of Swords</Description>
     <Authors>CrispyJuice, King Augurk B.V.</Authors>
     <HideSetupGame>0</HideSetupGame>
     <AffectsSavedGames>1</AffectsSavedGames>
@@ -194,7 +196,7 @@
     <File md5="8826FEB65AF285ED07DA994072805FE9" import="1">Factions/Meereen/Art/Unsullied_Meereen.fxsxml</File>
     <File md5="E44D2D33A41286C17B944DE88DEF6951" import="1">Factions/Meereen/Art/Unsullied_Meereen.gr2</File>
     <File md5="E3A41F1E7FEEFC456B64BD6F30397D6E" import="1">Factions/Meereen/Art/Unsullied_Meereen_gloss.dds</File>
-    <File md5="8036A468356D0AAB685FBCE243CBBFE2" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
+    <File md5="80023D7EEBA49E25E88BB1C9E3F29C4B" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
     <File md5="1B162F7FE284D46D4E5E01C6F716559F" import="0">Factions/Meereen/Sounds/MeereenSounds.xml</File>
     <File md5="B7EA24000BCD0EB15C2C0C48F98CE887" import="1">Factions/Meereen/XML/DaenerysTargaryen_Scene.dds</File>
     <File md5="3272DE62737232940B7D151B7FDC3621" import="0">Factions/Meereen/XML/MeereenBuildings.xml</File>
