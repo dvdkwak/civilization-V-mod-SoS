@@ -16,9 +16,14 @@ function StormLandsTrait( playerID )
     if ( player:IsAlive() and civType == GameInfoTypes["CIVILIZATION_STORMLANDS"] ) then
 
         -- calculate number of DoF of the player
-        for test in ipairs(Players) do
-            print("I am a line representing a player " .. test);
-            -- print("Player with ID: " .. test:GetID() .. " is in the game");
+        -- for key, value in ipairs(Players) do
+        --     print("I am a line representing a player " .. test);
+        --     -- print("Player with ID: " .. test:GetID() .. " is in the game");
+        -- end
+
+        a = {"one", "two", "three"};
+        for key, value in a
+            print("KEY: " .. key .. " | VALUE: " .. value);
         end
 
 
