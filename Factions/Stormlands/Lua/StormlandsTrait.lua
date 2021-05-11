@@ -22,7 +22,7 @@ function StormLandsTrait( playerID )
         -- end
 
         a = {"one", "two", "three"};
-        for key, value in a
+        for key, value in ipairs(a) do
             print("KEY: " .. key .. " | VALUE: " .. value);
         end
 
