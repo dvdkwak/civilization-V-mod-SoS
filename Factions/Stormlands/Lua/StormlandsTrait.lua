@@ -15,9 +15,11 @@ function StormLandsTrait( playerID )
     -- when the civ is stormlands, initiate bonus on all units
     if ( player:IsAlive() and civType == GameInfoTypes["CIVILIZATION_STORMLANDS"] ) then
 
+        local i = 0;
         -- calculate number of DoF of the player
         for test in ipairs(Players) do
-            print("I am a line representing a player");
+            i += 1;
+            print("I am a line representing a player " .. i);
             -- print("Player with ID: " .. test:GetID() .. " is in the game");
         end
 
