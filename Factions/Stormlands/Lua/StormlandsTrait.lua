@@ -9,7 +9,6 @@ function StormLandsTrait( playerID )
 
     local player = Players[playerID];
     local civType = player:GetCivilizationType();
-    local numberOfDoF = 
     local stormPromotionI = GameInfoTypes["PROMOTION_FURY_I"];
     local stormPromotionII = GameInfoTypes["PROMOTION_FURY_II"];
 
