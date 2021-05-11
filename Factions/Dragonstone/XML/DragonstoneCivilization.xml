@@ -28,14 +28,7 @@
 			<SoundtrackTag>GERMANY</SoundtrackTag>
 		</Row>
 	</Civilizations>
-
-	<Civilization_BuildingClassOverrides>
-		<Row>
-			<CivilizationType>CIVILIZATION_DRAGONSTONE</CivilizationType>
-			<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
-			<BuildingType>BUILDING_RED_PRIEST</BuildingType>
-		</Row>
-	</Civilization_BuildingClassOverrides>
+	<!--Civilization_BuildingClassOverrides-->
 	<Civilization_CityNames>
 		<Row>
 			<CivilizationType>CIVILIZATION_DRAGONSTONE</CivilizationType>
@@ -235,6 +228,11 @@
 			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
 			<UnitType>UNIT_ONION_KNIGHT</UnitType>
 		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DRAGONSTONE</CivilizationType>
+			<UnitClassType>UNITCLASS_PROPHET</UnitClassType>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+		</Row>
 	</Civilization_UnitClassOverrides>
 	<Civilization_Start_Along_Ocean>
 		<Row>
@@ -246,7 +244,7 @@
 	<Civilization_Start_Region_Priority>
 		<Row>
 			<CivilizationType>CIVILIZATION_DRAGONSTONE</CivilizationType>
-			<RegionType>REGION_GRASS</RegionType>
+			<RegionType>REGION_TUNDRA</RegionType>
 		</Row>
 	</Civilization_Start_Region_Priority>
 	<!-- Civilization_Start_Region_Avoid -->

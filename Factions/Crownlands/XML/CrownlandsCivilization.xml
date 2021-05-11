@@ -264,7 +264,7 @@
 	<Civilization_UnitClassOverrides>
 		<Row>
 			<CivilizationType>CIVILIZATION_CROWNLANDS</CivilizationType>
-			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
+			<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
 			<UnitType>UNIT_GOLD_CLOAK</UnitType>
 		</Row>
 	</Civilization_UnitClassOverrides>

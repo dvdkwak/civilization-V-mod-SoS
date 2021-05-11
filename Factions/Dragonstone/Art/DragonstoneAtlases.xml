@@ -114,5 +114,12 @@
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
+		<Row>
+			<Atlas>DRAGONSTONE_RED_PRIEST_FLAG</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>DragonstoneRedPriestFlag.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
 	</IconTextureAtlases>
 </GameData>

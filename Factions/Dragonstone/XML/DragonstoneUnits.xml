@@ -29,23 +29,66 @@
 			<IconAtlas>DRAGONSTONE_ATLAS</IconAtlas>
 			<UnitFlagAtlas>DRAGONSTONE_ONION_KNIGHT_FLAG</UnitFlagAtlas>
 		</Row>
+		<Row>
+			<Class>UNITCLASS_PROPHET</Class>
+			<Type>UNIT_RED_PRIEST</Type>
+			<Combat>8</Combat>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Conscription>1</Conscription>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_RED_PRIEST</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_RED_PRIEST</Description>
+			<Civilopedia>TXT_KEY_CIV5_RED_PRIEST_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_RED_PRIEST_STRATEGY</Strategy>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<FoundReligion>true</FoundReligion>
+			<SpreadReligion>true</SpreadReligion>
+			<ReligionSpreads>4</ReligionSpreads>
+			<ReligiousStrength>1000</ReligiousStrength>
+			<UnitArtInfo>ART_DEF_UNIT_RED_PRIEST</UnitArtInfo>
+			<UnitFlagAtlas>DRAGONSTONE_RED_PRIEST_FLAG</UnitFlagAtlas>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<IconAtlas>DRAGONSTONE_ATLAS</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+			<UnitFlagAtlas>DRAGONSTONE_RED_PRIEST_FLAG</UnitFlagAtlas>
+		</Row>
 	</Units>
-	<!-- Unit_AITypes -->
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UnitAIType>UNITAI_PROPHET</UnitAIType>
+		</Row>
+	</Unit_AITypes> <!-- VANAF HIER VERDER GAAN. VERGELIJKEN MET MONGOLIAN KHAN EN G&K GREAT PROPHET-->
 	<!-- Unit_Buildings -->
 	<!-- Unit_BuildingClassRequireds -->
 	<!-- Unit_ProductionModifierBuildings -->
 	<Unit_Builds>
+		<Delete>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<BuildType>BUILD_HOLY_SITE</BuildType>
+		</Delete>
 		<Row>
-			<UnitType>UNIT_ONION_KNIGHT</UnitType>
-			<BuildType>BUILD_FISHING_BOATS</BuildType>
-		</Row>
-		<Row>
-			<UnitType>UNIT_ONION_KNIGHT</UnitType>
-			<BuildType>BUILD_OFFSHORE_PLATFORM</BuildType>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<BuildType>BUILD_HOLY_SITE</BuildType>
 		</Row>
 	</Unit_Builds>
 	<!-- Unit_ClassUpgrades -->
-	<!-- Unit_FreePromotions -->
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<PromotionType>PROMOTION_RIVAL_TERRITORY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<PromotionType>PROMOTION_SIGHT_PENALTY</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
 	<Unit_Flavors>
 		<Row>
 			<UnitType>UNIT_ONION_KNIGHT</UnitType>
@@ -65,7 +108,48 @@
 	</Unit_Flavors>
 	<!-- Unit_GreatPersons -->
 	<!-- Unit_ResourceQuantityRequirements -->
-	<!-- Unit_UniqueNames -->
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_THOROS</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_MELISANDRE</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_BERIC_DONDARRION</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_KINVARA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_BENERRO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_EZZELYNO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_MOQORRO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_ALESTER</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_ZANRUSH</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_ARYLLA</UniqueName>
+		</Row>
+	</Unit_UniqueNames>
 	<!-- Unit_YieldFromKills -->
 	<!-- Unit_NotAITypes -->
 	<!-- Unit_ProductionTraits -->
@@ -77,7 +161,72 @@
 			<SelectionSound>AS2D_SELECT_TRIREME</SelectionSound>
 			<FirstSelectionSound>AS2D_BIRTH_TRIREME</FirstSelectionSound>
 		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<SelectionSound>AS2D_SELECT_PROPHET</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_PROPHET</FirstSelectionSound>
+		</Row>
 	</UnitGameplay2DScripts>
+	<!-- ArtDefineTag Red Priets & Onion Knight-->
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_RED_PRIEST</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>Scout</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_RED_PRIEST</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_U_RED_PRIEST</UnitMemberInfoType>
+			<NumMembers>6</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_U_RED_PRIEST</Type>
+			<fScale>0.14</fScale>
+			<Model>Factions/Dragonstone/Art/RedPriest_Dragonstone.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_RED_PRIEST</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
+			<ShortMoveRadius>12.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TargetHeight>8.0</TargetHeight>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>1</ReformBeforeCombat>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_RED_PRIEST</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>BLUNT</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SPEAR</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_RED_PRIEST</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_RED_PRIEST</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Scout.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_UNIT_ONION_KNIGHT">
@@ -93,6 +242,20 @@
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ONION_KNIGHT">
 			<Text>Replaces the Work Boat. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the Dragonstones may build this unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RED_PRIEST">
+			<Text>Red Priest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RED_PRIEST_TEXT">
+			<Text>
+				The Red Priest is an old Northern type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]White Harbor Knights mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the Bolton Infantry was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Norther fish is the country of Italy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RED_PRIEST_STRATEGY">
+			<Text>The Red Priest is the Norther unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game Bolton Infantry, providing additional [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RED_PRIEST">
+			<Text>Replaces the Great Prophet. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the Northers may build this unit.</Text>
 		</Row>
 	</Language_en_US>
 </GameData>

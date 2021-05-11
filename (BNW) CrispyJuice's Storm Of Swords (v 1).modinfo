@@ -56,7 +56,7 @@
     <File md5="68465FF11E8C5BAF77F79DE0ACED7610" import="1">Factions/Braavos/XML/BraavosTychoNestoris_Scene.xml</File>
     <File md5="1C9987FAC9A09E1FAB4E47DA70CCE4BA" import="0">Factions/Braavos/XML/BraavosUnits.xml</File>
     <File md5="CAD24A2EC840FD2AFD1DD2A8672FAA97" import="1">Factions/Braavos/XML/TychoNestoris_Scene.dds</File>
-    <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Crownlands/Art/CrownlandsGoldCloakFlag.dds</File>
+    <File md5="C20C9A5A2D8782276C1B2479B11FDEA0" import="1">Factions/Crownlands/Art/CrownlandsGoldCloakFlag.dds</File>
     <File md5="7C69C56C6D784FF9AF3D1E0EBF67554E" import="1">Factions/Crownlands/Art/CrownlandsAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Crownlands/Art/CrownlandsAtlas16.dds</File>
     <File md5="D51F5B3C6A1426C041C54FFC41DA50C8" import="1">Factions/Crownlands/Art/CrownlandsAtlas24.dds</File>
@@ -76,14 +76,18 @@
     <File md5="278A11B7716CB66C544112A9F012FFF7" import="1">Factions/Crownlands/Art/CrownlandsIconAlpha64.dds</File>
     <File md5="6A62759B8B11B6140B392851054118AB" import="1">Factions/Crownlands/Art/CrownlandsIconAlpha80.dds</File>
     <File md5="0A0CB508497CAF8E8FA40C9E06D49B6F" import="1">Factions/Crownlands/Art/CrownlandsMap.dds</File>
+    <File md5="6B4247EC1CB3AA0FF9583CC6D3A85B41" import="1">Factions/Crownlands/Art/GoldCloak_Crownlands.dds</File>
+    <File md5="00D81AE23C3ECA9936FBD86F163A0098" import="1">Factions/Crownlands/Art/GoldCloak_Crownlands.fxsxml</File>
+    <File md5="A6E1EE6BB2677593B14F1FDAE074F953" import="1">Factions/Crownlands/Art/GoldCloak_Crownlands.gr2</File>
+    <File md5="901DD4E7020580E2C53916A5860925ED" import="1">Factions/Crownlands/Art/GoldCloak_Crownlands_gloss.dds</File>
     <File md5="B4373D25BE2C5E052ADFA719B4771B39" import="0">Factions/Crownlands/Sounds/CrownlandsSounds.xml</File>
     <File md5="0ABF0E8F0D7433339D961750E6266D48" import="0">Factions/Crownlands/XML/CrownlandsBuildings.xml</File>
-    <File md5="BF35C7BEEE93AE56388D9097794D0319" import="0">Factions/Crownlands/XML/CrownlandsCivilization.xml</File>
+    <File md5="9D50A7D388165D52AA019F848B81B1BC" import="0">Factions/Crownlands/XML/CrownlandsCivilization.xml</File>
     <File md5="700FC8BBCE0E0D1D75DDA3C0AE6ADDF7" import="0">Factions/Crownlands/XML/CrownlandsDiplomacyResponses.xml</File>
     <File md5="F292622EEED4C0E3634A4203B18EAA57" import="1">Factions/Crownlands/XML/CrownlandsJoffreyBaratheon_Scene.xml</File>
     <File md5="E0F014271AA67F9E440253EDACF3B80E" import="0">Factions/Crownlands/XML/CrownlandsLeader.xml</File>
     <File md5="B7400380567715B0FA545C51A2DB6240" import="0">Factions/Crownlands/XML/CrownlandsTrait.xml</File>
-    <File md5="62680F72BE155DFF74B69431AB993D04" import="0">Factions/Crownlands/XML/CrownlandsUnits.xml</File>
+    <File md5="40D318229CB22E39F887B399B7341C2B" import="0">Factions/Crownlands/XML/CrownlandsUnits.xml</File>
     <File md5="A28865EE86FC7BE995780304CA8ADCE7" import="1">Factions/Crownlands/XML/JoffreyBaratheon_Scene.dds</File>
     <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Dorne/Art/DorneSandSteedFlag.dds</File>
     <File md5="1AF993A5468BE385CBAEB2F9CCEA3804" import="1">Factions/Dorne/Art/DorneAtlas128.dds</File>
@@ -96,7 +100,7 @@
     <File md5="9A60F7BEE353EB016DFF4F0C01318649" import="1">Factions/Dorne/Art/DorneAtlas64.dds</File>
     <File md5="7BCA248581094E8CE751CBBFB083C344" import="1">Factions/Dorne/Art/DorneAtlas80.dds</File>
     <File md5="3275C1C775CC1E5E1132E16A84DF4C10" import="0">Factions/Dorne/Art/DorneAtlases.xml</File>
-    <File md5="1102693D9D53EE779E5ABB6D8AFF17C1" import="1">Factions/Dorne/Art/DorneDom.dds</File>
+    <File md5="BD5AF8F8C952020152826758C46C7EB0" import="1">Factions/Dorne/Art/DorneDom.dds</File>
     <File md5="61991B6B388E332714D2A5007F1FF2FB" import="1">Factions/Dorne/Art/DorneIconAlpha128.dds</File>
     <File md5="ACDFFA039A36BF06B882FC139B5F99F2" import="1">Factions/Dorne/Art/DorneIconAlpha16.dds</File>
     <File md5="B450E801307A8FC62F13307B7522B142" import="1">Factions/Dorne/Art/DorneIconAlpha24.dds</File>
@@ -105,8 +109,13 @@
     <File md5="E98C0817870B3818405CC488B577AB51" import="1">Factions/Dorne/Art/DorneIconAlpha64.dds</File>
     <File md5="A9FBF57FD988A360F2A86F778F998E48" import="1">Factions/Dorne/Art/DorneIconAlpha80.dds</File>
     <File md5="6B2DF646A7FB24C50D7B4F47941EC08C" import="1">Factions/Dorne/Art/DorneMap.dds</File>
+    <File md5="94D7BA93ED35002CED113E5D2E37C4D3" import="0">Factions/Dorne/Art/SandSteed_Dorne.fxsxml</File>
+    <File md5="2D8F4FB0EB1D4DC3CB936382E89363A9" import="1">Factions/Dorne/Art/SandSteed_Dorne.dds</File>
+    <File md5="0830A04ED7717EC1C3F55101C5CD0540" import="1">Factions/Dorne/Art/SandSteed_Dorne.gr2</File>
+    <File md5="5E076D1287D6AEE6CB3FD6BE6D64BC1A" import="1">Factions/Dorne/Art/SandSteed_Dorne_gloss.dds</File>
+    <File md5="92A46B75509DBD1ECF09971B25807BF4" import="1">Factions/Dorne/Art/SandSteed_Dorne_Horse.dds</File>
     <File md5="EC0DEBA927F6699BC9635BB49C5AC633" import="0">Factions/Dorne/Sounds/DorneSounds.xml</File>
-    <File md5="5FF405CF966FC9F4D0539FFE3FA97D49" import="1">Factions/Dorne/XML/DoranMartell_Scene.dds</File>
+    <File md5="83FEEA5EEE139FA6281E6692A3291E0F" import="1">Factions/Dorne/XML/DoranMartell_Scene.dds</File>
     <File md5="36C6D68B250FC7F6CB808302016A9598" import="0">Factions/Dorne/XML/DorneBuildings.xml</File>
     <File md5="31ADCF0661C69BB939B87D99B6784E07" import="0">Factions/Dorne/XML/DorneCivilization.xml</File>
     <File md5="352BF428949CA6F476B38EE385D26E71" import="0">Factions/Dorne/XML/DorneDiplomacyResponses.xml</File>
@@ -114,6 +123,7 @@
     <File md5="1DFB58EC1AEA97ECD5491451321FD574" import="0">Factions/Dorne/XML/DorneLeader.xml</File>
     <File md5="936519C768D670778CC6C7433B92E9DE" import="0">Factions/Dorne/XML/DorneTrait.xml</File>
     <File md5="E7565BF0BAA38A3A3F724BF05CC31BB5" import="0">Factions/Dorne/XML/DorneUnits.xml</File>
+    <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Dragonstone/Art/DragonstoneRedPriestFlag.dds</File>
     <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Dragonstone/Art/DragonstoneOnionKnightFlag.dds</File>
     <File md5="F8CE66FEF5147CE08F4E6E03C264D673" import="1">Factions/Dragonstone/Art/DragonstoneAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Dragonstone/Art/DragonstoneAtlas16.dds</File>
@@ -124,7 +134,7 @@
     <File md5="383558AFFBE5DA82D1EF1477C469E479" import="1">Factions/Dragonstone/Art/DragonstoneAtlas48.dds</File>
     <File md5="769D3EBA53B241125B63C07C52C2F85E" import="1">Factions/Dragonstone/Art/DragonstoneAtlas64.dds</File>
     <File md5="292AC90E48D8812F1B97AE80804D4150" import="1">Factions/Dragonstone/Art/DragonstoneAtlas80.dds</File>
-    <File md5="6022CA0F5894679FC9D63FB09E8527E7" import="0">Factions/Dragonstone/Art/DragonstoneAtlases.xml</File>
+    <File md5="D27838F81C09776A814D2A21A04E9C5A" import="0">Factions/Dragonstone/Art/DragonstoneAtlases.xml</File>
     <File md5="19D4D8ED612134843456178BF5A028B7" import="1">Factions/Dragonstone/Art/DragonstoneDom.dds</File>
     <File md5="51403C5A67B145CB16DBF83E01E31797" import="1">Factions/Dragonstone/Art/DragonstoneIconAlpha128.dds</File>
     <File md5="46F7E55DF3D9019F59EB69BF0EB13B05" import="1">Factions/Dragonstone/Art/DragonstoneIconAlpha16.dds</File>
@@ -135,13 +145,12 @@
     <File md5="5D0427C263F226728CEE03AB8B18EED5" import="1">Factions/Dragonstone/Art/DragonstoneIconAlpha80.dds</File>
     <File md5="FDF53A0A0A41982C7527FCCE43681E47" import="1">Factions/Dragonstone/Art/DragonstoneMap.dds</File>
     <File md5="DEB7B03DC4EEAF9B85F6B292EDFA7AC5" import="0">Factions/Dragonstone/Sounds/DragonstoneSounds.xml</File>
-    <File md5="D3FB4D696BE79ABD0D0FF1EA48837F45" import="0">Factions/Dragonstone/XML/DragonstoneBuildings.xml</File>
-    <File md5="E3AD0321FAEB4A1A3CC06EDC48FC4730" import="0">Factions/Dragonstone/XML/DragonstoneCivilization.xml</File>
+    <File md5="DB456A08324D06A3461ED449358BC308" import="0">Factions/Dragonstone/XML/DragonstoneCivilization.xml</File>
     <File md5="20C7BCEA3208CABEA2CC8A285E5C2410" import="0">Factions/Dragonstone/XML/DragonstoneDiplomacyResponses.xml</File>
     <File md5="FC5ABA9A834AD4E67262D77B7DDE6E01" import="0">Factions/Dragonstone/XML/DragonstoneLeader.xml</File>
     <File md5="4F205F9E9AA31AD24596FCF639DA8B78" import="1">Factions/Dragonstone/XML/DragonstoneStannisBaratheon_Scene.xml</File>
     <File md5="A658B7FD889017615436F6571A65FD8C" import="0">Factions/Dragonstone/XML/DragonstoneTrait.xml</File>
-    <File md5="19AA25786698A7CBD3D2786EF4814038" import="0">Factions/Dragonstone/XML/DragonstoneUnits.xml</File>
+    <File md5="F366F836363D0AAE4907ADAC69F16748" import="0">Factions/Dragonstone/XML/DragonstoneUnits.xml</File>
     <File md5="74FA4699A67D86D361D8BAF95B998876" import="1">Factions/Dragonstone/XML/StannisBaratheon_Scene.dds</File>
     <File md5="4DFB3C6F3C81200A48D365A77DE67FCB" import="1">Factions/Iron Islands/Art/IronIslandsAtlas256.dds</File>
     <File md5="20CF1642A8BE9558B6A97D4A147EA6C7" import="1">Factions/Iron Islands/Art/IronIslandsIconAlpha128.dds</File>
@@ -172,7 +181,7 @@
     <File md5="C3CD47042A1B27BEFCCC7EEDA49E3B95" import="0">Factions/Iron Islands/XML/IronIslandsLeader.xml</File>
     <File md5="6FA1630DC43BD73765A118B3FF62B0AD" import="0">Factions/Iron Islands/XML/IronIslandsTrait.xml</File>
     <File md5="905BA021B02BBEB1BE996A1E6839187A" import="0">Factions/Iron Islands/XML/IronIslandsUnits.xml</File>
-    <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Meereen/Art/MeereenUnsulliedFlag.dds</File>
+    <File md5="2EF72C742DBEF813E494812A66548941" import="1">Factions/Meereen/Art/MeereenUnsulliedFlag.dds</File>
     <File md5="1A8C2539F6FAA0872F8C46DA94045507" import="1">Factions/Meereen/Art/MeereenAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Meereen/Art/MeereenAtlas16.dds</File>
     <File md5="D51F5B3C6A1426C041C54FFC41DA50C8" import="1">Factions/Meereen/Art/MeereenAtlas24.dds</File>
@@ -192,10 +201,10 @@
     <File md5="1C5DB7ACF466BC2DF19CBF017900E692" import="1">Factions/Meereen/Art/MeereenIconAlpha64.dds</File>
     <File md5="A29F42A4A28272B8636759859F437CCC" import="1">Factions/Meereen/Art/MeereenIconAlpha80.dds</File>
     <File md5="0B9085C44B3FA86651D449ED97761454" import="1">Factions/Meereen/Art/MeereenMap.dds</File>
-    <File md5="10C0E98A2BCB6787569A33B746E32605" import="1">Factions/Meereen/Art/Unsullied_Meereen.dds</File>
+    <File md5="094F8707EB79492532F377675ED35F04" import="1">Factions/Meereen/Art/Unsullied_Meereen.dds</File>
     <File md5="8826FEB65AF285ED07DA994072805FE9" import="1">Factions/Meereen/Art/Unsullied_Meereen.fxsxml</File>
     <File md5="E44D2D33A41286C17B944DE88DEF6951" import="1">Factions/Meereen/Art/Unsullied_Meereen.gr2</File>
-    <File md5="E3A41F1E7FEEFC456B64BD6F30397D6E" import="1">Factions/Meereen/Art/Unsullied_Meereen_gloss.dds</File>
+    <File md5="E9DFE4D98ED2EBB5ECE70DE6FC787D2C" import="1">Factions/Meereen/Art/Unsullied_Meereen_gloss.dds</File>
     <File md5="B312C40CB458742038F3DD09329AD046" import="0">Factions/Meereen/Lua/MeereenTrait.lua</File>
     <File md5="1B162F7FE284D46D4E5E01C6F716559F" import="0">Factions/Meereen/Sounds/MeereenSounds.xml</File>
     <File md5="B7EA24000BCD0EB15C2C0C48F98CE887" import="1">Factions/Meereen/XML/DaenerysTargaryen_Scene.dds</File>
@@ -205,7 +214,7 @@
     <File md5="F0F3057B08AC03679A5C82B47C140B02" import="1">Factions/Meereen/XML/MeereenDiplomacyResponses.xml</File>
     <File md5="AE34909F5CFA1B4EFD21A6A044945B6C" import="0">Factions/Meereen/XML/MeereenLeader.xml</File>
     <File md5="6676212D6F57C0C4A32E8456EACFCF9D" import="0">Factions/Meereen/XML/MeereenTrait.xml</File>
-    <File md5="23050619DDD67E44C2822A09ACCCD79E" import="0">Factions/Meereen/XML/MeereenUnits.xml</File>
+    <File md5="9DC7379AC51F93C990AB62CB96314E8E" import="0">Factions/Meereen/XML/MeereenUnits.xml</File>
     <File md5="48CED14FEE6DED59A17EB9AB0F3970A3" import="1">Factions/North/Art/WhiteHarborKnight_North_Horse.dds</File>
     <File md5="D8296024A52BB9B56D80FA15DA86A746" import="1">Factions/North/Art/WhiteHarborKnight_North_Horse_gloss.dds</File>
     <File md5="84F0D2F4BAC6B1E7A69BDF6B24320C6F" import="1">Factions/North/Art/WhiteHarborKnight_North.dds</File>
@@ -244,7 +253,7 @@
     <File md5="976127C381C803B4515805888709D03E" import="0">Factions/North/XML/NorthLeader.xml</File>
     <File md5="4C13194030C444ED7E60EF2690997912" import="1">Factions/North/XML/NorthRobbStark_Scene.xml</File>
     <File md5="A48841D6083E9D33B4A238FD30EA7D81" import="0">Factions/North/XML/NorthTrait.xml</File>
-    <File md5="5D3CD4A4C03522AE63825CF6AD085524" import="0">Factions/North/XML/NorthUnits.xml</File>
+    <File md5="95A5081FE3BD013D110F58DA5B726CF3" import="0">Factions/North/XML/NorthUnits.xml</File>
     <File md5="BDD4F4790A66BC867025431F573194B0" import="1">Factions/North/XML/RobbStark_Scene.dds</File>
     <File md5="DB2F95B88029AF814546B35B4DF96484" import="1">Factions/Reach/Art/ReachMap.dds</File>
     <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Reach/Art/ReachPlaceholder1Flag.dds</File>
@@ -286,7 +295,7 @@
     <File md5="A99FA2D3C90220C373A30F3DDAEDC429" import="1">Factions/Riverlands/Art/RiverlandsAtlas64.dds</File>
     <File md5="3982513D96F97BF4EC63460C3B207449" import="1">Factions/Riverlands/Art/RiverlandsAtlas80.dds</File>
     <File md5="FAE04047771B63A5049946ED8ED1132F" import="0">Factions/Riverlands/Art/RiverlandsAtlases.xml</File>
-    <File md5="1102693D9D53EE779E5ABB6D8AFF17C1" import="1">Factions/Riverlands/Art/RiverlandsDom.dds</File>
+    <File md5="B50A749C6DBD95FC141F1C16606BAE95" import="1">Factions/Riverlands/Art/RiverlandsDom.dds</File>
     <File md5="0F97A9F0B68DC4C97F24E6DC3D80CAB5" import="1">Factions/Riverlands/Art/RiverlandsIconAlpha128.dds</File>
     <File md5="A2029B9C075981D07D2BE4B0FC0387A7" import="1">Factions/Riverlands/Art/RiverlandsIconAlpha16.dds</File>
     <File md5="CB6D468D136E50D6E050D145B7B73C9E" import="1">Factions/Riverlands/Art/RiverlandsIconAlpha24.dds</File>
@@ -296,7 +305,7 @@
     <File md5="F7EECB2F0B5BAFF4F85227E5E0D5199B" import="1">Factions/Riverlands/Art/RiverlandsIconAlpha80.dds</File>
     <File md5="14794BE57B4D2983F5112D8A87CDD50B" import="1">Factions/Riverlands/Art/RiverlandsMap.dds</File>
     <File md5="81C8A1E6308DA511E8AFB16B84C5514B" import="0">Factions/Riverlands/Sounds/RiverlandsSounds.xml</File>
-    <File md5="7FDEFACC7F971B4EC864EC8F9DB5A7CA" import="1">Factions/Riverlands/XML/BryndenTully_Scene.dds</File>
+    <File md5="4416DEBE128F21B59F3DC5BB84B2741A" import="1">Factions/Riverlands/XML/BryndenTully_Scene.dds</File>
     <File md5="516536208F22254163600DA804C1FE8D" import="1">Factions/Riverlands/XML/RiverlandsBryndenTully_Scene.xml</File>
     <File md5="4A97107747CB146A6C4F2018196BE5E7" import="0">Factions/Riverlands/XML/RiverlandsBuildings.xml</File>
     <File md5="B5A961E9FE605D6889477B93AB9E6681" import="0">Factions/Riverlands/XML/RiverlandsCivilization.xml</File>
@@ -304,7 +313,8 @@
     <File md5="6D81F2E8CB51AF3D2DD551BD011C05DD" import="0">Factions/Riverlands/XML/RiverlandsLeader.xml</File>
     <File md5="D1BFBEF9E00BBA07C8EEC199FBB6B1A7" import="0">Factions/Riverlands/XML/RiverlandsTrait.xml</File>
     <File md5="020D2742E04B9B1F510234DB1C4587A9" import="0">Factions/Riverlands/XML/RiverlandsUnits.xml</File>
-    <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Stormlands/Art/StormlandsPlaceholder1Flag.dds</File>
+    <File md5="98A45732955953D9BDE104B1CD9050BE" import="1">Factions/Stormlands/Art/StormSwords_Stormlands.fxsxml</File>
+    <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Stormlands/Art/StormlandsStormSwordFlag.dds</File>
     <File md5="E7EC627374EE9037330DCB89698F00D1" import="1">Factions/Stormlands/Art/StormlandsAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Stormlands/Art/StormlandsAtlas16.dds</File>
     <File md5="D51F5B3C6A1426C041C54FFC41DA50C8" import="1">Factions/Stormlands/Art/StormlandsAtlas24.dds</File>
@@ -314,7 +324,7 @@
     <File md5="383558AFFBE5DA82D1EF1477C469E479" import="1">Factions/Stormlands/Art/StormlandsAtlas48.dds</File>
     <File md5="8973D321A84F28FCB152B3708FC632FF" import="1">Factions/Stormlands/Art/StormlandsAtlas64.dds</File>
     <File md5="2441F9076163E9A4605FC861A1A99463" import="1">Factions/Stormlands/Art/StormlandsAtlas80.dds</File>
-    <File md5="70035ABA822FEF4A8B84432A88F548A3" import="0">Factions/Stormlands/Art/StormlandsAtlases.xml</File>
+    <File md5="457A44A9CDC93383AEB4545A0CCB6942" import="0">Factions/Stormlands/Art/StormlandsAtlases.xml</File>
     <File md5="BF52AEF7AFE7CB7D62CC9F747091F9FD" import="1">Factions/Stormlands/Art/StormlandsDom.dds</File>
     <File md5="0F97A9F0B68DC4C97F24E6DC3D80CAB5" import="1">Factions/Stormlands/Art/StormlandsIconAlpha128.dds</File>
     <File md5="A2029B9C075981D07D2BE4B0FC0387A7" import="1">Factions/Stormlands/Art/StormlandsIconAlpha16.dds</File>
@@ -324,7 +334,10 @@
     <File md5="3C37216379B8B68F332FDC50C4205D25" import="1">Factions/Stormlands/Art/StormlandsIconAlpha64.dds</File>
     <File md5="F7EECB2F0B5BAFF4F85227E5E0D5199B" import="1">Factions/Stormlands/Art/StormlandsIconAlpha80.dds</File>
     <File md5="C7E3D1BE60BCE761827A9BC50BB6452A" import="1">Factions/Stormlands/Art/StormlandsMap.dds</File>
-    <File md5="35DF63372405FA103FFFB661F60F5E70" import="0">Factions/Stormlands/Lua/StormlandsTrait.lua</File>
+    <File md5="32600A526E9ACD6FCF42BA8662AF6068" import="0">Factions/Stormlands/Art/StormSword_Stormlands.dds</File>
+    <File md5="CCD17CC12340E9D32FD79BF8C26E1F63" import="1">Factions/Stormlands/Art/StormSword_Stormlands.gr2</File>
+    <File md5="DE351C35B75860890E1F5A8311084FCA" import="1">Factions/Stormlands/Art/StormSword_Stormlands_gloss.dds</File>
+    <File md5="CED94F881308E34231AD2C78BF12B3C1" import="0">Factions/Stormlands/Lua/StormlandsTrait.lua</File>
     <File md5="47321CFDD22FB727EF3D6CE6C12FD418" import="0">Factions/Stormlands/Sounds/StormlandsSounds.xml</File>
     <File md5="F44C887AD84E7998CA115B444D5CD44C" import="0">Factions/Stormlands/XML/StormlandsImprovement.xml</File>
     <File md5="8E1C56ECF55BBF8529CA6A31DA0CAFB9" import="1">Factions/Stormlands/XML/RenlyBaratheon_Scene.dds</File>
@@ -333,7 +346,7 @@
     <File md5="9303B576C31A2903439B6FFAD9C2B7FE" import="0">Factions/Stormlands/XML/StormlandsLeader.xml</File>
     <File md5="15B024B2F55D5D71D8C4A856D80B94EE" import="1">Factions/Stormlands/XML/StormlandsRenlyBaratheon_Scene.xml</File>
     <File md5="5B7472F0C5C706968BBA0D78A80A2A51" import="0">Factions/Stormlands/XML/StormlandsTrait.xml</File>
-    <File md5="06EE1BE42C52DB8A0D5816142AF7F418" import="0">Factions/Stormlands/XML/StormlandsUnits.xml</File>
+    <File md5="A84A1334539CC560687858E5EF107916" import="0">Factions/Stormlands/XML/StormlandsUnits.xml</File>
     <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Vale/Art/ValePlaceholder1Flag.dds</File>
     <File md5="ACCF9137C926DAE932E7D84A878ADF71" import="1">Factions/Vale/Art/ValeAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Vale/Art/ValeAtlas16.dds</File>
@@ -355,6 +368,7 @@
     <File md5="F7EECB2F0B5BAFF4F85227E5E0D5199B" import="1">Factions/Vale/Art/ValeIconAlpha80.dds</File>
     <File md5="238D725B4D2CCEE851B7B4B27C342A00" import="1">Factions/Vale/Art/ValeMap.dds</File>
     <File md5="D8917462D07B4D3936BB13D534337706" import="0">Factions/Vale/Sounds/ValeSounds.xml</File>
+    <File md5="C23D0AAD6B2ADE49F39B40943C280574" import="1">Factions/Vale/XML/LysaArryn_Scene.dds</File>
     <File md5="D7A6DB94C3615A1BFC12DAFFB28BFB5E" import="0">Factions/Vale/XML/ValeBuildings.xml</File>
     <File md5="497C39299DC44FEE19676FE60EDE5B37" import="0">Factions/Vale/XML/ValeCivilization.xml</File>
     <File md5="FA3F599067C9D1E529788933D62CE922" import="0">Factions/Vale/XML/ValeDiplomacyResponses.xml</File>
@@ -362,7 +376,11 @@
     <File md5="D62871B0AFABBF7E4F56B201AAD93128" import="1">Factions/Vale/XML/ValeLysaArryn_Scene.xml</File>
     <File md5="AD6E8781C35208311DAA4BD8F6C938B5" import="0">Factions/Vale/XML/ValeTrait.xml</File>
     <File md5="CFFCDABF5E5035980C27BA8855D35CA1" import="0">Factions/Vale/XML/ValeUnits.xml</File>
-    <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Westerlands/Art/WesterlandsPlaceholder1Flag.dds</File>
+    <File md5="0DD66B8684C59B06783FEC0B1B7A877A" import="0">Factions/Westerlands/Art/RedCloak_Westerlands.dds</File>
+    <File md5="EE76B2FFC8D0E590E8F0BA464AED9A80" import="0">Factions/Westerlands/Art/RedCloak_Westerlands.fxsxml</File>
+    <File md5="1D68F7BE0944EDB275A1B9D830FEE1A7" import="0">Factions/Westerlands/Art/RedCloak_Westerlands.gr2</File>
+    <File md5="ECD92704B00E852C467FD7D6355A0BC3" import="0">Factions/Westerlands/Art/RedCloak_Westerlands_gloss.dds</File>
+    <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Westerlands/Art/WesterlandsRedCloakFlag.dds</File>
     <File md5="A4A9DD06DDBC852AB542815B930AF7F0" import="1">Factions/Westerlands/Art/WesterlandsAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Westerlands/Art/WesterlandsAtlas16.dds</File>
     <File md5="D51F5B3C6A1426C041C54FFC41DA50C8" import="1">Factions/Westerlands/Art/WesterlandsAtlas24.dds</File>
@@ -372,7 +390,7 @@
     <File md5="383558AFFBE5DA82D1EF1477C469E479" import="1">Factions/Westerlands/Art/WesterlandsAtlas48.dds</File>
     <File md5="6316F524A3764B50D116F269FC91E0B7" import="1">Factions/Westerlands/Art/WesterlandsAtlas64.dds</File>
     <File md5="913F33AEA419F7C95865AAD9AD622CB6" import="1">Factions/Westerlands/Art/WesterlandsAtlas80.dds</File>
-    <File md5="35D2784EC9236D3BBB9D14085D939BF2" import="0">Factions/Westerlands/Art/WesterlandsAtlases.xml</File>
+    <File md5="1510AF8F6EE818AC2293458149A3A16E" import="0">Factions/Westerlands/Art/WesterlandsAtlases.xml</File>
     <File md5="812AA2CA2493C09A7C12E21C21E41193" import="1">Factions/Westerlands/Art/WesterlandsDom.dds</File>
     <File md5="0F97A9F0B68DC4C97F24E6DC3D80CAB5" import="1">Factions/Westerlands/Art/WesterlandsIconAlpha128.dds</File>
     <File md5="A2029B9C075981D07D2BE4B0FC0387A7" import="1">Factions/Westerlands/Art/WesterlandsIconAlpha16.dds</File>
@@ -385,12 +403,12 @@
     <File md5="51D726468D86AE7B46702C03B447F1A8" import="0">Factions/Westerlands/Sounds/WesterlandsSounds.xml</File>
     <File md5="68996143B4794A19C243322F890373BA" import="1">Factions/Westerlands/XML/TywinLannister_Scene.dds</File>
     <File md5="A789891CC20D3298217D6FD835747266" import="0">Factions/Westerlands/XML/WesterlandsBuildings.xml</File>
-    <File md5="F703E6CB02CF6EF8FE8EA508CD23C362" import="0">Factions/Westerlands/XML/WesterlandsCivilization.xml</File>
+    <File md5="100EACF31C3C7DDB9E30CFBC9E85D9AA" import="0">Factions/Westerlands/XML/WesterlandsCivilization.xml</File>
     <File md5="C5C4C9A9ABB90FBC112E6808DCC54E5E" import="0">Factions/Westerlands/XML/WesterlandsDiplomacyResponses.xml</File>
     <File md5="1193D684777B0B9D0FD52AB10E559A4A" import="0">Factions/Westerlands/XML/WesterlandsLeader.xml</File>
     <File md5="A6A7497F4812CA889AD6C9A1629A3A29" import="0">Factions/Westerlands/XML/WesterlandsTrait.xml</File>
     <File md5="23DD399CA9E13805EC817D7AD480C064" import="1">Factions/Westerlands/XML/WesterlandsTywinLannister_Scene.xml</File>
-    <File md5="8CA42D72103651EB371E398C677A2F34" import="0">Factions/Westerlands/XML/WesterlandsUnits.xml</File>
+    <File md5="C9A7D287ABD9C1978F7D393D5A74FC3B" import="0">Factions/Westerlands/XML/WesterlandsUnits.xml</File>
     <File md5="67B09380B102C9960DF0CFDE644949D7" import="1">Religion/Art/ReligionFontIconsLegends.dds</File>
     <File md5="E78FC3662E8309DDA92744D7F81BBD89" import="1">Religion/Art/ReligionAtlas128.dds</File>
     <File md5="1C45D5351642F6B9C7D0F97A27D58F49" import="1">Religion/Art/ReligionAtlas16.dds</File>
@@ -446,7 +464,6 @@
       <UpdateDatabase>Factions/Dragonstone/Sounds/DragonstoneSounds.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Dragonstone/XML/DragonstoneCivilization.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Dragonstone/XML/DragonstoneDiplomacyResponses.xml</UpdateDatabase>
-      <UpdateDatabase>Factions/Dragonstone/XML/DragonstoneBuildings.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Dragonstone/XML/DragonstoneLeader.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Dragonstone/XML/DragonstoneStannisBaratheon_Scene.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Dragonstone/XML/DragonstoneTrait.xml</UpdateDatabase>

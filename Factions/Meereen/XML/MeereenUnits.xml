@@ -6,8 +6,8 @@
 			<Class>UNITCLASS_PIKEMAN</Class>
 			<Type>UNIT_UNSULLIED</Type>
 			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
-			<Combat>10</Combat>
-			<Cost>90</Cost>
+			<Combat>18</Combat>
+			<Cost>120</Cost>
 			<Moves>2</Moves>
 			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
@@ -73,6 +73,12 @@
 			<Flavor>6</Flavor>
 		</Row>
 	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_UNSULLIED</UnitType>
+			<PromotionType>PROMOTION_ARMOR_PLATING_1</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
 	<!-- Unit_GreatPersons -->
 	<!-- Unit_ResourceQuantityRequirements -->
 	<!-- Unit_UniqueNames -->
@@ -161,10 +167,10 @@
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_UNSULLIED_STRATEGY">
-			<Text>The Unsullied is the Meereenese unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game MeereenPlaceholder2, providing additional [ICON_GOLD] Gold.</Text>
+			<Text>The Unsullied is one of the two Meereenese unique units, replacing the Pikeman. Formidable spear unit which holds itself against other meelee units as well. Excellent for creating a buffer around your cities.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_UNSULLIED">
-			<Text>Replaces the Pikeman. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the Meereeneses may build this unit.</Text>
+			<Text>Stronger and more expensive than the Pikeman it replaces. The unit has an additional bonus when defending.</Text>
 		</Row>
 	</Language_en_US>
 </GameData>

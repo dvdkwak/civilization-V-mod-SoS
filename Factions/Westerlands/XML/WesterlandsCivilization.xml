@@ -263,8 +263,8 @@
 	<Civilization_UnitClassOverrides>
 		<Row>
 			<CivilizationType>CIVILIZATION_WESTERLANDS</CivilizationType>
-			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
-			<UnitType>UNIT_WESTERLANDSPLACEHOLDER1</UnitType>
+			<UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
+			<UnitType>UNIT_RED_CLOAK</UnitType>
 		</Row>
 	</Civilization_UnitClassOverrides>
 	<Civilization_Start_Along_Ocean>
