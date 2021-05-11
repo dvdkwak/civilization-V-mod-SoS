@@ -18,7 +18,7 @@ function StormLandsTrait( playerID )
         local i = 0;
         -- calculate number of DoF of the player
         for test in ipairs(Players) do
-            i += 1;
+            i = i + 1;
             print("I am a line representing a player " .. i);
             -- print("Player with ID: " .. test:GetID() .. " is in the game");
         end
