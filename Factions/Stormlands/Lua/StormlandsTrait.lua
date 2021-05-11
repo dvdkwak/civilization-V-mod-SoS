@@ -5,6 +5,8 @@
 
 -- Trait of the Stormland increases the combat bonus of all units by 10% per DoF (Decleration of Friendship)
 
+-- this is the next update on the stormlands civilization in it's own branch!
+
 function StormLandsTrait( playerID )
 
     local player = Players[playerID];
