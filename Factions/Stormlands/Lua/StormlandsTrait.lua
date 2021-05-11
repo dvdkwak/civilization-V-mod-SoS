@@ -19,8 +19,10 @@ function StormLandsTrait( playerID )
     if ( player:IsAlive() and civType == GameInfoTypes["CIVILIZATION_STORMLANDS"] ) then
         for unit in player:Units() do
 
+            print("Unit with ID: " .. unit:GetID() .. " hasPromotionII: " ..unit:IsHasPromotion(stormPromotionII));
+
             -- if the unit has promotion 2, give it promotion 3 (TEST)
-            if ( unit:IsHasPromotion(stormPromotionI) ) then
+            if ( unit:IsHasPromotion(stormPromotionII) ) then
                 unit:SetHasPromotion(stormPromotionI, false);
                 unit:SetHasPromotion(stormPromotionII, false);
                 unit:SetHasPromotion(stormPromotionIII, true);
