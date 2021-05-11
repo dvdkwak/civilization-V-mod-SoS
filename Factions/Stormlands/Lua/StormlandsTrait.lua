@@ -17,7 +17,10 @@ function StormLandsTrait( playerID )
 
         -- calculate number of DoF of the player
         for key, value in ipairs(Players) do
-            print("I am a line representing a player " .. value);
+            print("I am a line representing a player " .. value:GetID);
+            for keySub, valueSub in ipairs(value) do
+                print("valueSub " .. valueSub);
+            end
         end
 
         -- ipairs() method test
