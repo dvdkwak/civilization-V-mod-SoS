@@ -5,18 +5,23 @@
 
 -- Trait of the Stormland increases the combat bonus of all units by 10% per DoF (Decleration of Friendship)
 
--- this is the next update on the stormlands civilization in it's own branch!
-
 function StormLandsTrait( playerID )
 
     local player = Players[playerID];
     local civType = player:GetCivilizationType();
+    local numberOfDoF = 
     local stormPromotionI = GameInfoTypes["PROMOTION_FURY_I"];
     local stormPromotionII = GameInfoTypes["PROMOTION_FURY_II"];
-    local stormPromotionIII = GameInfoTypes["PROMOTION_FURY_III"];
 
     -- when the civ is stormlands, initiate bonus on all units
     if ( player:IsAlive() and civType == GameInfoTypes["CIVILIZATION_STORMLANDS"] ) then
+
+        -- calculate number of DoF of the player
+        for player in players do
+            print("Player with ID: " .. player:GetID() .. " is in the game");
+        end
+
+
         for unit in player:Units() do
 
             -- if the unit has promotion 2, give it promotion 3 (TEST)
@@ -45,7 +50,8 @@ function StormLandsTrait( playerID )
             end
 
         end -- end of for unit
-    end
+
+    end -- end of alive and civ check
 
 end -- end of StormLandTrait
 
