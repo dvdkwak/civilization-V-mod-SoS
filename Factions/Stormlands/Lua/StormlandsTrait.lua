@@ -26,19 +26,17 @@ function StormLandsTrait( playerID )
                 unit:SetHasPromotion(stormPromotionIII, true);
 
                 print("Unit should have gained the stormPromotionIII");
-            end
 
             -- if the unit has promotion 1, give it promotion 2 (TEST)
-            if ( unit:IsHasPromotion(stormPromotionI) ) then
+            elseif ( unit:IsHasPromotion(stormPromotionI) ) then
                 unit:SetHasPromotion(stormPromotionI, false);
                 unit:SetHasPromotion(stormPromotionII, true);
                 unit:SetHasPromotion(stormPromotionIII, false);
 
                 print("Unit should have gained the stormPromotionII");
-            end
 
             -- if the unit has not a promotion yet, we grand it (no decleration of friendship check yet)
-            if ( not unit:IsHasPromotion(stormPromotionI) ) then
+            elseif ( not unit:IsHasPromotion(stormPromotionI) ) then
                 unit:SetHasPromotion(stormPromotionI, true);
                 unit:SetHasPromotion(stormPromotionII, false);
                 unit:SetHasPromotion(stormPromotionIII, false);
