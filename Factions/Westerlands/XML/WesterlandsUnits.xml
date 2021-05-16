@@ -25,7 +25,7 @@
 			<XPValueAttack>3</XPValueAttack>
 			<XPValueDefense>3</XPValueDefense>
 			<Conscription>3</Conscription>
-			<UnitArtInfo>ART_DEF_UNIT_LONGSWORDSMAN</UnitArtInfo>
+			<UnitArtInfo>ART_DEF_UNIT_RED_CLOAK</UnitArtInfo>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
 			<IconAtlas>WESTERLANDS_ATLAS</IconAtlas>
 			<PortraitIndex>2</PortraitIndex>
@@ -82,14 +82,14 @@
 	<UnitGameplay2DScripts>
 		<Row>
 			<UnitType>UNIT_RED_CLOAK</UnitType>
-			<SelectionSound>AS2D_SELECT_PIKEMAN</SelectionSound>
-			<FirstSelectionSound>AS2D_BIRTH_PIKEMAN</FirstSelectionSound>
+			<SelectionSound>AS2D_SELECT_LONGSWORDSMAN</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_LONGSWORDSMAN</FirstSelectionSound>
 		</Row>
 	</UnitGameplay2DScripts>
 
 	<!-- RED CLOAK art_def_member AND NOT MEMBER ****************************************************** -->
 
-	<!-->ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfos>
 		<Row>
 			<Type>ART_DEF_UNIT_RED_CLOAK</Type>
 			<DamageStates>1</DamageStates>
@@ -132,7 +132,6 @@
 			<WeaponTypeSoundOverrideTag>SWORD</WeaponTypeSoundOverrideTag>
 		</Row>
 		<Row>
-			<Usage>Vs_City ShortRange</Usage>
 			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_RED_CLOAK</UnitMemberType>
 			<Index>1</Index>
 			<SubIndex>0</SubIndex>
@@ -146,9 +145,9 @@
 		<Row>
 			<StrategicViewType>ART_DEF_UNIT_RED_CLOAK</StrategicViewType>
 			<TileType>Unit</TileType>
-			<Asset>SV_Longswordsman.dds</Asset>
+			<Asset>SV_Legion.dds</Asset>
 		</Row>
-	</ArtDefine_StrategicView-->
+	</ArtDefine_StrategicView>
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_UNIT_RED_CLOAK">

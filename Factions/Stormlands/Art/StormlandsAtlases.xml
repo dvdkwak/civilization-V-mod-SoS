@@ -108,7 +108,7 @@
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>STORMLANDS_STORMLANDSPLACEHOLDER1_FLAG</Atlas>
+			<Atlas>STORMLANDS_STORM_SWORD_FLAG</Atlas>
 			<IconSize>32</IconSize>
 			<Filename>StormlandsStormSwordFlag.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>

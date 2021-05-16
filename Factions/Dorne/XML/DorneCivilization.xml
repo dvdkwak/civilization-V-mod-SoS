@@ -263,7 +263,7 @@
 	<Civilization_UnitClassOverrides>
 		<Row>
 			<CivilizationType>CIVILIZATION_DORNE</CivilizationType>
-			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
 			<UnitType>UNIT_SAND_STEED</UnitType>
 		</Row>
 	</Civilization_UnitClassOverrides>

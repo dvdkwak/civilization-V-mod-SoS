@@ -108,9 +108,9 @@
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>REACH_REACHPLACEHOLDER1_FLAG</Atlas>
+			<Atlas>REACH_HIGHGUARD_FLAG</Atlas>
 			<IconSize>32</IconSize>
-			<Filename>ReachPlaceholder1Flag.dds</Filename>
+			<Filename>ReachHighguardFlag.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>

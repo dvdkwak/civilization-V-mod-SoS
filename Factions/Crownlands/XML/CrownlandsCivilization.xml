@@ -33,7 +33,7 @@
 		<Row>
 			<CivilizationType>CIVILIZATION_CROWNLANDS</CivilizationType>
 			<BuildingClassType>BUILDINGCLASS_FACTORY</BuildingClassType>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 		</Row>
 	</Civilization_BuildingClassOverrides>
 	<Civilization_CityNames>
@@ -305,7 +305,7 @@
 		<Row>
 			<Type>COLOR_PLAYER_CROWNLANDS_BACKGROUND</Type>
 			<Red>0.999</Red>
-			<Green>0.901</Green>
+			<Green>0.835</Green>
 			<Blue>0.001</Blue>
 			<Alpha>1.0</Alpha>
 		</Row>
