@@ -137,10 +137,7 @@
 			<CannotBeChosen>true</CannotBeChosen>
 			<PortraitIndex>59</PortraitIndex>
 			<IconAtlas>ABILITY_ATLAS</IconAtlas>
-			<PediaType>PEDIA_ATTRIBUTES</PediaType>
-			<PediaEntry>Unit gains +10% [ICON_STRENGTH] Combat Strength.</PediaEntry>
-			<!--<Defense>10</Defense>
-			<Attack>10</Attack>-->
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>\
 			<CombatPercent>10</CombatPercent>
 		</Row>
 		<Row>
@@ -153,9 +150,43 @@
 			<IconAtlas>ABILITY_ATLAS</IconAtlas>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>Unit gains +20% [ICON_STRENGTH] Combat Strength.</PediaEntry>
-			<!--<Defense>20</Defense>
-			<Attack>20</Attack>-->
 			<CombatPercent>20</CombatPercent>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FURY_III</Type>
+			<Description>Promotion of the Fury II</Description>
+			<Help>Unit gains +30% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +30% [ICON_STRENGTH] Combat Strength.</PediaEntry>
+			<CombatPercent>30</CombatPercent>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FURY_IV</Type>
+			<Description>Promotion of the Fury II</Description>
+			<Help>Unit gains +40% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +40% [ICON_STRENGTH] Combat Strength.</PediaEntry>
+			<CombatPercent>40</CombatPercent>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FURY_V</Type>
+			<Description>Promotion of the Fury II</Description>
+			<Help>Unit gains +50% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +50% [ICON_STRENGTH] Combat Strength.</PediaEntry>
+			<CombatPercent>50</CombatPercent>
 		</Row>
 	</UnitPromotions>
 
