@@ -257,8 +257,8 @@
 	<Civilization_UnitClassOverrides>
 		<Row>
 			<CivilizationType>CIVILIZATION_STORMLANDS</CivilizationType>
-			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
-			<UnitType>UNIT_STORMLANDSPLACEHOLDER1</UnitType>
+			<UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
+			<UnitType>UNIT_STORM_SWORD</UnitType>
 		</Row>
 	</Civilization_UnitClassOverrides>
 	<Civilization_Start_Along_Ocean>

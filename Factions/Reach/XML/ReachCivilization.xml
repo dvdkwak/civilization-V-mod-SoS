@@ -263,8 +263,8 @@
 	<Civilization_UnitClassOverrides>
 		<Row>
 			<CivilizationType>CIVILIZATION_REACH</CivilizationType>
-			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
-			<UnitType>UNIT_REACHPLACEHOLDER1</UnitType>
+			<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+			<UnitType>UNIT_HIGHGUARD</UnitType>
 		</Row>
 	</Civilization_UnitClassOverrides>
 	<Civilization_Start_Along_Ocean>

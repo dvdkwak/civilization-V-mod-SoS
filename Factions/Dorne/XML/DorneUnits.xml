@@ -1,83 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by ModBuddy on 2/11/2021 10:53:08 PM -->
+<!-- Created by ModBuddy on 2/11/2021 11:47:28 PM -->
 <GameData>
 	<Units>
 		<Row>
+			<Class>UNITCLASS_KNIGHT</Class>
 			<Type>UNIT_SAND_STEED</Type>
+			<PrereqTech>TECH_CHIVALRY</PrereqTech>
+			<Combat>18</Combat>
+			<Cost>120</Cost>
+			<Moves>5</Moves>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_SAND_STEED</Description>
-			<Civilopedia>TXT_KEY_CIV5_SAND_STEED_TEXT</Civilopedia>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_SAND_STEED_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_UNIT_SAND_STEED_STRATEGY</Strategy>
 			<Help>TXT_KEY_UNIT_HELP_SAND_STEED</Help>
-			<Cost>80</Cost>
-			<Moves>4</Moves>
-			<Class>UNITCLASS_WORKBOAT</Class>
-			<Domain>DOMAIN_SEA</Domain>
-			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
-			<DefaultUnitAI>UNITAI_WORKER_SEA</DefaultUnitAI>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
-			<PrereqResources>true</PrereqResources>
-			<Mechanized>true</Mechanized>
-			<PrereqTech>TECH_SAILING</PrereqTech>
-			<AdvancedStartCost>10</AdvancedStartCost>
-			<WorkRate>100</WorkRate>
-			<UnitArtInfo>ART_DEF_UNIT_WORKBOAT</UnitArtInfo>
-			<UnitArtInfoEraVariation>1</UnitArtInfoEraVariation>
-			<MoveRate>WOODEN_BOAT</MoveRate>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_MILITARY_SCIENCE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_CAVALRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>25</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_SAND_STEED</UnitArtInfo>
+			<IconAtlas>DORNE_ATLAS</IconAtlas>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
 			<PortraitIndex>2</PortraitIndex>
-			<IconAtlas>DORNE_ATLAS</IconAtlas>
+			<MoveRate>QUADRUPED</MoveRate>
 			<UnitFlagAtlas>DORNE_SAND_STEED_FLAG</UnitFlagAtlas>
 		</Row>
 	</Units>
-	<!-- Unit_AITypes -->
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_SAND_STEED</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAND_STEED</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+	</Unit_AITypes>
 	<!-- Unit_Buildings -->
 	<!-- Unit_BuildingClassRequireds -->
 	<!-- Unit_ProductionModifierBuildings -->
-	<Unit_Builds>
+	<!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
 		<Row>
 			<UnitType>UNIT_SAND_STEED</UnitType>
-			<BuildType>BUILD_FISHING_BOATS</BuildType>
+			<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
 		</Row>
-		<Row>
-			<UnitType>UNIT_SAND_STEED</UnitType>
-			<BuildType>BUILD_OFFSHORE_PLATFORM</BuildType>
-		</Row>
-	</Unit_Builds>
-	<!-- Unit_ClassUpgrades -->
+	</Unit_ClassUpgrades>
 	<!-- Unit_FreePromotions -->
 	<Unit_Flavors>
 		<Row>
 			<UnitType>UNIT_SAND_STEED</UnitType>
-			<FlavorType>FLAVOR_FOOD</FlavorType>
-			<Flavor>40</Flavor>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>12</Flavor>
 		</Row>
 		<Row>
 			<UnitType>UNIT_SAND_STEED</UnitType>
-			<FlavorType>FLAVOR_CULTURE</FlavorType>
-			<Flavor>20</Flavor>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>4</Flavor>
 		</Row>
 		<Row>
 			<UnitType>UNIT_SAND_STEED</UnitType>
-			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
-			<Flavor>30</Flavor>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>8</Flavor>
 		</Row>
 	</Unit_Flavors>
 	<!-- Unit_GreatPersons -->
-	<!-- Unit_ResourceQuantityRequirements -->
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_SAND_STEED</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
 	<!-- Unit_UniqueNames -->
 	<!-- Unit_YieldFromKills -->
 	<!-- Unit_NotAITypes -->
 	<!-- Unit_ProductionTraits -->
 	<!-- Unit_TechTypes -->
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_SAND_STEED</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAND_STEED</UnitType>
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAND_STEED</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SAND_STEED</UnitType>
+			<PromotionType>PROMOTION_DEFENSIVE_EMBARKATION</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
 	<!-- UnitPromotions_CivilianUnitType -->
 	<UnitGameplay2DScripts>
 		<Row>
 			<UnitType>UNIT_SAND_STEED</UnitType>
-			<SelectionSound>AS2D_SELECT_TRIREME</SelectionSound>
-			<FirstSelectionSound>AS2D_BIRTH_TRIREME</FirstSelectionSound>
+			<SelectionSound>AS2D_SELECT_KNIGHT</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_KNIGHT</FirstSelectionSound>
 		</Row>
 	</UnitGameplay2DScripts>
+	<!-- Sand Steed art_def_member EN NIET MEMBER ****************************************************** -->
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_SAND_STEED</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>DefaultCavalry</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_SAND_STEED</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_U_SAND_STEED</UnitMemberInfoType>
+			<NumMembers>8</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_U_SAND_STEED</Type>
+			<Scale>0.119999997317791</Scale>
+			<Model>Factions/Dorne/Art/SandSteed_Dorne.fxsxml</Model>
+			<MaterialTypeTag>ARMOR</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>ARMOR</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_SAND_STEED</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk</EnableActions>
+			<ShortMoveRadius>24.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TurnRateMin>0.5</TurnRateMin>
+			<TurnRateMax>0.75</TurnRateMax>
+			<TurnFacingRateMin>15.0</TurnFacingRateMin>
+			<TurnFacingRateMax>20.0</TurnFacingRateMax>
+			<TargetHeight>12.0</TargetHeight>
+			<HasStationaryMelee>1</HasStationaryMelee>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>2</ReformBeforeCombat>
+			<OnlyTurnInMovementActions>1</OnlyTurnInMovementActions>
+			<RushAttackFormation>DefaultCavalry</RushAttackFormation>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_SAND_STEED</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>METAL</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SWORD</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_SAND_STEED</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_SAND_STEED</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Knight.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_UNIT_SAND_STEED">
@@ -85,14 +182,14 @@
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_SAND_STEED_TEXT">
 			<Text>
-				The botter is an old Dornish type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]Sand Steeds mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the DornePlaceholder2 was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Dornish fish is the country of Italy
+				The Sand Steed is an old Dorneern type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]Sand Steeds mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the Dorne Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the Bolton Infantry was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Dorneer fish is the country of Italy
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_SAND_STEED_STRATEGY">
-			<Text>The Sand Steed is the Dornish unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game DornePlaceholder2, providing additional [ICON_GOLD] Gold.</Text>
+			<Text>The Sand Steed is a Dorneern unique unit, replacing the Knight. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game Bolton Infantry, providing additional [ICON_GOLD] Gold.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_SAND_STEED">
-			<Text>Replaces the Work Boat. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the Dornishs may build this unit.</Text>
+			<Text>Replaces the Knight. Excellent scout unit. The Sand Steed is also more resistant on water. Only the Dornishmen may build this unit.</Text>
 		</Row>
 	</Language_en_US>
 </GameData>

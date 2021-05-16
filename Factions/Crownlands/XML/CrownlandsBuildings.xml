@@ -3,11 +3,11 @@
 <GameData>
 	<Buildings>
 		<Row>
-			<Type>BUILDING_CROWNLANDSPLACEHOLDER2</Type>
-			<Description>TXT_KEY_BUILDING_CROWNLANDSPLACEHOLDER2_DESC</Description>
-			<Civilopedia>TXT_KEY_BUILDING_CROWNLANDSPLACEHOLDER2_PEDIA</Civilopedia>
-			<Strategy>TXT_KEY_BUILDING_CROWNLANDSPLACEHOLDER2_STRATEGY</Strategy>
-			<Help>TXT_KEY_BUILDING_CROWNLANDSPLACEHOLDER2_HELP</Help>
+			<Type>BUILDING_WILDFIRE_DEPOSIT</Type>
+			<Description>TXT_KEY_BUILDING_WILDFIRE_DEPOSIT_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDING_WILDFIRE_DEPOSIT_PEDIA</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_WILDFIRE_DEPOSIT_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_WILDFIRE_DEPOSIT_HELP</Help>
 			<ThemingBonusHelp></ThemingBonusHelp>
 			<Quote></Quote>
 			<GoldMaintenance>3</GoldMaintenance>
@@ -161,7 +161,7 @@
 	<!-- Building_YieldChanges -->
 	<Building_ClassesNeededInCity>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<BuildingClassType>BUILDINGCLASS_WORKSHOP</BuildingClassType>
 		</Row>
 	</Building_ClassesNeededInCity>
@@ -172,17 +172,17 @@
 	<!-- Building_FreeSpecialistCounts -->
 	<Building_Flavors>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<FlavorType>FLAVOR_FOOD</FlavorType>
 			<Flavor>10</Flavor>
 		</Row>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
 			<Flavor>50</Flavor>
 		</Row>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<FlavorType>FLAVOR_GOLD</FlavorType>
 			<Flavor>10</Flavor>
 		</Row>
@@ -196,7 +196,7 @@
 	<!-- Building_ResourceQuantity -->
 	<Building_ResourceQuantityRequirements>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<ResourceType>RESOURCE_IRON</ResourceType>
 			<Cost>1</Cost>
 		</Row>
@@ -210,25 +210,25 @@
 	<!-- Building_SeaResourceYieldChanges -->
 	<Building_ResourceYieldChanges>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<ResourceType>RESOURCE_CRAB</ResourceType>
 			<YieldType>YIELD_GOLD</YieldType>
 			<Yield>3</Yield>
 		</Row>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<ResourceType>RESOURCE_FISH</ResourceType>
 			<YieldType>YIELD_GOLD</YieldType>
 			<Yield>3</Yield>
 		</Row>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<ResourceType>RESOURCE_CRAB</ResourceType>
 			<YieldType>YIELD_CULTURE</YieldType>
 			<Yield>1</Yield>
 		</Row>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<ResourceType>RESOURCE_FISH</ResourceType>
 			<YieldType>YIELD_CULTURE</YieldType>
 			<Yield>1</Yield>
@@ -242,12 +242,12 @@
 	<!-- Building_TechAndPrereqs -->
 	<Building_YieldChanges>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
 			<Yield>3</Yield>
 		</Row>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<YieldType>YIELD_FOOD</YieldType>
 			<Yield>1</Yield>
 		</Row>
@@ -257,7 +257,7 @@
 	<!-- Building_TechEnhancedYieldChanges -->
 	<Building_YieldModifiers>
 		<Row>
-			<BuildingType>BUILDING_CROWNLANDSPLACEHOLDER2</BuildingType>
+			<BuildingType>BUILDING_WILDFIRE_DEPOSIT</BuildingType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
 			<Yield>20</Yield>
 		</Row>
@@ -265,18 +265,18 @@
 	<!-- Building_ThemingBonuses -->
 
 	<Language_en_US>
-		<Row Tag="TXT_KEY_BUILDING_CROWNLANDSPLACEHOLDER2_DESC">
-			<Text>CrownlandsPlaceholder2</Text>
+		<Row Tag="TXT_KEY_BUILDING_WILDFIRE_DEPOSIT_DESC">
+			<Text>Wildfire Deposit</Text>
 		</Row>
-		<Row Tag="TXT_KEY_BUILDING_CROWNLANDSPLACEHOLDER2_PEDIA">
+		<Row Tag="TXT_KEY_BUILDING_WILDFIRE_DEPOSIT_PEDIA">
 			<Text>
-				The CrownlandsPlaceholder2 (fish auction) is one of the most important buildings that can be found on the former isle. Founded in the 60s, it preluded a prosperous era for the fishing industry. Because of the location, other companies related to fish started to settle around the building. This boosted the local economy greatly. Factoid: the CrownlandsPlaceholder2 of Crownlands is the largest to be found in Western-Europe.
+				The Wildfire Deposit (fish auction) is one of the most important buildings that can be found on the former isle. Founded in the 60s, it preluded a prosperous era for the fishing industry. Because of the location, other companies related to fish started to settle around the building. This boosted the local economy greatly. Factoid: the Wildfire Deposit of Crownlands is the largest to be found in Western-Europe.
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_BUILDING_CROWNLANDSPLACEHOLDER2_STRATEGY">
-			<Text>The CrownlandsPlaceholder2 is the Royal unique building, replacing the Factory. Great for increasing the City's [ICON_PRODUCTION] Production and [ICON_FOOD] Food. Provides an additional +3 [ICON_GOLD] Gold with a worked [ICON_RES_FISH] Fish or [ICON_RES_CRAB] Crab resource nearby, practically eliminating the buildings' [ICON_GOLD] Maintenance costs. On top of that, the CrownlandsPlaceholder2 requires [ICON_RES_IRON] Iron instead of [ICON_RES_COAL] Coal, which is easier to acquire.</Text>
+		<Row Tag="TXT_KEY_BUILDING_WILDFIRE_DEPOSIT_STRATEGY">
+			<Text>The Wildfire Deposit is the Crownlands unique building, replacing the Factory. Great for increasing the City's [ICON_PRODUCTION] Production and [ICON_FOOD] Food. Provides an additional +3 [ICON_GOLD] Gold with a worked [ICON_RES_FISH] Fish or [ICON_RES_CRAB] Crab resource nearby, practically eliminating the buildings' [ICON_GOLD] Maintenance costs. On top of that, the Wildfire Deposit requires [ICON_RES_IRON] Iron instead of [ICON_RES_COAL] Coal, which is easier to acquire.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_BUILDING_CROWNLANDSPLACEHOLDER2_HELP">
+		<Row Tag="TXT_KEY_BUILDING_WILDFIRE_DEPOSIT_HELP">
 			<Text>Provides +3 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture from each worked source of [ICON_RES_FISH] Fish and [ICON_RES_CRAB] Crab near this City. Requires 1 [ICON_RES_IRON] Iron. Only the Royals may build it.</Text>
 		</Row>
 	</Language_en_US>
