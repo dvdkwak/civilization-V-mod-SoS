@@ -64,6 +64,189 @@
 			<Flavor>7</Flavor>
 		</Row>
 	</Unit_Flavors>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_I</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_II</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_FURY_I</Type>
+			<Description>Promotion of the Fury I</Description>
+			<Help>Unit gains +10% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>\
+			<CombatPercent>10</CombatPercent>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FURY_II</Type>
+			<Description>Promotion of the Fury II</Description>
+			<Help>Unit gains +20% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +20% [ICON_STRENGTH] Combat Strength.</PediaEntry>
+			<CombatPercent>20</CombatPercent>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FURY_III</Type>
+			<Description>Promotion of the Fury III</Description>
+			<Help>Unit gains +30% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +30% [ICON_STRENGTH] Combat Strength.</PediaEntry>
+			<CombatPercent>30</CombatPercent>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FURY_IV</Type>
+			<Description>Promotion of the Fury IV</Description>
+			<Help>Unit gains +40% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +40% [ICON_STRENGTH] Combat Strength.</PediaEntry>
+			<CombatPercent>40</CombatPercent>
+		</Row>
+		<Row>
+			<Type>PROMOTION_FURY_V</Type>
+			<Description>Promotion of the Fury V</Description>
+			<Help>Unit gains +50% [ICON_STRENGTH] Combat Strength.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Unit gains +50% [ICON_STRENGTH] Combat Strength.</PediaEntry>
+			<CombatPercent>50</CombatPercent>
+		</Row>
+	</UnitPromotions>
 	<!--Unit_FreePromotions-->
 	<!-- Unit_GreatPersons -->
 	<Unit_ResourceQuantityRequirements>
@@ -86,7 +269,7 @@
 		</Row>
 	</UnitGameplay2DScripts>
 
-	<!-- Storm Sword art_def_member -->
+	<!-- Storm Sword art_def_member AND NOT MEMBER ****************************************************** -->
 
 	<ArtDefine_UnitInfos>
 		<Row>
@@ -142,65 +325,6 @@
 	</ArtDefine_UnitMemberCombatWeapons>
 	<ArtDefine_StrategicView>
 		<Row>
-			<Type>PROMOTION_FURY_I</Type>
-			<Description>Promotion of the Fury I</Description>
-			<Help>Unit gains +10% [ICON_STRENGTH] Combat Strength.</Help>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<CannotBeChosen>true</CannotBeChosen>
-			<PortraitIndex>59</PortraitIndex>
-			<IconAtlas>ABILITY_ATLAS</IconAtlas>
-			<PediaType>PEDIA_ATTRIBUTES</PediaType>
-			<CombatPercent>10</CombatPercent>
-		</Row>
-		<Row>
-			<Type>PROMOTION_FURY_II</Type>
-			<Description>Promotion of the Fury II</Description>
-			<Help>Unit gains +20% [ICON_STRENGTH] Combat Strength.</Help>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<CannotBeChosen>true</CannotBeChosen>
-			<PortraitIndex>59</PortraitIndex>
-			<IconAtlas>ABILITY_ATLAS</IconAtlas>
-			<PediaType>PEDIA_ATTRIBUTES</PediaType>
-			<PediaEntry>Unit gains +20% [ICON_STRENGTH] Combat Strength.</PediaEntry>
-			<CombatPercent>20</CombatPercent>
-		</Row>
-		<Row>
-			<Type>PROMOTION_FURY_III</Type>
-			<Description>Promotion of the Fury II</Description>
-			<Help>Unit gains +30% [ICON_STRENGTH] Combat Strength.</Help>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<CannotBeChosen>true</CannotBeChosen>
-			<PortraitIndex>59</PortraitIndex>
-			<IconAtlas>ABILITY_ATLAS</IconAtlas>
-			<PediaType>PEDIA_ATTRIBUTES</PediaType>
-			<PediaEntry>Unit gains +30% [ICON_STRENGTH] Combat Strength.</PediaEntry>
-			<CombatPercent>30</CombatPercent>
-		</Row>
-		<Row>
-			<Type>PROMOTION_FURY_IV</Type>
-			<Description>Promotion of the Fury II</Description>
-			<Help>Unit gains +40% [ICON_STRENGTH] Combat Strength.</Help>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<CannotBeChosen>true</CannotBeChosen>
-			<PortraitIndex>59</PortraitIndex>
-			<IconAtlas>ABILITY_ATLAS</IconAtlas>
-			<PediaType>PEDIA_ATTRIBUTES</PediaType>
-			<PediaEntry>Unit gains +40% [ICON_STRENGTH] Combat Strength.</PediaEntry>
-			<CombatPercent>40</CombatPercent>
-		</Row>
-		<Row>
-			<Type>PROMOTION_FURY_V</Type>
-			<Description>Promotion of the Fury II</Description>
-			<Help>Unit gains +50% [ICON_STRENGTH] Combat Strength.</Help>
-			<Sound>AS2D_IF_LEVELUP</Sound>
-			<CannotBeChosen>true</CannotBeChosen>
-			<PortraitIndex>59</PortraitIndex>
-			<IconAtlas>ABILITY_ATLAS</IconAtlas>
-			<PediaType>PEDIA_ATTRIBUTES</PediaType>
-			<PediaEntry>Unit gains +50% [ICON_STRENGTH] Combat Strength.</PediaEntry>
-			<CombatPercent>50</CombatPercent>
-		</Row>
-	</UnitPromotions>
 			<StrategicViewType>ART_DEF_UNIT_STORM_SWORD</StrategicViewType>
 			<TileType>Unit</TileType>
 			<Asset>SV_Legion.dds</Asset>

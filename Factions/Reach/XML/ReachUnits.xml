@@ -27,7 +27,7 @@
 			<UnitArtInfo>ART_DEF_UNIT_HIGHGUARD</UnitArtInfo>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
 			<IconAtlas>REACH_ATLAS</IconAtlas>
-			<PortraitIndex>3</PortraitIndex>
+			<PortraitIndex>2</PortraitIndex>
 			<UnitFlagAtlas>REACH_HIGHGUARD_FLAG</UnitFlagAtlas>
 		</Row>
 	</Units>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mod id="9344c316-5997-4a9c-a24c-5314cfe1fa08" version="1">
   <Properties>
-    <Name>(BNW) CrispyJuice's Storm Of Swords (Versie David)</Name>
+    <Name>(BNW) CrispyJuice's Storm Of Swords</Name>
     <Stability>Alpha</Stability>
     <Teaser>A fresh new mod that takes place in the fantastical world of Game Of Thrones!</Teaser>
     <Description>A fresh new mod that takes place in the fantastical world of Game Of Thrones!
@@ -272,15 +272,15 @@
     <File md5="B795C11504E38130CFFD90F531D3E500" import="1">Factions/Reach/Art/Highguard_Reach_gloss.dds</File>
     <File md5="DB2F95B88029AF814546B35B4DF96484" import="1">Factions/Reach/Art/ReachMap.dds</File>
     <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Reach/Art/ReachHighguardFlag.dds</File>
-    <File md5="BE4FE702068592487C6A3A72ED3B3AAC" import="1">Factions/Reach/Art/ReachAtlas128.dds</File>
+    <File md5="C99DC17185F99A387A276D483716D969" import="1">Factions/Reach/Art/ReachAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Reach/Art/ReachAtlas16.dds</File>
     <File md5="D51F5B3C6A1426C041C54FFC41DA50C8" import="1">Factions/Reach/Art/ReachAtlas24.dds</File>
-    <File md5="344C73E2D5A2D3184A7664120F04D336" import="1">Factions/Reach/Art/ReachAtlas256.dds</File>
-    <File md5="F54735F35B730E32CDDE0349E200B813" import="1">Factions/Reach/Art/ReachAtlas32.dds</File>
-    <File md5="96E06178365510B5594A774953D6016C" import="1">Factions/Reach/Art/ReachAtlas45.dds</File>
+    <File md5="FC0847755CEFC1512A995E35B27E1023" import="1">Factions/Reach/Art/ReachAtlas256.dds</File>
+    <File md5="B0A9DE4502EDD897B5E608B7677F0BBB" import="1">Factions/Reach/Art/ReachAtlas32.dds</File>
+    <File md5="D17DE7CD85FD16A08DDD8822E4DFBD4B" import="1">Factions/Reach/Art/ReachAtlas45.dds</File>
     <File md5="383558AFFBE5DA82D1EF1477C469E479" import="1">Factions/Reach/Art/ReachAtlas48.dds</File>
-    <File md5="CD3B1CFE241392ED0D660DC70D620BDF" import="1">Factions/Reach/Art/ReachAtlas64.dds</File>
-    <File md5="D553E42C7A9BFBABC8AB4700B1B0F041" import="1">Factions/Reach/Art/ReachAtlas80.dds</File>
+    <File md5="3554FE6EF615D79E4D962881D1FC3E5E" import="1">Factions/Reach/Art/ReachAtlas64.dds</File>
+    <File md5="13AEB2A0561CF4F58C6FD5F50076C704" import="1">Factions/Reach/Art/ReachAtlas80.dds</File>
     <File md5="11F1B6F0C4684CB3B1AD6E99C268B9C1" import="0">Factions/Reach/Art/ReachAtlases.xml</File>
     <File md5="371F239E993C757575A5FE6818048F4D" import="1">Factions/Reach/Art/ReachDom.dds</File>
     <File md5="9F8FA1489B0B2F3EB74EB589AA035115" import="1">Factions/Reach/Art/ReachIconAlpha128.dds</File>
@@ -298,7 +298,7 @@
     <File md5="D256CAFBC5A0902DC18050F5B1BDAD80" import="0">Factions/Reach/XML/ReachLeader.xml</File>
     <File md5="E7803D28BCF8F89379F015AE4E7B7863" import="1">Factions/Reach/XML/ReachOlennaTyrell_Scene.xml</File>
     <File md5="F9CE3A667BA910F959C511F7FCBE80FF" import="0">Factions/Reach/XML/ReachTrait.xml</File>
-    <File md5="C86B73BF7FEE05ECD31A5FF1B2C8A20C" import="0">Factions/Reach/XML/ReachUnits.xml</File>
+    <File md5="24F1006E77C99D215AE7C27C641384F5" import="0">Factions/Reach/XML/ReachUnits.xml</File>
     <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Riverlands/Art/RiverlandsPlaceholder1Flag.dds</File>
     <File md5="7C36E40FFFF15D7EC3719EFCB178F7DF" import="1">Factions/Riverlands/Art/RiverlandsAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Riverlands/Art/RiverlandsAtlas16.dds</File>
@@ -352,27 +352,7 @@
     <File md5="32600A526E9ACD6FCF42BA8662AF6068" import="1">Factions/Stormlands/Art/StormSword_Stormlands.dds</File>
     <File md5="A4FAC979DEAE8557A32B888E83A96FC6" import="1">Factions/Stormlands/Art/StormSword_Stormlands.gr2</File>
     <File md5="DE351C35B75860890E1F5A8311084FCA" import="1">Factions/Stormlands/Art/StormSword_Stormlands_gloss.dds</File>
-    <File md5="CED94F881308E34231AD2C78BF12B3C1" import="0">Factions/Stormlands/Lua/StormlandsTrait.lua</File>
-    <File md5="7C36E40FFFF15D7EC3719EFCB178F7DF" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlas128.dds</File>
-    <File md5="2896E19C9C4B7E070CCB017DB954D706" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlas16.dds</File>
-    <File md5="D51F5B3C6A1426C041C54FFC41DA50C8" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlas24.dds</File>
-    <File md5="6359C4CDB836C4344844371CEADD4EB4" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlas256.dds</File>
-    <File md5="51CC0F6CBE9107B86C9EEB010F631B54" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlas32.dds</File>
-    <File md5="09C11810DFC236D042B47160D569118F" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlas45.dds</File>
-    <File md5="383558AFFBE5DA82D1EF1477C469E479" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlas48.dds</File>
-    <File md5="A99FA2D3C90220C373A30F3DDAEDC429" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlas64.dds</File>
-    <File md5="3982513D96F97BF4EC63460C3B207449" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlas80.dds</File>
-    <File md5="FAE04047771B63A5049946ED8ED1132F" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsAtlases.xml</File>
-    <File md5="B50A749C6DBD95FC141F1C16606BAE95" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsDom.dds</File>
-    <File md5="0F97A9F0B68DC4C97F24E6DC3D80CAB5" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsIconAlpha128.dds</File>
-    <File md5="A2029B9C075981D07D2BE4B0FC0387A7" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsIconAlpha16.dds</File>
-    <File md5="CB6D468D136E50D6E050D145B7B73C9E" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsIconAlpha24.dds</File>
-    <File md5="A3B6B28B6AECFFCFAE6C525DFBD9506F" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsIconAlpha32.dds</File>
-    <File md5="CB1784A2010E28EB730846203BD0E3BD" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsIconAlpha48.dds</File>
-    <File md5="3C37216379B8B68F332FDC50C4205D25" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsIconAlpha64.dds</File>
-    <File md5="F7EECB2F0B5BAFF4F85227E5E0D5199B" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsIconAlpha80.dds</File>
-    <File md5="14794BE57B4D2983F5112D8A87CDD50B" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsMap.dds</File>
-    <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="0">Factions/Stormlands/Riverlands/Art/RiverlandsPlaceholder1Flag.dds</File>
+    <File md5="782F85A6C5A1E02256C34855F3129D49" import="0">Factions/Stormlands/Lua/StormlandsTrait.lua</File>
     <File md5="47321CFDD22FB727EF3D6CE6C12FD418" import="0">Factions/Stormlands/Sounds/StormlandsSounds.xml</File>
     <File md5="9A88F9B44D495552144FD74CD2D2B231" import="0">Factions/Stormlands/XML/StormlandsImprovement.xml</File>
     <File md5="8E1C56ECF55BBF8529CA6A31DA0CAFB9" import="1">Factions/Stormlands/XML/RenlyBaratheon_Scene.dds</File>
@@ -381,7 +361,7 @@
     <File md5="9303B576C31A2903439B6FFAD9C2B7FE" import="0">Factions/Stormlands/XML/StormlandsLeader.xml</File>
     <File md5="15B024B2F55D5D71D8C4A856D80B94EE" import="1">Factions/Stormlands/XML/StormlandsRenlyBaratheon_Scene.xml</File>
     <File md5="5B7472F0C5C706968BBA0D78A80A2A51" import="0">Factions/Stormlands/XML/StormlandsTrait.xml</File>
-    <File md5="1C8741E504AFD4D21B99D472E33909C4" import="0">Factions/Stormlands/XML/StormlandsUnits.xml</File>
+    <File md5="CDF262264D840BFF57ED7C2AC0AB001B" import="0">Factions/Stormlands/XML/StormlandsUnits.xml</File>
     <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Vale/Art/ValePlaceholder1Flag.dds</File>
     <File md5="ACCF9137C926DAE932E7D84A878ADF71" import="1">Factions/Vale/Art/ValeAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Vale/Art/ValeAtlas16.dds</File>

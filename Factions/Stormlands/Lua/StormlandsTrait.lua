@@ -1,4 +1,4 @@
--- Lua Script1
+-- StormlandsTrait
 -- Author: dvdkwak
 -- DateCreated: 5/7/2021 11:06:36 PM
 --------------------------------------------------------------
