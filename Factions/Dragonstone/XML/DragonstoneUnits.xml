@@ -24,7 +24,7 @@
 			<AdvancedStartCost>25</AdvancedStartCost>
 			<XPValueAttack>3</XPValueAttack>
 			<XPValueDefense>3</XPValueDefense>
-			<UnitArtInfo>ART_DEF_UNIT_ONION_KNIGHt</UnitArtInfo>
+			<UnitArtInfo>ART_DEF_UNIT_ONION_KNIGHT</UnitArtInfo>
 			<IconAtlas>DRAGONSTONE_ATLAS</IconAtlas>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
 			<PortraitIndex>2</PortraitIndex>

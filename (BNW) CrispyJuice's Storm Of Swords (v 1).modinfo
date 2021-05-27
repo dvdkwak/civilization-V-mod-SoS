@@ -80,6 +80,7 @@
     <File md5="00D81AE23C3ECA9936FBD86F163A0098" import="1">Factions/Crownlands/Art/GoldCloak_Crownlands.fxsxml</File>
     <File md5="A6E1EE6BB2677593B14F1FDAE074F953" import="1">Factions/Crownlands/Art/GoldCloak_Crownlands.gr2</File>
     <File md5="901DD4E7020580E2C53916A5860925ED" import="1">Factions/Crownlands/Art/GoldCloak_Crownlands_gloss.dds</File>
+    <File md5="1C26F2D0B173E7A6E2119B64954C94E0" import="0">Factions/Crownlands/Lua/CrownlandsTrait.lua</File>
     <File md5="B4373D25BE2C5E052ADFA719B4771B39" import="0">Factions/Crownlands/Sounds/CrownlandsSounds.xml</File>
     <File md5="FEF6AEE1ACD03220B4FF0E891991DEBF" import="0">Factions/Crownlands/XML/CrownlandsBuildings.xml</File>
     <File md5="112EF2BEAA28943F1F9E14CAFB3E3BD2" import="0">Factions/Crownlands/XML/CrownlandsCivilization.xml</File>
@@ -161,7 +162,7 @@
     <File md5="FC5ABA9A834AD4E67262D77B7DDE6E01" import="0">Factions/Dragonstone/XML/DragonstoneLeader.xml</File>
     <File md5="4F205F9E9AA31AD24596FCF639DA8B78" import="1">Factions/Dragonstone/XML/DragonstoneStannisBaratheon_Scene.xml</File>
     <File md5="A658B7FD889017615436F6571A65FD8C" import="0">Factions/Dragonstone/XML/DragonstoneTrait.xml</File>
-    <File md5="1FA65B7C6EBCC5115C9B9C73CCF02B8E" import="0">Factions/Dragonstone/XML/DragonstoneUnits.xml</File>
+    <File md5="8215E2E9508D9479A6E6A2FF96B6909A" import="0">Factions/Dragonstone/XML/DragonstoneUnits.xml</File>
     <File md5="74FA4699A67D86D361D8BAF95B998876" import="1">Factions/Dragonstone/XML/StannisBaratheon_Scene.dds</File>
     <File md5="4DFB3C6F3C81200A48D365A77DE67FCB" import="1">Factions/Iron Islands/Art/IronIslandsAtlas256.dds</File>
     <File md5="20CF1642A8BE9558B6A97D4A147EA6C7" import="1">Factions/Iron Islands/Art/IronIslandsIconAlpha128.dds</File>
@@ -574,6 +575,11 @@
     </EntryPoint>
     <EntryPoint type="InGameUIAddin" file="Factions/Dragonstone/Lua/RedPriestPopUp.lua">
       <Name>RedPriestPopUp</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Factions/Crownlands/Lua/CrownlandsTrait.lua">
+      <Name>CrownlandsTrait</Name>
       <Description>
       </Description>
     </EntryPoint>
