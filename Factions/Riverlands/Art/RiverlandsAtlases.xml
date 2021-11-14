@@ -110,7 +110,7 @@
 		<Row>
 			<Atlas>RIVERLANDS_RIVERLANDSPLACEHOLDER1_FLAG</Atlas>
 			<IconSize>32</IconSize>
-			<Filename>RiverlandsPlaceholder1.dds</Filename>
+			<Filename>RiverlandsPlaceholder1Flag.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>

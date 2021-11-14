@@ -27,6 +27,7 @@
     <File md5="C8C6188A1E148BB2152EB22167A7973E" import="0">Barbarians/BarbariansToWildlings.xml</File>
     <File md5="9D6D0320C13AD555BC524C78A8F56D65" import="0">City States/CityStates.xml</File>
     <File md5="C2BF840BEFC1E1A79AEC9C0761E9F772" import="0">City States/DeleteCivs.xml</File>
+    <File md5="CE2155656FAC6257FAA984F822044EA4" import="0">Factions/Braavos/Art/BraavosAtlases.xml</File>
     <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Braavos/Art/BraavosPlaceholder1Flag.dds</File>
     <File md5="DB258CC21F66C775B56ADC231C870260" import="1">Factions/Braavos/Art/BraavosAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Braavos/Art/BraavosAtlas16.dds</File>
@@ -37,7 +38,6 @@
     <File md5="383558AFFBE5DA82D1EF1477C469E479" import="1">Factions/Braavos/Art/BraavosAtlas48.dds</File>
     <File md5="101B7384FA82DD6FA1622C754E7A3F7C" import="1">Factions/Braavos/Art/BraavosAtlas64.dds</File>
     <File md5="93703ADDF21793C0A11985DEE2DC4041" import="1">Factions/Braavos/Art/BraavosAtlas80.dds</File>
-    <File md5="CE2155656FAC6257FAA984F822044EA4" import="0">Factions/Braavos/Art/BraavosAtlases.xml</File>
     <File md5="C0B4A2B744AE54AEB21A3BE5305B4FC4" import="1">Factions/Braavos/Art/BraavosDom.dds</File>
     <File md5="0BFEEB07B81A82F6A80EEF10D1C16CA5" import="1">Factions/Braavos/Art/BraavosIconAlpha128.dds</File>
     <File md5="D97FC333E374503A84FD34C0D2A746F5" import="1">Factions/Braavos/Art/BraavosIconAlpha16.dds</File>
@@ -82,6 +82,7 @@
     <File md5="901DD4E7020580E2C53916A5860925ED" import="1">Factions/Crownlands/Art/GoldCloak_Crownlands_gloss.dds</File>
     <File md5="1C26F2D0B173E7A6E2119B64954C94E0" import="0">Factions/Crownlands/Lua/CrownlandsTrait.lua</File>
     <File md5="B4373D25BE2C5E052ADFA719B4771B39" import="0">Factions/Crownlands/Sounds/CrownlandsSounds.xml</File>
+    <File md5="D0021CA3A843B6918F868F9A626DE83E" import="0">Factions/Crownlands/SQL/CrownlandsTrait.sql</File>
     <File md5="FEF6AEE1ACD03220B4FF0E891991DEBF" import="0">Factions/Crownlands/XML/CrownlandsBuildings.xml</File>
     <File md5="112EF2BEAA28943F1F9E14CAFB3E3BD2" import="0">Factions/Crownlands/XML/CrownlandsCivilization.xml</File>
     <File md5="700FC8BBCE0E0D1D75DDA3C0AE6ADDF7" import="0">Factions/Crownlands/XML/CrownlandsDiplomacyResponses.xml</File>
@@ -300,6 +301,8 @@
     <File md5="E7803D28BCF8F89379F015AE4E7B7863" import="1">Factions/Reach/XML/ReachOlennaTyrell_Scene.xml</File>
     <File md5="F9CE3A667BA910F959C511F7FCBE80FF" import="0">Factions/Reach/XML/ReachTrait.xml</File>
     <File md5="24F1006E77C99D215AE7C27C641384F5" import="0">Factions/Reach/XML/ReachUnits.xml</File>
+    <File md5="90F17D6DC2C1BE03F02EDB73E081F9EA" import="0">Factions/Riverlands/Art/RiverlandsAtlases.xml</File>
+    <File md5="B50A749C6DBD95FC141F1C16606BAE95" import="0">Factions/Riverlands/Art/RiverlandsDom.dds</File>
     <File md5="6A8F63456A427A6A5B0D55E05C0C2DA0" import="1">Factions/Riverlands/Art/RiverlandsPlaceholder1Flag.dds</File>
     <File md5="7C36E40FFFF15D7EC3719EFCB178F7DF" import="1">Factions/Riverlands/Art/RiverlandsAtlas128.dds</File>
     <File md5="2896E19C9C4B7E070CCB017DB954D706" import="1">Factions/Riverlands/Art/RiverlandsAtlas16.dds</File>
@@ -310,8 +313,6 @@
     <File md5="383558AFFBE5DA82D1EF1477C469E479" import="1">Factions/Riverlands/Art/RiverlandsAtlas48.dds</File>
     <File md5="A99FA2D3C90220C373A30F3DDAEDC429" import="1">Factions/Riverlands/Art/RiverlandsAtlas64.dds</File>
     <File md5="3982513D96F97BF4EC63460C3B207449" import="1">Factions/Riverlands/Art/RiverlandsAtlas80.dds</File>
-    <File md5="FAE04047771B63A5049946ED8ED1132F" import="0">Factions/Riverlands/Art/RiverlandsAtlases.xml</File>
-    <File md5="B50A749C6DBD95FC141F1C16606BAE95" import="1">Factions/Riverlands/Art/RiverlandsDom.dds</File>
     <File md5="0F97A9F0B68DC4C97F24E6DC3D80CAB5" import="1">Factions/Riverlands/Art/RiverlandsIconAlpha128.dds</File>
     <File md5="A2029B9C075981D07D2BE4B0FC0387A7" import="1">Factions/Riverlands/Art/RiverlandsIconAlpha16.dds</File>
     <File md5="CB6D468D136E50D6E050D145B7B73C9E" import="1">Factions/Riverlands/Art/RiverlandsIconAlpha24.dds</File>
@@ -323,12 +324,12 @@
     <File md5="81C8A1E6308DA511E8AFB16B84C5514B" import="0">Factions/Riverlands/Sounds/RiverlandsSounds.xml</File>
     <File md5="4416DEBE128F21B59F3DC5BB84B2741A" import="1">Factions/Riverlands/XML/BryndenTully_Scene.dds</File>
     <File md5="516536208F22254163600DA804C1FE8D" import="1">Factions/Riverlands/XML/RiverlandsBryndenTully_Scene.xml</File>
-    <File md5="4A97107747CB146A6C4F2018196BE5E7" import="0">Factions/Riverlands/XML/RiverlandsBuildings.xml</File>
+    <File md5="8DF69D2E34298689ED28C771204FC22D" import="0">Factions/Riverlands/XML/RiverlandsBuildings.xml</File>
     <File md5="B5A961E9FE605D6889477B93AB9E6681" import="0">Factions/Riverlands/XML/RiverlandsCivilization.xml</File>
     <File md5="35585672DDEC5913873F2027054299AC" import="0">Factions/Riverlands/XML/RiverlandsDiplomacyResponses.xml</File>
     <File md5="6D81F2E8CB51AF3D2DD551BD011C05DD" import="0">Factions/Riverlands/XML/RiverlandsLeader.xml</File>
     <File md5="D1BFBEF9E00BBA07C8EEC199FBB6B1A7" import="0">Factions/Riverlands/XML/RiverlandsTrait.xml</File>
-    <File md5="020D2742E04B9B1F510234DB1C4587A9" import="0">Factions/Riverlands/XML/RiverlandsUnits.xml</File>
+    <File md5="45B78A04A00711BEEF6358FD02365AE1" import="0">Factions/Riverlands/XML/RiverlandsUnits.xml</File>
     <File md5="CAAA94835C5C256316E5842455F7D689" import="1">Factions/Stormlands/Art/StormSword_Stormlands.fxsxml</File>
     <File md5="512420787E2E0D410E653F316EE2BF93" import="1">Factions/Stormlands/Art/StormlandsStormSwordFlag.dds</File>
     <File md5="84DCE272F1FCECF49BCBF895BAF7A2DC" import="1">Factions/Stormlands/Art/StormlandsAtlas128.dds</File>
@@ -442,15 +443,12 @@
   </Files>
   <Actions>
     <OnModActivated>
-      <UpdateDatabase>Factions/Braavos/Art/BraavosAtlases.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Braavos/Sounds/BraavosSounds.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Braavos/XML/BraavosBuildings.xml</UpdateDatabase>
-      <UpdateDatabase>Factions/Braavos/XML/BraavosCivilization.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Braavos/XML/BraavosDiplomacyResponses.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Braavos/XML/BraavosLeader.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Braavos/XML/BraavosTrait.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Braavos/XML/BraavosTychoNestoris_Scene.xml</UpdateDatabase>
-      <UpdateDatabase>Factions/Braavos/XML/BraavosUnits.xml</UpdateDatabase>
       <UpdateDatabase>Factions/North/Art/NorthAtlases.xml</UpdateDatabase>
       <UpdateDatabase>Factions/North/Sounds/NorthSounds.xml</UpdateDatabase>
       <UpdateDatabase>Factions/North/XML/NorthBuildings.xml</UpdateDatabase>
@@ -511,7 +509,6 @@
       <UpdateDatabase>Factions/Reach/XML/ReachOlennaTyrell_Scene.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Reach/XML/ReachTrait.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Reach/XML/ReachUnits.xml</UpdateDatabase>
-      <UpdateDatabase>Factions/Riverlands/Art/RiverlandsAtlases.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Riverlands/Sounds/RiverlandsSounds.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Riverlands/XML/RiverlandsBryndenTully_Scene.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Riverlands/XML/RiverlandsBuildings.xml</UpdateDatabase>
@@ -519,7 +516,6 @@
       <UpdateDatabase>Factions/Riverlands/XML/RiverlandsDiplomacyResponses.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Riverlands/XML/RiverlandsLeader.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Riverlands/XML/RiverlandsTrait.xml</UpdateDatabase>
-      <UpdateDatabase>Factions/Riverlands/XML/RiverlandsUnits.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Stormlands/Art/StormlandsAtlases.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Stormlands/Sounds/StormlandsSounds.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Stormlands/XML/StormlandsCivilization.xml</UpdateDatabase>
@@ -555,6 +551,12 @@
       <UpdateDatabase>Religion/XML/AddReligions.xml</UpdateDatabase>
       <UpdateDatabase>Religion/XML/DeleteReligions.xml</UpdateDatabase>
       <UpdateDatabase>Factions/Stormlands/XML/StormlandsImprovement.xml</UpdateDatabase>
+      <UpdateDatabase>Factions/Crownlands/SQL/CrownlandsTrait.sql</UpdateDatabase>
+      <UpdateDatabase>Factions/Braavos/Art/BraavosAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Factions/Braavos/XML/BraavosUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Factions/Braavos/XML/BraavosCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>Factions/Riverlands/XML/RiverlandsUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Factions/Riverlands/Art/RiverlandsAtlases.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
   <EntryPoints>

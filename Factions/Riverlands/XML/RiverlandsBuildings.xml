@@ -265,15 +265,15 @@
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_BUILDING_RIVERLANDSPLACEHOLDER2_DESC">
-			<Text>ReachPlaceholder2</Text>
+			<Text>RiverlandsPlaceholder2</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_RIVERLANDSPLACEHOLDER2_PEDIA">
 			<Text>
-				The ReachPlaceholder2 (fish auction) is one of the most important buildings that can be found on the former isle. Founded in the 60s, it preluded a prosperous era for the fishing industry. Because of the location, other companies related to fish started to settle around the building. This boosted the local economy greatly. Factoid: the ReachPlaceholder2 of Riverlands is the largest to be found in Western-Europe.
+				The RiverlandsPlaceholder2 (fish auction) is one of the most important buildings that can be found on the former isle. Founded in the 60s, it preluded a prosperous era for the fishing industry. Because of the location, other companies related to fish started to settle around the building. This boosted the local economy greatly. Factoid: the RiverlandsPlaceholder2 of Riverlands is the largest to be found in Western-Europe.
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_RIVERLANDSPLACEHOLDER2_STRATEGY">
-			<Text>The ReachPlaceholder2 is the Riverlander unique building, replacing the Factory. Great for increasing the City's [ICON_PRODUCTION] Production and [ICON_FOOD] Food. Provides an additional +3 [ICON_GOLD] Gold with a worked [ICON_RES_FISH] Fish or [ICON_RES_CRAB] Crab resource nearby, practically eliminating the buildings' [ICON_GOLD] Maintenance costs. On top of that, the ReachPlaceholder2 requires [ICON_RES_IRON] Iron instead of [ICON_RES_COAL] Coal, which is easier to acquire.</Text>
+			<Text>The RiverlandsPlaceholder2 is the Riverlander unique building, replacing the Factory. Great for increasing the City's [ICON_PRODUCTION] Production and [ICON_FOOD] Food. Provides an additional +3 [ICON_GOLD] Gold with a worked [ICON_RES_FISH] Fish or [ICON_RES_CRAB] Crab resource nearby, practically eliminating the buildings' [ICON_GOLD] Maintenance costs. On top of that, the RiverlandsPlaceholder2 requires [ICON_RES_IRON] Iron instead of [ICON_RES_COAL] Coal, which is easier to acquire.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILDING_RIVERLANDSPLACEHOLDER2_HELP">
 			<Text>Provides +3 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture from each worked source of [ICON_RES_FISH] Fish and [ICON_RES_CRAB] Crab near this City. Requires 1 [ICON_RES_IRON] Iron. Only the Riverlanders may build it.</Text>

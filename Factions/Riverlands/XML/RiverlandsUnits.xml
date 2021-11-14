@@ -80,15 +80,15 @@
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_UNIT_RIVERLANDSPLACEHOLDER1">
-			<Text>ReachPlaceholder1</Text>
+			<Text>RiverlandsPlaceholder1</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_RIVERLANDSPLACEHOLDER1_TEXT">
 			<Text>
-				The botter is an old Riverlander type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]ReachPlaceholder1s mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the ReachPlaceholder2 was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Riverlander fish is the country of Italy
+				The botter is an old Riverlander type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]RiverlandsPlaceholder1s mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the RiverlandsPlaceholder2 was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Riverlander fish is the country of Italy
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_RIVERLANDSPLACEHOLDER1_STRATEGY">
-			<Text>The ReachPlaceholder1 is the Riverlander unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game ReachPlaceholder2, providing additional [ICON_GOLD] Gold.</Text>
+			<Text>The RiverlandsPlaceholder1 is the Riverlander unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Riverlandses its full potential when combined with the late-game RiverlandsPlaceholder2, providing additional [ICON_GOLD] Gold.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_RIVERLANDSPLACEHOLDER1">
 			<Text>Replaces the Work Boat. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the Riverlanders may build this unit.</Text>
