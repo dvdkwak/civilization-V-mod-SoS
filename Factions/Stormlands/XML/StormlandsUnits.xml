@@ -2,82 +2,68 @@
 <GameData>
 	<Units>
 		<Row>
-			<Type>UNIT_STORMLANDSPLACEHOLDER1</Type>
-			<Description>TXT_KEY_UNIT_STORMLANDSPLACEHOLDER1</Description>
-			<Civilopedia>TXT_KEY_CIV5_STORMLANDSPLACEHOLDER1_TEXT</Civilopedia>
-			<Strategy>TXT_KEY_UNIT_STORMLANDSPLACEHOLDER1_STRATEGY</Strategy>
-			<Help>TXT_KEY_UNIT_HELP_STORMLANDSPLACEHOLDER1</Help>
-			<Cost>80</Cost>
-			<Moves>4</Moves>
-			<Class>UNITCLASS_WORKBOAT</Class>
-			<Domain>DOMAIN_SEA</Domain>
-			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
-			<DefaultUnitAI>UNITAI_WORKER_SEA</DefaultUnitAI>
+			<Class>UNITCLASS_LONGSWORDSMAN</Class>
+			<Type>UNIT_STORM_SWORD</Type>
+			<PrereqTech>TECH_STEEL</PrereqTech>
+			<Combat>21</Combat>
+			<Cost>120</Cost>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_STORM_SWORD</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_STORM_SWORD_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_STORM_SWORD_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_STORM_SWORD</Help>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
-			<PrereqResources>true</PrereqResources>
-			<Mechanized>true</Mechanized>
-			<PrereqTech>TECH_SAILING</PrereqTech>
-			<AdvancedStartCost>10</AdvancedStartCost>
-			<WorkRate>100</WorkRate>
-			<UnitArtInfo>ART_DEF_UNIT_WORKBOAT</UnitArtInfo>
-			<UnitArtInfoEraVariation>1</UnitArtInfoEraVariation>
-			<MoveRate>WOODEN_BOAT</MoveRate>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>25</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>3</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_STORM_SWORD</UnitArtInfo>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
-			<PortraitIndex>2</PortraitIndex>
 			<IconAtlas>STORMLANDS_ATLAS</IconAtlas>
-			<UnitFlagAtlas>STORMLANDS_STORMLANDSPLACEHOLDER1_FLAG</UnitFlagAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<UnitFlagAtlas>STORMLANDS_STORM_SWORD_FLAG</UnitFlagAtlas>
 		</Row>
 	</Units>
-	<!-- Unit_AITypes -->
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_STORM_SWORD</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_STORM_SWORD</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
 	<!-- Unit_Buildings -->
 	<!-- Unit_BuildingClassRequireds -->
 	<!-- Unit_ProductionModifierBuildings -->
-	<Unit_Builds>
+	<!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
 		<Row>
-			<UnitType>UNIT_STORMLANDSPLACEHOLDER1</UnitType>
-			<BuildType>BUILD_FISHING_BOATS</BuildType>
+			<UnitType>UNIT_STORM_SWORD</UnitType>
+			<UnitClassType>UNITCLASS_RIFLEMAN</UnitClassType>
 		</Row>
-		<Row>
-			<UnitType>UNIT_STORMLANDSPLACEHOLDER1</UnitType>
-			<BuildType>BUILD_OFFSHORE_PLATFORM</BuildType>
-		</Row>
-	</Unit_Builds>
-	<!-- Unit_ClassUpgrades -->
+	</Unit_ClassUpgrades>
 	<!-- Unit_FreePromotions -->
 	<Unit_Flavors>
 		<Row>
-			<UnitType>UNIT_STORMLANDSPLACEHOLDER1</UnitType>
-			<FlavorType>FLAVOR_FOOD</FlavorType>
-			<Flavor>40</Flavor>
+			<UnitType>UNIT_STORM_SWORD</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>9</Flavor>
 		</Row>
 		<Row>
-			<UnitType>UNIT_STORMLANDSPLACEHOLDER1</UnitType>
-			<FlavorType>FLAVOR_CULTURE</FlavorType>
-			<Flavor>20</Flavor>
-		</Row>
-		<Row>
-			<UnitType>UNIT_STORMLANDSPLACEHOLDER1</UnitType>
-			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
-			<Flavor>30</Flavor>
+			<UnitType>UNIT_STORM_SWORD</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>7</Flavor>
 		</Row>
 	</Unit_Flavors>
-	<!-- Unit_GreatPersons -->
-	<!-- Unit_ResourceQuantityRequirements -->
-	<!-- Unit_UniqueNames -->
-	<!-- Unit_YieldFromKills -->
-	<!-- Unit_NotAITypes -->
-	<!-- Unit_ProductionTraits -->
-	<!-- Unit_TechTypes -->
-	<!-- UnitPromotions_CivilianUnitType -->
-	<UnitGameplay2DScripts>
-		<Row>
-			<UnitType>UNIT_STORMLANDSPLACEHOLDER1</UnitType>
-			<SelectionSound>AS2D_SELECT_TRIREME</SelectionSound>
-			<FirstSelectionSound>AS2D_BIRTH_TRIREME</FirstSelectionSound>
-		</Row>
-	</UnitGameplay2DScripts>
-
 	<UnitPromotions_UnitCombats>
 		<Row>
 			<PromotionType>PROMOTION_FURY_I</PromotionType>
@@ -127,6 +113,78 @@
 			<PromotionType>PROMOTION_FURY_II</PromotionType>
 			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
 		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_III</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_IV</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_FURY_V</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+		</Row>
 	</UnitPromotions_UnitCombats>
 	<UnitPromotions>
 		<Row>
@@ -154,7 +212,7 @@
 		</Row>
 		<Row>
 			<Type>PROMOTION_FURY_III</Type>
-			<Description>Promotion of the Fury II</Description>
+			<Description>Promotion of the Fury III</Description>
 			<Help>Unit gains +30% [ICON_STRENGTH] Combat Strength.</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -166,7 +224,7 @@
 		</Row>
 		<Row>
 			<Type>PROMOTION_FURY_IV</Type>
-			<Description>Promotion of the Fury II</Description>
+			<Description>Promotion of the Fury IV</Description>
 			<Help>Unit gains +40% [ICON_STRENGTH] Combat Strength.</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -178,7 +236,7 @@
 		</Row>
 		<Row>
 			<Type>PROMOTION_FURY_V</Type>
-			<Description>Promotion of the Fury II</Description>
+			<Description>Promotion of the Fury V</Description>
 			<Help>Unit gains +50% [ICON_STRENGTH] Combat Strength.</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -189,21 +247,104 @@
 			<CombatPercent>50</CombatPercent>
 		</Row>
 	</UnitPromotions>
+	<!--Unit_FreePromotions-->
+	<!-- Unit_GreatPersons -->
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_STORM_SWORD</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<!-- Unit_UniqueNames -->
+	<!-- Unit_YieldFromKills -->
+	<!-- Unit_NotAITypes -->
+	<!-- Unit_ProductionTraits -->
+	<!-- Unit_TechTypes -->
+	<!-- UnitPromotions_CivilianUnitType -->
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_STORM_SWORD</UnitType>
+			<SelectionSound>AS2D_SELECT_LONGSWORDSMAN</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_LONGSWORDSMAN</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<!-- Storm Sword art_def_member AND NOT MEMBER ****************************************************** -->
+
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_STORM_SWORD</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>DefaultMelee</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_STORM_SWORD</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_U_STORM_SWORD</UnitMemberInfoType>
+			<NumMembers>12</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_U_STORM_SWORD</Type>
+			<Scale>0.140000000596046</Scale>
+			<Model>Factions/Stormlands/Art/StormSword_Stormlands.fxsxml</Model>
+			<MaterialTypeTag>ARMOR</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>ARMOR</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_STORM_SWORD</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
+			<ShortMoveRadius>12.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TargetHeight>8.0</TargetHeight>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>1</ReformBeforeCombat>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_STORM_SWORD</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>METAL</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SWORD</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_STORM_SWORD</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_STORM_SWORD</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Legion.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
 
 	<Language_en_US>
-		<Row Tag="TXT_KEY_UNIT_STORMLANDSPLACEHOLDER1">
-			<Text>StormlandsPlaceholder1</Text>
+		<Row Tag="TXT_KEY_UNIT_STORM_SWORD">
+			<Text>Storm Sword</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIV5_STORMLANDSPLACEHOLDER1_TEXT">
+		<Row Tag="TXT_KEY_CIV5_STORM_SWORD_TEXT">
 			<Text>
-				The botter is an old The Stormlandser type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]StormlandsPlaceholder1s mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the StormlandsPlaceholder2 was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of The Stormlandser fish is the country of Italy
+				The Storm Sword is an old Stormlander type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]Unsullieds mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the MeereenPlaceholder2 was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Meereenese fish is the country of Italy
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_UNIT_STORMLANDSPLACEHOLDER1_STRATEGY">
-			<Text>The StormlandsPlaceholder1 is the The Stormlandser unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game StormlandsPlaceholder2, providing additional [ICON_GOLD] Gold.</Text>
+		<Row Tag="TXT_KEY_UNIT_STORM_SWORD_STRATEGY">
+			<Text>The Storm Sword is one of the two Westerlander unique units, replacing the Longswordsman. Formidable sword unit which holds itself against other meelee units as well. Excellent for creating a buffer around your cities.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_UNIT_HELP_STORMLANDSPLACEHOLDER1">
-			<Text>Replaces the Work Boat. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the The Stormlandsers may build this unit.</Text>
+		<Row Tag="TXT_KEY_UNIT_HELP_STORM_SWORD">
+			<Text>Stronger and more expensive than the Storm Sword it replaces. The unit has an additional bonus when defending.</Text>
 		</Row>
 	</Language_en_US>
 </GameData>

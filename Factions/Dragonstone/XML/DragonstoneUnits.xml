@@ -1,83 +1,352 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by ModBuddy on 2/11/2021 10:53:47 PM -->
+<!-- Created by ModBuddy on 2/11/2021 11:47:28 PM -->
 <GameData>
 	<Units>
 		<Row>
+			<Class>UNITCLASS_KNIGHT</Class>
 			<Type>UNIT_ONION_KNIGHT</Type>
+			<PrereqTech>TECH_CHIVALRY</PrereqTech>
+			<Combat>18</Combat>
+			<Cost>120</Cost>
+			<Moves>5</Moves>
+			<CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_FAST_ATTACK</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_ONION_KNIGHT</Description>
-			<Civilopedia>TXT_KEY_CIV5_ONION_KNIGHT_TEXT</Civilopedia>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_ONION_KNIGHT_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_UNIT_ONION_KNIGHT_STRATEGY</Strategy>
 			<Help>TXT_KEY_UNIT_HELP_ONION_KNIGHT</Help>
-			<Cost>80</Cost>
-			<Moves>4</Moves>
-			<Class>UNITCLASS_WORKBOAT</Class>
-			<Domain>DOMAIN_SEA</Domain>
-			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_LOW</CivilianAttackPriority>
-			<DefaultUnitAI>UNITAI_WORKER_SEA</DefaultUnitAI>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
-			<PrereqResources>true</PrereqResources>
-			<Mechanized>true</Mechanized>
-			<PrereqTech>TECH_SAILING</PrereqTech>
-			<AdvancedStartCost>10</AdvancedStartCost>
-			<WorkRate>100</WorkRate>
-			<UnitArtInfo>ART_DEF_UNIT_WORKBOAT</UnitArtInfo>
-			<UnitArtInfoEraVariation>1</UnitArtInfoEraVariation>
-			<MoveRate>WOODEN_BOAT</MoveRate>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_MILITARY_SCIENCE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_CAVALRY</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>25</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_ONION_KNIGHT</UnitArtInfo>
+			<IconAtlas>DRAGONSTONE_ATLAS</IconAtlas>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
 			<PortraitIndex>2</PortraitIndex>
-			<IconAtlas>DRAGONSTONE_ATLAS</IconAtlas>
+			<MoveRate>QUADRUPED</MoveRate>
 			<UnitFlagAtlas>DRAGONSTONE_ONION_KNIGHT_FLAG</UnitFlagAtlas>
 		</Row>
+		<Row>
+			<Type>UNIT_RED_PRIEST</Type>
+			<Description>TXT_KEY_UNIT_RED_PRIEST</Description>
+			<Civilopedia>TXT_KEY_CIV5_RED_PRIESTS_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_RED_PRIEST_STRATEGY</Strategy>
+			<Combat>5</Combat>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Conscription>1</Conscription>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<BaseSightRange>2</BaseSightRange>
+			<Class>UNITCLASS_PROPHET</Class>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Capture>UNITCLASS_PROPHET</Capture>
+			<Domain>DOMAIN_LAND</Domain>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<DefaultUnitAI>UNITAI_PROPHET</DefaultUnitAI>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<CombatLimit>0</CombatLimit>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeDamageLevel>-1</NukeDamageLevel>
+			<WorkRate>1</WorkRate>
+			<SpreadReligion>true</SpreadReligion>
+			<ReligionSpreads>4</ReligionSpreads>
+			<ReligiousStrength>1000</ReligiousStrength>
+			<FoundReligion>true</FoundReligion>
+			<UnitArtInfo>ART_DEF_UNIT_RED_PRIEST</UnitArtInfo>
+			<ShowInPedia>1</ShowInPedia>
+			<MoveRate>GREAT_PERSON</MoveRate>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>DRAGONSTONE_ATLAS</IconAtlas>
+			<UnitFlagAtlas>DRAGONSTONE_RED_PRIEST_FLAG</UnitFlagAtlas>
+		</Row>
 	</Units>
-	<!-- Unit_AITypes -->
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_ONION_KNIGHT</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ONION_KNIGHT</UnitType>
+			<UnitAIType>UNITAI_FAST_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UnitAIType>UNITAI_PROPHET</UnitAIType>
+		</Row>
+	</Unit_AITypes>
 	<!-- Unit_Buildings -->
 	<!-- Unit_BuildingClassRequireds -->
 	<!-- Unit_ProductionModifierBuildings -->
 	<Unit_Builds>
 		<Row>
-			<UnitType>UNIT_ONION_KNIGHT</UnitType>
-			<BuildType>BUILD_FISHING_BOATS</BuildType>
-		</Row>
-		<Row>
-			<UnitType>UNIT_ONION_KNIGHT</UnitType>
-			<BuildType>BUILD_OFFSHORE_PLATFORM</BuildType>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<BuildType>BUILD_HOLY_SITE</BuildType>
 		</Row>
 	</Unit_Builds>
-	<!-- Unit_ClassUpgrades -->
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_ONION_KNIGHT</UnitType>
+			<UnitClassType>UNITCLASS_CAVALRY</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
 	<!-- Unit_FreePromotions -->
 	<Unit_Flavors>
 		<Row>
 			<UnitType>UNIT_ONION_KNIGHT</UnitType>
-			<FlavorType>FLAVOR_FOOD</FlavorType>
-			<Flavor>40</Flavor>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>12</Flavor>
 		</Row>
 		<Row>
 			<UnitType>UNIT_ONION_KNIGHT</UnitType>
-			<FlavorType>FLAVOR_CULTURE</FlavorType>
-			<Flavor>20</Flavor>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>4</Flavor>
 		</Row>
 		<Row>
 			<UnitType>UNIT_ONION_KNIGHT</UnitType>
-			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
-			<Flavor>30</Flavor>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>8</Flavor>
 		</Row>
 	</Unit_Flavors>
 	<!-- Unit_GreatPersons -->
-	<!-- Unit_ResourceQuantityRequirements -->
-	<!-- Unit_UniqueNames -->
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_ONION_KNIGHT</UnitType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_THOROS</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_MELISANDRE</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_BERIC</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_KINVARA</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_BENERRO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_EZZELYNO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_MOQORRO</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_ALESTER</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_ZANRUSH</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<UniqueName>TXT_KEY_RED_PRIEST_ARYLLA</UniqueName>
+		</Row>
+	</Unit_UniqueNames>
 	<!-- Unit_YieldFromKills -->
 	<!-- Unit_NotAITypes -->
 	<!-- Unit_ProductionTraits -->
 	<!-- Unit_TechTypes -->
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_ONION_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ONION_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_CITY_PENALTY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ONION_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_CAN_MOVE_AFTER_ATTACKING</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_ONION_KNIGHT</UnitType>
+			<PromotionType>PROMOTION_DEFENSIVE_EMBARKATION</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<PromotionType>PROMOTION_RIVAL_TERRITORY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<PromotionType>PROMOTION_SIGHT_PENALTY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<PromotionType>PROMOTION_WARPRIEST</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_WARPRIEST</Type>
+			<Description>TXT_KEY_PROMOTION_WARPRIEST</Description>
+			<Help>TXT_KEY_PROMOTION_WARPRIEST_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<NearbyEnemyCombatMod>-25</NearbyEnemyCombatMod>
+			<NearbyEnemyCombatRange>1</NearbyEnemyCombatRange>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_WARPRIEST_HELP</PediaEntry>
+		</Row>
+	</UnitPromotions>
 	<!-- UnitPromotions_CivilianUnitType -->
 	<UnitGameplay2DScripts>
 		<Row>
 			<UnitType>UNIT_ONION_KNIGHT</UnitType>
-			<SelectionSound>AS2D_SELECT_TRIREME</SelectionSound>
-			<FirstSelectionSound>AS2D_BIRTH_TRIREME</FirstSelectionSound>
+			<SelectionSound>AS2D_SELECT_KNIGHT</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_KNIGHT</FirstSelectionSound>
+		</Row>
+		<Row>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
+			<SelectionSound>AS2D_BUILD_UNIT</SelectionSound>
+			<FirstSelectionSound>AS2D_BUILD_UNIT</FirstSelectionSound>
 		</Row>
 	</UnitGameplay2DScripts>
+	<!-- RED PRIEST/ONION KNIGHT art_def_member AND NOT MEMBER ****************************************************** -->
+	<ArtDefine_UnitInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_RED_PRIEST</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>Scout</Formation>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_ONION_KNIGHT</Type>
+			<DamageStates>1</DamageStates>
+			<Formation>DefaultCavalry</Formation>
+		</Row>
+	</ArtDefine_UnitInfos>
+	<ArtDefine_UnitInfoMemberInfos>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_RED_PRIEST</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_RED_PRIEST</UnitMemberInfoType>
+			<NumMembers>6</NumMembers>
+		</Row>
+		<Row>
+			<UnitInfoType>ART_DEF_UNIT_ONION_KNIGHT</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_U_ONION_KNIGHT</UnitMemberInfoType>
+			<NumMembers>8</NumMembers>
+		</Row>
+	</ArtDefine_UnitInfoMemberInfos>
+	<ArtDefine_UnitMemberInfos>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_RED_PRIEST</Type>
+			<Scale>0.119999997317791</Scale>
+			<Model>Factions/Dragonstone/Art/RedPriest_Dragonstone.fxsxml</Model>
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<Type>ART_DEF_UNIT_MEMBER_U_ONION_KNIGHT</Type>
+			<Scale>0.119999997317791</Scale>
+			<Model>Factions/Dragonstone/Art/OnionKnight_Dragonstone.fxsxml</Model>
+			<MaterialTypeTag>ARMOR</MaterialTypeTag>
+			<MaterialTypeSoundOverrideTag>ARMOR</MaterialTypeSoundOverrideTag>
+		</Row>
+	</ArtDefine_UnitMemberInfos>
+	<ArtDefine_UnitMemberCombats>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_RED_PRIEST_FEMALE</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
+			<ShortMoveRadius>12.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TargetHeight>8.0</TargetHeight>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>1</ReformBeforeCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_RED_PRIEST_MALE</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
+			<ShortMoveRadius>12.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TargetHeight>8.0</TargetHeight>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>1</ReformBeforeCombat>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_ONION_KNIGHT</UnitMemberType>
+			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk</EnableActions>
+			<ShortMoveRadius>24.0</ShortMoveRadius>
+			<ShortMoveRate>0.349999994039536</ShortMoveRate>
+			<TurnRateMin>0.5</TurnRateMin>
+			<TurnRateMax>0.75</TurnRateMax>
+			<TurnFacingRateMin>15.0</TurnFacingRateMin>
+			<TurnFacingRateMax>20.0</TurnFacingRateMax>
+			<TargetHeight>12.0</TargetHeight>
+			<HasStationaryMelee>1</HasStationaryMelee>
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+			<ReformBeforeCombat>2</ReformBeforeCombat>
+			<OnlyTurnInMovementActions>1</OnlyTurnInMovementActions>
+			<RushAttackFormation>DefaultCavalry</RushAttackFormation>
+		</Row>
+	</ArtDefine_UnitMemberCombats>
+	<ArtDefine_UnitMemberCombatWeapons>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_RED_PRIEST</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>BLUNT</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SPEAR</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_RED_PRIEST</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_ONION_KNIGHT</UnitMemberType>
+			<Index>0</Index>
+			<SubIndex>0</SubIndex>
+			<WeaponTypeTag>METAL</WeaponTypeTag>
+			<WeaponTypeSoundOverrideTag>SWORD</WeaponTypeSoundOverrideTag>
+		</Row>
+		<Row>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_U_ONION_KNIGHT</UnitMemberType>
+			<Index>1</Index>
+			<SubIndex>0</SubIndex>
+			<VisKillStrengthMin>10.0</VisKillStrengthMin>
+			<VisKillStrengthMax>20.0</VisKillStrengthMax>
+			<WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+			<MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+		</Row>
+	</ArtDefine_UnitMemberCombatWeapons>
+	<ArtDefine_StrategicView>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_RED_PRIEST</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Scout.dds</Asset>
+		</Row>
+		<Row>
+			<StrategicViewType>ART_DEF_UNIT_ONION_KNIGHT</StrategicViewType>
+			<TileType>Unit</TileType>
+			<Asset>SV_Knight.dds</Asset>
+		</Row>
+	</ArtDefine_StrategicView>
 
 	<Language_en_US>
 		<Row Tag="TXT_KEY_UNIT_ONION_KNIGHT">
@@ -85,14 +354,59 @@
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_ONION_KNIGHT_TEXT">
 			<Text>
-				The botter is an old Dragonstone type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]Onion Knights mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the Red Priest was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Dragonstone fish is the country of Italy
+				The Onion Knight is an old Northern type of fishing vessel with a flat to slightly V-shaped surface. It features a neatly protruding keel and angular bilges that merge into convex outward sides. They were traditional wooden ships, used to provide food for the inhabitants of the island.[NEWLINE][NEWLINE]Onion Knights mainly fished in the former Zuiderzee, an inland sea within The Netherlands. They were also used for inshore fishing in the North Sea. The botter originated in the 2nd half of the 18th century. There is evidence of a relationship with the older Dutch designs Tochtschuit and the Zeeuwswaterschip.[NEWLINE][NEWLINE]Later, in the 20th century, they were replaced by so-called Kotters. These new metal ships originated from the traditional design of the botter, but are larger and have way more cargo load. The amounts of fish these ships able to bring ashore resulted in a surplus of the resource. When the Bolton Infantry was build in the 60s, and due the reclaim of land around the island, it was made possible to trade fish with the rest of The Netherlands and the rest of Europe. Factoid: the biggest importer of Norther fish is the country of Italy
 			</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_ONION_KNIGHT_STRATEGY">
-			<Text>The Onion Knight is the Dragonstone unique unit, replacing the Work Boat. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game Red Priest, providing additional [ICON_GOLD] Gold.</Text>
+			<Text>The Onion Knight is a Northern unique unit, replacing the Knight. Perfect for boosting your early [ICON_CULTURE] Culture and [ICON_PRODUCTION] Production output. Reaches its full potential when combined with the late-game Bolton Infantry, providing additional [ICON_GOLD] Gold.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_ONION_KNIGHT">
-			<Text>Replaces the Work Boat. Besides [ICON_FOOD] Food, it provides +1 [ICON_CULTURE] Culture from each worked Sea Resource. Only the Dragonstones may build this unit.</Text>
+			<Text>Replaces the Knight. Excellent scout unit. The Onion Knight is also more resistant on water. Only the Northmen may build this unit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RED_PRIEST">
+			<Text>Red Priest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RED_PRIESTS_TEXT">
+			<Text>In the context of Mississippian Culture, a Red Priest was a chief that dressed as a diety.  Chiefs often claimed to be decsendants of gods and it is plausible the dress was to credit these claims.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RED_PRIEST_STRATEGY">
+			<Text>The Red Priest is the Dragonstoner unique Great Prophet. On top of normal Prohpet abilities, the Red Priest reduces the [ICON_STRENGTH] Combat Strength of adjacent enemy units by 25%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RED_PRIEST">
+			<Text>Wrath of the Sun God</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_RED_PRIEST_HELP">
+			<Text>Enemy units receive -25% [ICON_STRENGTH] Combat Strength when adjacent to any unit with this promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_THOROS">
+			<Text>Thoros of Myr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_MELISANDRE">
+			<Text>Lady Melisandre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_BERIC">
+			<Text>Beric Dondarrion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_KINVARA">
+			<Text>Lady Kinvara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_BENERRO">
+			<Text>High Priest Benerro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_EZZELYNO">
+			<Text>Ezzelyno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_MOQORRO">
+			<Text>Moqorro "The Black Flame"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_ALESTER">
+			<Text>Alester Sarwyck</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_ZANRUSH">
+			<Text>Zanrush</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RED_PRIEST_ARYLLA">
+			<Text>Lady Arylla</Text>
 		</Row>
 	</Language_en_US>
 </GameData>

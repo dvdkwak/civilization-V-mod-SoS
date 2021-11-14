@@ -35,7 +35,7 @@
 			<Class>UNITCLASS_PIKEMAN</Class>
 			<Type>UNIT_BOLTON_INFANTRY</Type>
 			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
-			<Combat>10</Combat>
+			<Combat>16</Combat>
 			<Cost>90</Cost>
 			<Moves>2</Moves>
 			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
@@ -234,7 +234,7 @@
 			<FirstSelectionSound>AS2D_BIRTH_PIKEMAN</FirstSelectionSound>
 		</Row>
 	</UnitGameplay2DScripts>
-	<!-- Bolton Infantry art_def_member EN NIET MEMBER ****************************************************** -->
+	<!-- Bolton Infantry/White Harbor Knight art_def_member EN NIET MEMBER ****************************************************** -->
 	<ArtDefine_UnitInfos>
 		<Row>
 			<Type>ART_DEF_UNIT_BOLTON_INFANTRY</Type>

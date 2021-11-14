@@ -108,9 +108,9 @@
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>WESTERLANDS_WESTERLANDSPLACEHOLDER1_FLAG</Atlas>
+			<Atlas>WESTERLANDS_RED_CLOAK_FLAG</Atlas>
 			<IconSize>32</IconSize>
-			<Filename>WesterlandsPlaceholder1Flag.dds</Filename>
+			<Filename>WesterlandsRedCloakFlag.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>

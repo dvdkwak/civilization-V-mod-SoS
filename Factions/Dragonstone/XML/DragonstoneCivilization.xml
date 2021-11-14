@@ -232,8 +232,13 @@
 	<Civilization_UnitClassOverrides>
 		<Row>
 			<CivilizationType>CIVILIZATION_DRAGONSTONE</CivilizationType>
-			<UnitClassType>UNITCLASS_WORKBOAT</UnitClassType>
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
 			<UnitType>UNIT_ONION_KNIGHT</UnitType>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_DRAGONSTONE</CivilizationType>
+			<UnitClassType>UNITCLASS_PROPHET</UnitClassType>
+			<UnitType>UNIT_RED_PRIEST</UnitType>
 		</Row>
 	</Civilization_UnitClassOverrides>
 	<Civilization_Start_Along_Ocean>
