@@ -137,7 +137,7 @@
 			<CannotBeChosen>true</CannotBeChosen>
 			<PortraitIndex>59</PortraitIndex>
 			<IconAtlas>ABILITY_ATLAS</IconAtlas>
-			<PediaType>PEDIA_ATTRIBUTES</PediaType>\
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<CombatPercent>10</CombatPercent>
 		</Row>
 		<Row>
